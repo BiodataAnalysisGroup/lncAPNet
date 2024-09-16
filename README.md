@@ -6,4 +6,4 @@ Transcriptomic analyses elucidate complexities in diseases like Chronic Lymphocy
 
 ## Poster
 
-[ECCB2024](https://raw.githubusercontent.com/BiodataAnalysisGroup/lncAPNet/main/Images/ECCB2024_poster.png)
+![ECCB2024](https://raw.githubusercontent.com/BiodataAnalysisGroup/lncAPNet/main/Images/ECCB2024_poster.png)
