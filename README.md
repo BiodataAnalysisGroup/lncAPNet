@@ -8,7 +8,7 @@
 
 ![ECCB2024](https://raw.githubusercontent.com/BiodataAnalysisGroup/lncAPNet/main/Images/ECCB2024_poster.png)
 
-## Steps
+## Framework steps
 
 To run the lncAPNet framework on the ICGC and BCMO datasets with the goal of identifying lncRNAs that act as drivers, follow these steps:
 
@@ -28,9 +28,9 @@ d.Perform **Differential Activity analysis** to highlight lncRNAs and mRNAs that
 <br><br>
 **Match Pathways with Drivers and Use PASNet for Interpretability**
   
-a.Match identified drivers (including lncRNAs and mRNAs) to biological pathways using pathway databases (**Gene Ontology, KEGG, Reactome, Wikipathways*).
+a.Match identified drivers (including lncRNAs and mRNAs) to biological pathways using pathway databases (*Gene Ontology, KEGG, Reactome, Wikipathways*).
 
-b.Run **PASNet** to integrate biological pathway information and train a deep learning model on the ICGC dataset (**70-30 split for training/validation*), and then **test* on the BCMO dataset.
+b.Run **PASNet** to integrate biological pathway information and train a deep learning model on the ICGC dataset (*70-30 split for training/validation*), and then *test* on the BCMO dataset.
 
 c.Utilize **SHAP values** for deep learning explainability, identifying which lncRNAs and pathways are most important in the model’s predictions.
 
