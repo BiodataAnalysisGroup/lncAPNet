@@ -1,62 +1,9 @@
-# repoTemplate - Bioanalytics Repository Template
-This repository contains a template for a reproducible research project. The idea of reproducible research is that all the components of your work, such as the directory of input and output files, and evidently the structure of the analysis scripts, are prespecified. In this way, your work can be easily checked by adviser, mentors, collaborators, others working in your area, and the results can be easily regenerated.
+# lncAPNet
 
+## Abstract
 
-## Folders
-Brief description of the contents of each folder. 
+Transcriptomic analyses elucidate complexities in diseases like Chronic Lymphocytic Leukemia (CLL), revealing specific molecules, cellular traits, and signalling patterns influencing clinical outcomes. The status of the variable region of IGHV in leukemia cells is crucial for classifying CLL cases, providing insights into their clinical condition and prognosis. Patients can be stratified based on the mutational status of the IGHV genes, with mutated CLL (M-CLL) exhibiting a more indolent course than the more aggressive unmutated CLL (U-CLL) cases. Long non-coding RNAs (lncRNAs) play diverse roles in cancer but are often overlooked due to limitations in computational approaches. To address this, we propose lncAPNet [long non-coding Activity PASNet], a biologically informed Deep Learning model-based framework for supervised patient classification, instructed by lncRNA-mRNA-pathways interactions with eXplainable Artificial Intelligence (XAI) read-outs. This pipeline utilizes NetBID2 for network-based integration of omics data, and PASNet [Pathway Associated Sparse deep neural Network] for the deep learning analysis, further building on lncrnalyzer and EnrichR knowledge graphs as input for the biological priors. Complementing these, we deploy custom code integrating SHAP and heatmaps for interpretability, by combining a bespoke graph architecture representing lncRNA-mRNA-pathway interactions, facilitating a comprehensive analysis of regulatory mechanisms. The proposed framework is being tested by applying it into two extensive CLL transcriptomic datasets; data from ICGC-CLLES project (257 samples) are used as the training dataset, with the produced model validated on the BloodCancerMultiOmics2017 dataset (113 samples). Preliminary results showed that U-CLL cases are easily differentiated from M-CLL cases as expected, additionally revealing both biological ground-truth pathways, as well as insofar unknown but potential prognostic lncRNAs in disease.
 
-- `input/`
-  - This folder should contain all the necessary inputs of your project.
-  - The later includes the files that contain the input data (could be organized in subfolders). The files should be given appropriate names that correspond to their usage. The term input data refers to the the constant/reference data necessary to run the project, as well as, example data used to produce the example output files inside the `output` folder.
-  - This folder should also include a `README.md` file describing the format and type of the input data, as well as, the script that utilizes them.
-- `output/`
-  - In this folder should be placed all the outputs of your project, produced using the `input` data. The outputs should be named appropriately.
-  - If the project produces more than a few files, they should be organized in subfolders. In case the output files are produced gradually by different scripts, you should consider organizing the subfolders according to the implemented scripts. The names of the subfolders should be the names of the corresponding scripts.
-  - This folder should also include a `README.md` file describing the outputs and listing the values of the input parameters used to produce the example output files.
-- `scripts/`
-  - This folder should contain all the code, organized in scripts. The code should be split in steps and the names of the scripts should follow the [tidyverse style guide](https://style.tidyverse.org/files.html).
-  - It should also include a `README.md` file describing the individual scripts. Their individual inputs, outputs and how they are connected.
-- `docs/`
-  - This folder is optional. It should include markdown documents describing the workflow of the project, along with examples for different user scenarios.
+## Poster
 
-![ECCB2024](https://raw.githubusercontent.com/BiodataAnalysisGroup/lncAPNet/main/Images/ECCB2024_poster.png)
-
-## Getting Started
-
-### Dependencies
-
-- Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-
-### Installing
-
-- How/where to download your program
-- Any modifications needed to be made to files/folders
-
-### Executing program
-
-- How to run the program using the example input data to reproduce the example outputs.
-- Step-by-step commands
-
-```
-code blocks for commands
-```
-
-
-
-## Inputs
-
-* Describe the format and specifications of the input files/data.
-* List of the input parameters, their type, accepted and default values.
-
-
-
-## Outputs
-
-* Describe the output files of the project.
-
-  
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/BiodataAnalysisGroup/bioanalytics/blob/main/LICENSE) file for details
-
+[ECCB2024](https://raw.githubusercontent.com/BiodataAnalysisGroup/lncAPNet/main/Images/ECCB2024_poster.png)
