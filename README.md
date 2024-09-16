@@ -15,21 +15,32 @@ To run the lncAPNet framework on the ICGC and BCMO datasets with the goal of ide
 * **Step1:**
 <br><br>
 **Run SJARACNe/NetBID2 for Network Reconstruction and Differential Activity Analysis**
+
 a.Prepare and preprocess the ICGC and BCMO datasets, focusing on both **mRNA** and **lncRNA** expression data.
+
 b.Use **SJARACNe** to reconstruct **gene regulatory networks (GRNs)**, identifying interactions between mRNAs and lncRNAs.
+
 c.Run **NetBID2** to estimate the activity levels of genes and lncRNAs as **driver molecules**.
+
 d.Perform **Differential Activity analysis** to highlight lncRNAs and mRNAs that are potential drivers influencing key biological pathways, especially focusing on lncRNAs as potential master regulators.
 
 * **Step2:**
 <br><br>
 **Match Pathways with Drivers and Use PASNet for Interpretability**
+  
 a.Match identified drivers (including lncRNAs and mRNAs) to biological pathways using pathway databases (**Gene Ontology, KEGG, Reactome, Wikipathways*).
+
 b.Run **PASNet** to integrate biological pathway information and train a deep learning model on the ICGC dataset (**70-30 split for training/validation*), and then **test* on the BCMO dataset.
+
 c.Utilize **SHAP values** for deep learning explainability, identifying which lncRNAs and pathways are most important in the model’s predictions.
+
 
 * **Step3:**
 <br><br>
 **Post-hoc Network Analysis for Biological Explainability**
+  
 a.Perform a **Post-hoc network analysis** to explore the connections between identified lncRNA/mRNA drivers and their related pathways.
+
 b.Use network visualization tools to map these relationships, focusing on the role of lncRNAs as drivers.
+
 c.Interpret the network to uncover how lncRNAs function as **key regulators** of biological processes.
