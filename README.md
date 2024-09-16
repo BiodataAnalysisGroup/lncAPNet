@@ -19,7 +19,7 @@ Brief description of the contents of each folder.
 - `docs/`
   - This folder is optional. It should include markdown documents describing the workflow of the project, along with examples for different user scenarios.
 
-
+![ECCB2024](https://raw.githubusercontent.com/BiodataAnalysisGroup/lncAPNet/main/Images/ECCB2024_poster.png)
 
 ## Getting Started
 
