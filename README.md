@@ -10,11 +10,11 @@
 
 ## Framework steps
 
-**lncAPNet framework on the [ICGC](https://dcc.icgc.org/) and BCMO datasets aims to identify lncRNAs that act as molecular drivers**
+**lncAPNet framework on the [ICGC](https://dcc.icgc.org/) and [BCMO](https://www.bioconductor.org/packages/release/data/experiment/html/BloodCancerMultiOmics2017.html) datasets aims to identify lncRNAs that act as molecular drivers**
 
 * **Step1:**
 <br><br>
-**Run SJARACNe/NetBID2 for Network Reconstruction and Differential Activity Analysis**
+**Run [SJARACNe](https://github.com/jyyulab/SJARACNe)/[NetBID2](https://jyyulab.github.io/NetBID/) for Network Reconstruction and Differential Activity Analysis**
 
 **a.** Prepare and preprocess the ICGC and BCMO datasets, focusing on both **mRNA** and **lncRNA** expression data.
 
@@ -28,11 +28,11 @@
 <br><br>
 **Match Pathways with Drivers and Use PASNet for Interpretability**
   
-**a.** Match identified drivers (including lncRNAs and mRNAs) to biological pathways using pathway databases (***Gene Ontology, KEGG, Reactome, Wikipathways***).
+**a.** Match identified drivers (including lncRNAs and mRNAs) to biological pathways using pathway databases [EnrichR-KG](https://maayanlab.cloud/enrichr-kg), [lncRNAlyzr](https://github.com/MaayanLab/lncRNAlyzr) (***Gene Ontology, KEGG, Reactome, Wikipathways***).
 
-**b.** Run **PASNet** to integrate biological pathway information and train a deep learning model on the ICGC dataset (***70-30 split for training/validation***), and then *test* on the BCMO dataset.
+**b.** Run **[PASNet](https://github.com/DataX-JieHao/PASNet)** to integrate biological pathway information and train a deep learning model on the ICGC dataset (***70-30 split for training/validation***), and then *test* on the BCMO dataset.
 
-**c.** Utilize **SHAP values** for deep learning explainability, identifying which lncRNAs and pathways are most important in the model’s predictions.
+**c.** Utilize **[SHAP values](https://github.com/shap/shap)** for deep learning explainability, identifying which lncRNAs and pathways are most important in the model’s predictions.
 
 
 * **Step3:**
