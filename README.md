@@ -10,7 +10,7 @@
 
 ## Framework steps
 
-**lncAPNet framework on the ICGC and BCMO datasets aims to identify lncRNAs that act as molecular drivers**
+**lncAPNet framework on the [ICGC](https://dcc.icgc.org/) and BCMO datasets aims to identify lncRNAs that act as molecular drivers**
 
 * **Step1:**
 <br><br>
@@ -28,9 +28,9 @@
 <br><br>
 **Match Pathways with Drivers and Use PASNet for Interpretability**
   
-**a.** Match identified drivers (including lncRNAs and mRNAs) to biological pathways using pathway databases (*Gene Ontology, KEGG, Reactome, Wikipathways*).
+**a.** Match identified drivers (including lncRNAs and mRNAs) to biological pathways using pathway databases (***Gene Ontology, KEGG, Reactome, Wikipathways***).
 
-**b.** Run **PASNet** to integrate biological pathway information and train a deep learning model on the ICGC dataset (*70-30 split for training/validation*), and then *test* on the BCMO dataset.
+**b.** Run **PASNet** to integrate biological pathway information and train a deep learning model on the ICGC dataset (***70-30 split for training/validation***), and then *test* on the BCMO dataset.
 
 **c.** Utilize **SHAP values** for deep learning explainability, identifying which lncRNAs and pathways are most important in the model’s predictions.
 
