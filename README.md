@@ -44,3 +44,7 @@
 **b.** Use network visualization tools to map these relationships, focusing on the role of lncRNAs as drivers.
 
 **c.** Interpret the network to uncover how lncRNAs function as **key regulators** of biological processes.
+
+
+* Email Contact
+vasileioubill95@certh.gr
