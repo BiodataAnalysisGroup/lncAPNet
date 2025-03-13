@@ -97,3 +97,12 @@ out2excel(analysis.par$final_ms_tab,out.xlsx = out_file)
 
 # Save Step 4 analysis.par as RData, ESSENTIAL
 NetBID.saveRData(analysis.par=analysis.par,step='ms-tab')
+
+# Save activity matrix
+
+activity <- as.data.frame(exprs(analysis.par$merge.ac.eset))
+ms_tab <- analysis.par$final_ms_tab
+ms_tab <- filter(ms_tab, adj.P.Val.U.Vs.M_DA < 0.05)
+activity <- activity[rownames(activity) %in% ms_tab$originalID_label,]
+
+write.csv(activity, file = "data/BCMO/activity_matrix_pvalfilt.csv")
