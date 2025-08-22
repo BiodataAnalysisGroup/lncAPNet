@@ -1,0 +1,258 @@
+Samples,IGHV,submitted_donor_id,donor_sex,donor_vital_status,disease_status_last_followup,donor_relapse_type,donor_age_at_diagnosis,donor_age_at_enrollment,donor_age_at_last_followup,donor_relapse_interval,donor_tumour_staging_system_at_diagnosis,donor_tumour_stage_at_diagnosis,donor_survival_time,donor_interval_of_last_followup,prior_malignancy,cancer_history_first_degree_relative
+DO223355,M,142,male,alive,complete remission,progression (liquid tumours),43,49,55,1694,BINET,A,4291,4291,,
+DO223356,M,365,male,deceased,,progression (liquid tumours),63,63,69,NA,BINET,B,2223,2223,,
+DO223357,U,384,female,alive,complete remission,progression (liquid tumours),54,54,58,24,BINET,C,1436,1436,,
+DO223361,M,567,male,alive,progression,progression (liquid tumours),72,73,76,718,BINET,A,1661,1661,,
+DO223362,U,595,male,alive,progression,progression (liquid tumours),44,45,48,274,BINET,A,1287,1287,,
+DO223363,M,664,male,alive,progression,progression (liquid tumours),51,53,57,2045,BINET,A,2085,2085,,
+DO223365,M,689,female,alive,stable,,62,69,72,NA,BINET,A,3635,3635,,
+DO223366,U,715,male,alive,progression,progression (liquid tumours),77,80,82,849,BINET,A,1989,1989,,
+DO223367,U,725,female,alive,stable,,79,82,84,NA,BINET,A,2115,2115,,
+DO223370,U,777,male,alive,complete remission,,77,77,80,NA,BINET,C,1055,1055,,
+DO223371,U,812,female,deceased,progression,progression (liquid tumours),59,59,61,656,BINET,A,845,845,,
+DO223372,M,820,female,alive,progression,progression (liquid tumours),68,71,74,1108,BINET,A,2277,2277,,
+DO223374,U,853,male,deceased,partial remission,progression (liquid tumours),47,48,50,272,BINET,A,1032,1032,,
+DO223376,U,854,male,alive,stable,,73,75,75,NA,BINET,A,582,582,,
+DO223377,M,861,male,alive,stable,,43,47,49,NA,BINET,A,2276,2276,,
+DO223379,M,873,female,alive,stable,,62,75,77,NA,BINET,A,5408,5408,,
+DO223381,U,875,female,deceased,progression,progression (liquid tumours),76,86,86,3555,BINET,A,3612,3612,,
+DO223384,M,884,female,alive,stable,,65,69,70,NA,BINET,A,2027,2027,,
+DO223385,U,886,male,alive,stable,,83,90,90,NA,BINET,A,3213,3213,,
+DO223388,U,1059,female,alive,partial remission,progression (liquid tumours),64,67,70,1307,BINET,B,2385,2385,,
+DO223389,U,1062,male,alive,complete remission,progression (liquid tumours),72,72,75,959,BINET,B,1165,1165,,
+DO223390,U,1076,male,alive,complete remission,progression (liquid tumours),34,34,39,41,BINET,B,2023,2023,,
+DO223391,U,1078,female,alive,stable,,55,56,59,NA,BINET,A,1568,1568,,
+DO223392,M,1098,male,alive,stable,,56,61,64,NA,BINET,B,2827,2827,,
+DO223393,M,1161,male,alive,stable,,58,61,64,NA,BINET,A,2215,2215,,
+DO223394,M,1162,male,alive,stable,,51,51,54,NA,BINET,A,1172,1172,,
+DO223396,M,1177,male,alive,stable,,65,65,68,NA,BINET,A,955,955,,
+DO223397,U,1191,female,deceased,progression,progression (liquid tumours),70,76,77,1960,BINET,A,2350,2350,,
+DO223398,U,1192,male,deceased,progression,progression (liquid tumours),71,75,77,1607,BINET,A,2163,2163,,
+DO223399,U,1267,female,alive,stable,,51,51,54,NA,BINET,A,996,996,,
+DO223400,M,1276,female,alive,stable,,55,58,61,NA,BINET,A,2204,2204,,
+DO223401,M,1292,male,alive,stable,,62,68,71,NA,BINET,A,3364,3364,,
+DO223404,M,1323,female,alive,partial remission,progression (liquid tumours),63,65,67,699,BINET,A,1435,1435,,
+DO223408,M,1343,male,alive,stable,,62,63,65,NA,BINET,A,969,969,,
+DO223409,U,1344,male,alive,complete remission,progression (liquid tumours),28,37,39,3356,BINET,A,3881,3881,,
+DO223410,M,1353,female,alive,complete remission,progression (liquid tumours),70,70,78,9,BINET,A,2912,2912,,
+DO223412,M,1360,female,alive,stable,progression (liquid tumours),80,80,82,NA,BINET,B,694,694,,
+DO223413,U,1371,male,alive,complete remission,,63,63,67,NA,BINET,,1388,1388,,
+DO223414,U,1384,male,alive,complete remission,progression (liquid tumours),65,68,70,248,BINET,B,1883,1883,,
+DO223415,U,1386,female,alive,complete remission,,54,54,56,NA,BINET,C,714,714,,
+DO223416,U,1403,female,alive,complete remission,,NA,62,65,NA,BINET,A,NA,NA,,
+DO223417,M,1407,female,alive,stable,,53,53,55,NA,BINET,A,739,739,,
+DO223418,M,1413,female,alive,stable,,55,58,59,NA,BINET,A,1395,1395,,
+DO223419,M,1418,male,alive,stable,,74,79,80,NA,BINET,A,2108,2108,,
+DO223420,M,1423,male,alive,stable,,60,65,66,NA,BINET,A,2197,2197,,
+DO223421,U,1430,male,alive,complete remission,progression (liquid tumours),53,54,55,188,BINET,B,802,802,,
+DO223422,U,1432,female,alive,complete remission,progression (liquid tumours),64,68,69,1216,BINET,A,1707,1707,,
+DO223423,M,1437,male,alive,stable,,59,60,61,NA,BINET,A,571,571,,
+DO223424,M,1441,male,alive,stable,,68,70,71,NA,BINET,A,859,859,,
+DO223426,M,1446,male,alive,complete remission,progression (liquid tumours),74,80,81,2203,BINET,A,2701,2701,,
+DO223427,M,1447,female,alive,stable,progression (liquid tumours),63,63,65,581,BINET,A,686,686,,
+DO223428,U,1448,female,alive,progression,progression (liquid tumours),70,73,74,979,BINET,A,1532,1532,,
+DO223429,M,1452,male,alive,stable,,52,56,57,NA,BINET,A,1628,1628,,
+DO223431,M,1462,male,alive,stable,,68,78,80,3898,BINET,A,4418,4418,,
+DO223432,M,1465,male,alive,stable,,60,60,61,NA,BINET,B,418,418,,
+DO223433,M,1477,female,alive,progression,progression (liquid tumours),60,68,69,1522,BINET,A,3025,3025,,
+DO223438,M,1525,male,alive,complete remission,,48,48,49,NA,BINET,B,266,266,,
+DO223439,U,1533,male,alive,stable,,74,74,75,NA,BINET,A,459,459,,
+DO223440,M,1534,male,alive,progression,progression (liquid tumours),57,70,71,4881,BINET,C,5315,5315,,
+DO223441,M,1535,male,alive,stable,,75,76,77,NA,BINET,A,665,665,,
+DO223442,M,1543,male,alive,stable,,75,76,76,NA,BINET,A,186,186,,
+DO223443,M,1545,male,alive,stable,,87,88,88,NA,BINET,A,204,204,,
+DO51966,M,60,female,deceased,stable,progression (liquid tumours),62,72,77,3586,BINET,A,5281,5281,,
+DO51967,M,283,female,alive,complete remission,progression (liquid tumours),54,58,71,5018,BINET,A,6099,6099,yes,yes
+DO51968,M,291,male,alive,stable,,66,73,76,NA,BINET,A,3681,3681,,
+DO51969,M,353,female,alive,stable,,78,86,88,NA,BINET,A,3808,3808,,
+DO51970,M,447,male,alive,stable,,70,81,84,NA,BINET,A,5229,5229,,
+DO51971,M,510,male,alive,stable,,67,76,78,NA,BINET,A,4316,4316,,
+DO51972,M,561,male,deceased,stable,,69,87,89,NA,BINET,A,7374,7374,,
+DO51973,M,565,male,alive,stable,,64,69,72,NA,BINET,A,2877,2877,,
+DO51975,M,578,male,alive,complete remission,progression (liquid tumours),71,74,76,843,BINET,A,1911,1911,,
+DO51976,M,580,female,alive,stable,,64,65,69,NA,BINET,A,1961,1961,,
+DO51977,M,584,male,alive,stable,,77,81,84,NA,BINET,A,2628,2628,,
+DO51978,M,585,female,alive,stable,,86,90,90,NA,BINET,A,2495,2495,,
+DO51979,M,588,male,alive,stable,,65,65,65,NA,BINET,A,21,21,,
+DO51980,M,596,female,alive,stable,,57,59,62,NA,BINET,A,1969,1969,,
+DO51981,M,626,female,alive,stable,,48,55,58,NA,BINET,A,3778,3778,,
+DO51983,M,754,male,alive,stable,,73,78,82,NA,BINET,A,3157,3157,,
+DO51984,M,763,male,alive,stable,,61,66,68,NA,BINET,A,2670,2670,,
+DO51985,M,766,male,alive,stable,,43,45,48,NA,BINET,A,1750,1750,,
+DO51986,M,767,female,alive,stable,,64,70,74,NA,BINET,A,3702,3702,,
+DO51987,M,769,female,alive,progression,progression (liquid tumours),40,46,49,1054,BINET,A,3115,3115,,
+DO51988,M,773,male,alive,stable,,63,64,67,NA,BINET,A,1572,1572,,
+DO51989,M,776,female,alive,complete remission,progression (liquid tumours),61,64,66,895,BINET,A,1931,1931,unknown,unknown
+DO51990,M,778,male,alive,progression,progression (liquid tumours),67,67,71,1129,BINET,A,1449,1449,,
+DO51991,M,780,male,alive,stable,,60,69,72,NA,BINET,A,4529,4529,,
+DO51992,M,783,female,alive,complete remission,progression (liquid tumours),42,53,56,3682,BINET,A,4788,4788,unknown,unknown
+DO51993,M,784,female,alive,partial remission,progression (liquid tumours),70,72,75,1491,BINET,A,1784,1784,,
+DO51994,M,788,male,alive,stable,,58,59,62,NA,BINET,A,1526,1526,,
+DO51995,M,794,female,alive,stable,,73,80,82,NA,BINET,A,3418,3418,,
+DO51996,M,800,female,alive,stable,,72,84,86,NA,BINET,A,5211,5211,,
+DO51998,M,801,female,alive,stable,,71,75,75,NA,BINET,A,1463,1463,,
+DO52000,M,805,female,alive,progression,progression (liquid tumours),66,72,75,2156,BINET,A,3196,3196,,
+DO52002,M,811,male,alive,stable,,85,85,88,NA,BINET,A,1238,1238,,
+DO52003,M,814,female,alive,stable,,62,70,72,NA,BINET,A,3801,3801,,
+DO52006,M,821,male,alive,complete remission,progression (liquid tumours),63,64,67,1205,BINET,A,1414,1414,,
+DO52007,M,841,female,alive,stable,,65,67,70,NA,BINET,A,1704,1704,,
+DO52008,M,842,male,alive,stable,,59,61,64,NA,BINET,A,1828,1828,,
+DO52013,M,857,male,alive,stable,,54,55,58,NA,BINET,A,1502,1502,,
+DO52014,M,859,male,alive,stable,,37,51,52,NA,BINET,A,5304,5304,,
+DO52016,M,878,male,alive,partial remission,progression (liquid tumours),63,63,66,919,BINET,A,1163,1163,,
+DO52017,M,880,male,alive,stable,,66,76,78,NA,BINET,A,4320,4320,,
+DO52697,M,885,male,alive,stable,,61,64,66,NA,BINET,A,1719,1719,,
+DO52698,U,58,male,alive,complete remission,progression (liquid tumours),49,49,55,95,BINET,B,2018,2018,unknown,unknown
+DO52699,M,84,male,alive,stable,progression (liquid tumours),65,76,82,3989,BINET,A,6277,6277,no,yes
+DO52700,M,115,male,alive,stable,progression (liquid tumours),62,71,81,3383,BINET,A,7174,7174,no,yes
+DO52701,M,122,male,alive,complete remission,progression (liquid tumours),57,60,73,1356,BINET,A,5908,5908,no,unknown
+DO52702,U,134,male,alive,complete remission,progression (liquid tumours),68,71,82,1157,BINET,C,5315,5315,no,yes
+DO52703,U,139,male,alive,progression,progression (liquid tumours),63,67,75,1715,BINET,A,4429,4429,yes,yes
+DO52704,M,151,male,deceased,stable,,71,72,75,NA,BINET,A,1455,1455,unknown,unknown
+DO52705,U,176,male,deceased,partial remission,progression (liquid tumours),75,81,82,1943,BINET,A,2227,2227,no,yes
+DO52706,U,177,female,alive,complete remission,progression (liquid tumours),75,78,80,1678,BINET,A,1914,1914,unknown,unknown
+DO52707,M,179,male,alive,progression,progression (liquid tumours),72,77,85,2705,BINET,A,4743,4743,no,yes
+DO52708,M,199,male,alive,partial remission,progression (liquid tumours),75,75,81,0,BINET,C,2127,2127,no,yes
+DO52710,U,296,male,deceased,progression,progression (liquid tumours),86,88,90,525,BINET,A,1177,1177,no,unknown
+DO52711,M,343,male,deceased,stable,,60,66,67,NA,BINET,A,2698,2698,no,yes
+DO52713,M,473,female,alive,stable,,50,71,75,NA,BINET,A,9075,9075,no,yes
+DO52715,M,564,male,alive,complete remission,progression (liquid tumours),56,66,69,3713,BINET,A,4762,4762,unknown,unknown
+DO52716,U,577,female,alive,complete remission,progression (liquid tumours),61,62,65,126,BINET,A,1310,1310,unknown,unknown
+DO52717,M,594,female,deceased,progression,progression (liquid tumours),71,77,78,2201,BINET,A,2373,2373,unknown,unknown
+DO52718,M,628,male,alive,stable,,40,41,49,945,BINET,A,3087,3087,no,yes
+DO52722,U,802,female,alive,,progression (liquid tumours),82,86,86,1639,BINET,A,1729,1729,unknown,unknown
+DO52723,M,804,male,alive,complete remission,progression (liquid tumours),58,61,65,1187,BINET,A,2429,2429,no,yes
+DO6352,M,3,male,alive,complete remission,progression (liquid tumours),45,46,60,0,BINET,C,5327,5327,unknown,unknown
+DO6353,M,4,female,alive,progression,progression (liquid tumours),41,45,54,1407,BINET,A,4452,4452,no,yes
+DO6354,U,5,male,alive,complete remission,progression (liquid tumours),46,50,58,1387,BINET,A,4473,4473,no,yes
+DO6356,M,7,male,alive,stable,progression (liquid tumours),37,46,57,4419,BINET,A,7206,7206,,
+DO6358,U,8,male,alive,stable,progression (liquid tumours),59,59,68,NA,BINET,B,3297,3297,,
+DO6360,U,9,male,deceased,progression,progression (liquid tumours),49,52,62,1176,BINET,A,4684,4684,yes,yes
+DO6362,U,10,male,,complete remission,progression (liquid tumours),70,71,73,182,BINET,B,1178,1178,no,unknown
+DO6364,U,12,female,alive,progression,progression (liquid tumours),59,65,74,2223,BINET,A,5535,5535,no,yes
+DO6368,U,15,male,alive,complete remission,progression (liquid tumours),55,55,68,690,BINET,A,4706,4706,no,yes
+DO6370,U,16,male,alive,partial remission,progression (liquid tumours),59,65,78,2396,BINET,A,6965,6965,no,yes
+DO6372,U,17,male,alive,complete remission,progression (liquid tumours),58,60,75,1097,BINET,A,6060,6060,,
+DO6374,M,18,male,deceased,progression,progression (liquid tumours),72,73,74,605,BINET,A,880,880,,
+DO6376,M,19,male,alive,complete remission,progression (liquid tumours),70,72,81,1253,BINET,A,4004,4004,,
+DO6382,U,23,male,alive,partial remission,progression (liquid tumours),57,58,68,140,BINET,A,3929,3929,no,yes
+DO6386,U,25,female,alive,partial remission,progression (liquid tumours),66,66,75,219,BINET,A,3280,3280,no,yes
+DO6388,U,26,male,deceased,stable,progression (liquid tumours),47,47,56,721,BINET,A,3158,3158,no,yes
+DO6390,U,27,male,deceased,progression,progression (liquid tumours),58,60,71,796,BINET,A,4731,4731,no,yes
+DO6392,M,29,female,alive,partial remission,progression (liquid tumours),71,71,77,63,BINET,A,2400,2400,,
+DO6394,U,30,male,deceased,progression,progression (liquid tumours),64,66,71,545,BINET,A,2611,2611,no,yes
+DO6396,M,32,male,deceased,stable,,76,79,82,NA,BINET,A,2363,2363,unknown,unknown
+DO6402,M,39,male,alive,complete remission,progression (liquid tumours),58,58,67,1220,BINET,A,3144,3144,no,yes
+DO6404,M,40,female,alive,complete remission,progression (liquid tumours),52,55,64,612,BINET,A,4308,4308,,
+DO6406,M,41,male,deceased,progression,progression (liquid tumours),51,55,56,1631,BINET,A,1754,1754,,
+DO6410,U,44,male,deceased,progression,progression (liquid tumours),53,53,60,385,BINET,A,2653,2653,no,yes
+DO6418,U,48,male,deceased,progression,progression (liquid tumours),62,63,67,504,BINET,A,2057,2057,no,yes
+DO6420,U,49,female,alive,complete remission,progression (liquid tumours),59,66,72,3312,BINET,A,4591,4591,,
+DO6422,M,51,male,alive,stable,,60,72,77,NA,BINET,A,6530,6530,,
+DO6424,U,52,male,alive,stable,progression (liquid tumours),73,79,83,3023,BINET,A,3780,3780,,
+DO6426,U,53,male,alive,progression,progression (liquid tumours),56,65,70,3620,BINET,A,5144,5144,,
+DO6428,U,56,female,deceased,relapse,progression (liquid tumours),78,82,84,1626,BINET,A,2483,2483,unknown,unknown
+DO6430,U,63,male,deceased,progression,progression (liquid tumours),52,53,62,202,BINET,A,3650,3650,no,yes
+DO6432,M,64,male,alive,complete remission,progression (liquid tumours),65,70,75,2006,BINET,A,3787,3787,no,yes
+DO6434,U,82,female,deceased,partial remission,progression (liquid tumours),45,46,54,303,BINET,A,3407,3407,no,yes
+DO6438,M,90,female,alive,progression,progression (liquid tumours),57,57,69,539,BINET,A,4277,4277,no,yes
+DO6440,U,100,male,alive,complete remission,progression (liquid tumours),50,50,61,2,BINET,A,4327,4327,,
+DO6444,M,110,female,alive,stable,,66,73,78,NA,BINET,A,4592,4592,,
+DO6448,M,124,male,alive,stable,,62,70,74,NA,BINET,A,4060,4060,,
+DO6450,U,128,male,alive,progression,progression (liquid tumours),45,51,57,2223,BINET,A,4450,4450,no,unknown
+DO6452,M,131,male,alive,stable,,67,86,90,NA,BINET,A,8429,8429,,
+DO6454,M,136,male,alive,stable,,46,65,69,NA,BINET,A,8611,8611,,
+DO6456,U,138,female,deceased,progression,progression (liquid tumours),76,80,85,1411,BINET,A,3246,3246,unknown,unknown
+DO6460,M,146,male,alive,stable,,41,49,53,NA,BINET,A,4421,4421,,
+DO6466,U,155,female,deceased,progression,progression (liquid tumours),73,82,84,3336,BINET,A,4145,4145,,
+DO6468,M,156,male,alive,complete remission,progression (liquid tumours),44,44,49,237,BINET,A,1835,1835,,
+DO6470,U,157,male,alive,partial remission,progression (liquid tumours),69,69,74,0,BINET,B,1630,1630,unknown,unknown
+DO6472,M,159,male,alive,progression,progression (liquid tumours),66,78,82,5124,BINET,A,6112,6112,,
+DO6474,U,166,male,alive,progression,progression (liquid tumours),66,71,73,1596,BINET,A,2596,2596,no,yes
+DO6476,M,168,male,alive,stable,,53,66,70,NA,BINET,A,6524,6524,,
+DO6478,M,170,male,alive,stable,,60,74,78,NA,BINET,A,6777,6777,,
+DO6480,M,171,female,alive,stable,,60,78,83,NA,BINET,A,8579,8579,,
+DO6482,M,172,female,alive,stable,,62,79,83,NA,BINET,A,7686,7686,,
+DO6484,M,173,male,alive,stable,progression (liquid tumours),48,59,64,1392,BINET,A,5537,5537,,
+DO6486,M,174,female,alive,stable,,71,78,83,NA,BINET,A,4595,4595,,
+DO6488,M,175,male,alive,stable,,69,78,82,NA,BINET,A,4764,4764,,
+DO6492,M,181,male,alive,complete remission,progression (liquid tumours),49,54,59,1900,BINET,A,3475,3475,no,yes
+DO6494,U,182,male,deceased,progression,progression (liquid tumours),73,75,77,1219,BINET,A,1317,1317,,
+DO6498,M,185,male,alive,stable,,67,72,76,NA,BINET,A,3597,3597,,
+DO6501,U,186,male,alive,stable,progression (liquid tumours),65,87,90,8533,BINET,A,9663,9663,,
+DO6504,U,188,male,deceased,progression,progression (liquid tumours),68,74,75,2291,BINET,A,2543,2543,no,unknown
+DO6507,M,189,female,alive,stable,,71,75,80,NA,BINET,A,3343,3343,,
+DO6510,M,191,male,alive,stable,,58,70,74,NA,BINET,A,5819,5819,,
+DO6513,M,192,female,alive,complete remission,progression (liquid tumours),73,73,78,58,BINET,A,1807,1807,unknown,unknown
+DO6516,M,193,female,alive,stable,,45,50,54,NA,BINET,A,3276,3276,,
+DO6519,M,194,female,alive,stable,,69,89,90,NA,BINET,A,8405,8405,,
+DO6522,U,195,male,alive,complete remission,progression (liquid tumours),70,75,80,2314,BINET,A,3658,3658,,
+DO6525,M,197,female,alive,stable,,67,71,76,NA,BINET,A,3263,3263,,
+DO6528,M,264,male,alive,partial remission,progression (liquid tumours),71,73,77,1341,BINET,A,2402,2402,,
+DO6531,M,267,female,alive,stable,,71,81,85,NA,BINET,A,5034,5034,,
+DO6534,U,270,male,alive,progression,progression (liquid tumours),70,74,78,2219,BINET,A,2930,2930,,
+DO6540,M,274,male,alive,complete remission,progression (liquid tumours),64,72,77,3492,BINET,A,4692,4692,,
+DO6546,M,276,male,alive,stable,,61,65,69,NA,BINET,A,2893,2893,,
+DO6552,U,278,male,deceased,progression,progression (liquid tumours),61,67,68,2374,BINET,A,2414,2414,no,unknown
+DO6555,M,280,female,alive,stable,,68,80,84,NA,BINET,A,5871,5871,,
+DO6558,U,282,female,deceased,stable,,86,87,89,NA,BINET,A,1037,1037,unknown,unknown
+DO6561,U,290,female,deceased,progression,progression (liquid tumours),63,63,65,140,BINET,A,686,686,unknown,unknown
+DO6565,U,294,male,deceased,progression,progression (liquid tumours),65,66,68,596,BINET,A,1001,1001,no,yes
+DO6580,U,306,male,deceased,complete remission,progression (liquid tumours),61,61,64,0,BINET,B,1153,1153,no,yes
+DO6605,U,316,male,alive,stable,progression (liquid tumours),78,81,86,888,BINET,A,2898,2898,,
+DO6615,M,319,male,alive,stable,,75,81,85,NA,BINET,A,3880,3880,,
+DO6620,M,322,male,alive,stable,,51,62,66,NA,BINET,A,5465,5465,,
+DO6625,M,323,female,alive,stable,,69,69,73,NA,BINET,A,1393,1393,,
+DO6630,M,324,female,alive,stable,,74,79,83,NA,BINET,A,3241,3241,,
+DO6635,U,325,female,alive,stable,,72,72,76,NA,BINET,A,1553,1553,,
+DO6640,U,326,female,deceased,partial remission,progression (liquid tumours),69,77,78,2740,BINET,A,3260,3260,,
+DO6665,M,342,male,alive,complete remission,progression (liquid tumours),61,65,69,2492,BINET,A,2963,2963,yes,yes
+DO6680,U,350,male,alive,partial remission,progression (liquid tumours),44,46,50,1625,BINET,B,2262,2262,,
+DO6690,U,358,male,deceased,stable,progression (liquid tumours),80,80,80,8,BINET,C,94,94,unknown,unknown
+DO6695,U,371,female,alive,stable,progression (liquid tumours),82,85,89,1931,BINET,A,2659,2659,unknown,unknown
+DO6700,M,373,female,alive,stable,,63,70,74,NA,BINET,A,4119,4119,,
+DO6730,M,618,male,alive,stable,,67,69,74,NA,BINET,A,2604,2604,no,unknown
+DO6736,U,680,male,deceased,complete remission,progression (liquid tumours),54,56,66,796,BINET,A,4222,4222,,
+DO6742,U,723,male,alive,progression,progression (liquid tumours),62,67,76,1661,BINET,A,5042,5042,unknown,unknown
+DO6748,U,761,male,alive,complete remission,progression (liquid tumours),66,71,76,1706,BINET,A,3572,3572,no,yes
+DO6760,M,815,male,alive,stable,progression (liquid tumours),57,65,74,4290,BINET,A,6319,6319,,
+DO6940,U,145,male,deceased,progression,progression (liquid tumours),75,79,79,1393,BINET,A,1438,1438,unknown,unknown
+DO6952,M,165,female,alive,stable,,56,59,63,NA,BINET,A,2630,2630,,
+DO6994,M,642,female,alive,complete remission,progression (liquid tumours),51,54,63,2212,BINET,A,4326,4326,,
+DO7018,M,125,male,alive,stable,,60,60,64,NA,BINET,A,1288,1288,no,yes
+DO7024,M,137,male,alive,stable,progression (liquid tumours),50,72,76,6656,BINET,A,9403,9403,no,yes
+DO7084,U,356,male,deceased,progression,progression (liquid tumours),60,65,65,1789,BINET,A,1865,1865,unknown,unknown
+DO7108,M,367,male,alive,stable,,63,64,68,NA,BINET,A,1868,1868,no,yes
+DO7112,M,372,male,alive,stable,progression (liquid tumours),78,83,87,2961,BINET,A,3150,3150,no,unknown
+DO7118,M,381,male,deceased,progression,progression (liquid tumours),66,68,71,833,BINET,A,1781,1781,,
+DO7124,U,386,male,deceased,progression,progression (liquid tumours),86,88,88,722,BINET,C,874,874,unknown,unknown
+DO7166,U,435,male,alive,complete remission,progression (liquid tumours),62,65,67,906,BINET,A,1890,1890,no,unknown
+DO7172,U,442,male,deceased,partial remission,progression (liquid tumours),61,72,76,3879,BINET,A,5473,5473,no,yes
+DO7196,M,477,male,alive,stable,,74,83,87,NA,BINET,A,4665,4665,unknown,unknown
+DO7214,M,523,female,alive,stable,progression (liquid tumours),71,78,82,2921,BINET,A,3985,3985,no,yes
+DO7226,M,558,female,alive,stable,,69,85,88,NA,BINET,A,7062,7062,,
+DO7262,M,593,male,alive,stable,,72,74,75,NA,BINET,A,1061,1061,,
+DO7274,M,629,male,alive,complete remission,progression (liquid tumours),37,47,49,3640,BINET,A,4543,4543,,
+DO7280,M,654,male,alive,partial remission,progression (liquid tumours),51,54,58,2053,BINET,A,2369,2369,unknown,unknown
+DO7304,M,684,male,alive,complete remission,progression (liquid tumours),59,62,65,986,BINET,A,2113,2113,unknown,unknown
+DO7322,M,745,female,deceased,stable,progression (liquid tumours),47,62,69,5843,BINET,A,8141,8141,unknown,unknown
+DO7328,U,749,male,,complete remission,progression (liquid tumours),45,48,50,1401,BINET,A,1828,1828,unknown,unknown
+DO7334,U,753,female,alive,partial remission,progression (liquid tumours),83,85,88,1786,BINET,A,2030,2030,,
+DO7394,U,1101,female,alive,complete remission,progression (liquid tumours),60,64,67,1863,BINET,A,2409,2409,,
+DO7406,M,1163,male,alive,stable,,70,70,73,NA,BINET,A,1083,1083,,
+DO7412,M,1164,female,alive,stable,,66,68,71,NA,BINET,A,1884,1884,,
+DO7418,M,1165,male,alive,complete remission,progression (liquid tumours),59,61,62,770,BINET,A,1281,1281,,
+DO7424,M,1166,male,alive,stable,,48,51,53,NA,BINET,A,2044,2044,,
+DO7430,M,1167,female,alive,stable,,60,60,63,NA,BINET,A,1244,1244,,
+DO7436,M,1168,female,alive,stable,,55,56,59,NA,BINET,A,1313,1313,,
+DO7442,U,1169,male,alive,complete remission,,55,55,58,NA,BINET,B,1106,1106,,
+DO7448,M,1175,male,alive,stable,,72,72,74,NA,BINET,A,862,862,,
+DO7454,M,1178,male,alive,stable,,65,65,67,NA,BINET,A,845,845,,
+DO7466,U,1181,male,alive,partial remission,progression (liquid tumours),59,60,63,832,BINET,A,1223,1223,,
+DO7472,U,1183,male,alive,partial remission,progression (liquid tumours),71,72,74,138,BINET,B,1049,1049,,
+DO7478,M,1184,male,alive,stable,,51,63,65,NA,BINET,A,5238,5238,,
+DO7484,M,1185,male,alive,stable,,53,71,73,NA,BINET,A,7274,7274,,
+DO7490,M,1220,male,alive,stable,,40,46,48,NA,BINET,A,3161,3161,,
+DO7502,M,1222,male,alive,stable,,58,70,73,NA,BINET,A,5270,5270,,
+DO7505,M,1223,female,alive,stable,,83,83,85,NA,BINET,A,634,634,,
+DO7517,M,1228,male,alive,stable,,69,85,87,NA,BINET,A,6302,6302,,
