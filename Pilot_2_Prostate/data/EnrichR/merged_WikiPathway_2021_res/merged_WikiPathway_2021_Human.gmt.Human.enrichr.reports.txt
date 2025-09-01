@@ -1,0 +1,418 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Odds Ratio	Combined Score	Genes
+merged_WikiPathway_2021_Human.gmt	15q13.3 copy number variation syndrome WP4942	2/36	1.718978e-01	7.415357e-01	3.422768e+00	6.026997e+00	DLEU2;SERPINH1
+merged_WikiPathway_2021_Human.gmt	16p11.2 distal deletion syndrome WP4950	3/61	1.335977e-01	7.333598e-01	2.832519e+00	5.701641e+00	INSR;NFATC2;CD19
+merged_WikiPathway_2021_Human.gmt	16p11.2 proximal deletion syndrome WP4949	2/145	8.085864e-01	9.021397e-01	8.140009e-01	1.729489e-01	SPN;MIF-AS1
+merged_WikiPathway_2021_Human.gmt	22q11.2 copy number variation syndrome WP4657	4/258	7.894793e-01	8.978453e-01	8.246875e-01	1.949410e-01	MAPK4;FOXC1;SHH;FGFR1
+merged_WikiPathway_2021_Human.gmt	3q29 copy number variation syndrome WP4906	3/121	4.628552e-01	7.983498e-01	1.389993e+00	1.070768e+00	FBXW7;PIK3R3;ZNF76
+merged_WikiPathway_2021_Human.gmt	7q11.23 copy number variation syndrome WP4932	2/206	9.312041e-01	9.540838e-01	5.677010e-01	4.046389e-02	HDAC6;GTF2IRD1
+merged_WikiPathway_2021_Human.gmt	AGE/RAGE pathway WP2324	7/131	1.950016e-02	5.162668e-01	2.887666e+00	1.136970e+01	IKBKB;STAT1;INSR;SOD1;LGALS3;SMAD3;PRKCA
+merged_WikiPathway_2021_Human.gmt	AMP-activated protein kinase (AMPK) signaling WP1403	3/136	5.409557e-01	7.983498e-01	1.231963e+00	7.569400e-01	INSR;MIF-AS1;PIK3R3
+merged_WikiPathway_2021_Human.gmt	ATM Signaling Network in Development and Disease  WP3878	1/88	8.440565e-01	9.191494e-01	8.017183e-01	1.359200e-01	CHEK2
+merged_WikiPathway_2021_Human.gmt	ATM Signaling Pathway WP2516	1/78	8.072353e-01	9.021397e-01	9.060681e-01	1.940255e-01	CHEK2
+merged_WikiPathway_2021_Human.gmt	ATR Signaling WP3875	1/17	3.007402e-01	7.673035e-01	4.281627e+00	5.144412e+00	MIF-AS1
+merged_WikiPathway_2021_Human.gmt	Acute viral myocarditis WP4298	4/171	4.780565e-01	7.983498e-01	1.264084e+00	9.329272e-01	CAV1;NOD2;SOS1;STAT1
+merged_WikiPathway_2021_Human.gmt	Adipogenesis WP236	8/259	1.724915e-01	7.415357e-01	1.607200e+00	2.824505e+00	MIF-AS1;MEF2C;STAT1;SMAD3;RXRA;LPL;STAT2;PPARD
+merged_WikiPathway_2021_Human.gmt	Airway smooth muscle cell contraction WP4962	1/33	5.009092e-01	7.983498e-01	2.170307e+00	1.500399e+00	MYLK
+merged_WikiPathway_2021_Human.gmt	Alanine and aspartate metabolism WP106	1/22	3.706463e-01	7.827428e-01	3.284274e+00	3.259665e+00	GAD2
+merged_WikiPathway_2021_Human.gmt	Allograft Rejection WP2328	2/175	8.830631e-01	9.275499e-01	6.712268e-01	8.347286e-02	HSD17B3-AS1;STAT1
+merged_WikiPathway_2021_Human.gmt	Alpha 6 Beta 4 signaling pathway WP244	3/65	1.530031e-01	7.333598e-01	2.650184e+00	4.975181e+00	SOS1;GAB1;PRKCA
+merged_WikiPathway_2021_Human.gmt	Alzheimer's disease WP2059	2/165	8.618404e-01	9.191494e-01	7.129966e-01	1.060121e-01	LPL;MAPK4
+merged_WikiPathway_2021_Human.gmt	Amino Acid metabolism WP3925	5/175	3.000944e-01	7.673035e-01	1.524558e+00	1.835046e+00	PPM1L;CRYZL2P-SEC16B;HADH;LINC02532;BCAT1
+merged_WikiPathway_2021_Human.gmt	Amplification and Expansion of Oncogenic Pathways as Metastatic Traits WP3678	1/33	5.009092e-01	7.983498e-01	2.170307e+00	1.500399e+00	TCF7
+merged_WikiPathway_2021_Human.gmt	Amyotrophic lateral sclerosis (ALS) WP2447	1/74	7.901900e-01	8.978453e-01	9.557585e-01	2.250639e-01	SOD1
+merged_WikiPathway_2021_Human.gmt	Androgen receptor signaling pathway WP138	4/177	5.049782e-01	7.983498e-01	1.219633e+00	8.333022e-01	ZNF318;SMAD3;MIF-AS1;CAV1
+merged_WikiPathway_2021_Human.gmt	Angiopoietin Like Protein 8 Regulatory Pathway WP3915	10/260	4.520969e-02	6.867502e-01	2.012894e+00	6.232813e+00	MAPK4;MIF-AS1;THRB;INSR;SOS1;PIK3R3;RXRA;GAS6-AS1;LPL;MINK1
+merged_WikiPathway_2021_Human.gmt	Apoptosis Modulation and Signaling WP1772	3/176	7.135399e-01	8.740061e-01	9.441397e-01	3.186631e-01	IKBKB;TNFRSF10D;MIF-AS1
+merged_WikiPathway_2021_Human.gmt	Apoptosis WP254	3/167	6.795960e-01	8.613725e-01	9.966959e-01	3.849805e-01	TP63;IKBKB;IRF5
+merged_WikiPathway_2021_Human.gmt	Apoptosis-related network due to altered Notch3 in ovarian cancer WP2864	2/105	6.462313e-01	8.500897e-01	1.133116e+00	4.947160e-01	PTK2B;NET1
+merged_WikiPathway_2021_Human.gmt	Arrhythmogenic Right Ventricular Cardiomyopathy WP2118	3/147	5.939163e-01	8.338119e-01	1.136927e+00	5.923578e-01	MAPK4;TCF7;ITGB5
+merged_WikiPathway_2021_Human.gmt	Aryl Hydrocarbon Receptor Netpath WP2586	1/91	8.536707e-01	9.191494e-01	7.749102e-01	1.225984e-01	LPL
+merged_WikiPathway_2021_Human.gmt	Association Between Physico-Chemical Features and Toxicity Associated Pathways WP3680	5/131	1.376646e-01	7.333598e-01	2.063926e+00	4.092632e+00	MIF-AS1;SOD1;SOS1;MYLK;FZD2
+merged_WikiPathway_2021_Human.gmt	B Cell Receptor Signaling Pathway WP23	13/193	1.934878e-04	8.068440e-02	3.670729e+00	3.138582e+01	MAPK4;IKBKB;MEF2C;SOS1;GAB1;MAX;VAV1;PTPN6;CD19;GAS6-AS1;E2F3;SH3BP2;NFATC2
+merged_WikiPathway_2021_Human.gmt	BDNF-TrkB Signaling WP3676	3/66	1.579880e-01	7.402361e-01	2.608189e+00	4.812724e+00	MAPK4;SOS1;GAB1
+merged_WikiPathway_2021_Human.gmt	BMP Signaling Pathway in Eyelid Development WP3927	2/39	1.944604e-01	7.518193e-01	3.148009e+00	5.154950e+00	FOXC1;SHH
+merged_WikiPathway_2021_Human.gmt	Base Excision Repair WP4752	2/61	3.635083e-01	7.827428e-01	1.979710e+00	2.003374e+00	MPG;MIF-AS1
+merged_WikiPathway_2021_Human.gmt	Biogenic Amine Synthesis WP550	1/29	4.569800e-01	7.983498e-01	2.475893e+00	1.938910e+00	GAD2
+merged_WikiPathway_2021_Human.gmt	Biomarkers for pyrimidine metabolism disorders WP4584	2/29	1.214270e-01	7.333598e-01	4.296998e+00	9.059973e+00	RRM2;DPYD
+merged_WikiPathway_2021_Human.gmt	Blood Clotting Cascade WP272	2/45	2.405005e-01	7.597631e-01	2.712186e+00	3.864955e+00	CRYZL2P-SEC16B;KLK1
+merged_WikiPathway_2021_Human.gmt	Brain-derived neurotrophic factor (BDNF) signaling pathway WP2380	10/287	7.694692e-02	7.333598e-01	1.812073e+00	4.647315e+00	MAPK4;IKBKB;NFATC4;MIR9-3HG;MIF-AS1;KRTAP5-AS1;MEF2C;STAT1;PTK2B;CNR1
+merged_WikiPathway_2021_Human.gmt	Breast cancer pathway WP4262	10/307	1.076864e-01	7.333598e-01	1.686818e+00	3.759128e+00	FGFR1;MIF-AS1;LRP5;TCF7;SOS1;NOTCH2;PIK3R3;WNT5A;FZD2;E2F3
+merged_WikiPathway_2021_Human.gmt	CAMKK2  Pathway WP4874	2/67	4.079752e-01	7.827428e-01	1.797290e+00	1.611358e+00	MAPK4;NFATC2
+merged_WikiPathway_2021_Human.gmt	COVID-19 adverse outcome pathway WP4891	1/29	4.569800e-01	7.983498e-01	2.475893e+00	1.938910e+00	MIR155HG
+merged_WikiPathway_2021_Human.gmt	Calcium Regulation in the Cardiac Cell WP536	4/299	8.738812e-01	9.248946e-01	7.073118e-01	9.535328e-02	ADCY9;GNB4;PRKCA;MAPK4
+merged_WikiPathway_2021_Human.gmt	Cancer immunotherapy by CTLA4 blockade WP4582	2/27	1.077911e-01	7.333598e-01	4.634936e+00	1.032460e+01	PTPN6;PIK3R3
+merged_WikiPathway_2021_Human.gmt	Cancer immunotherapy by PD-1 blockade WP4585	3/45	6.663050e-02	7.333598e-01	3.905080e+00	1.057727e+01	NFATC4;NFATC2;ZAP70
+merged_WikiPathway_2021_Human.gmt	Cannabinoid receptor signaling WP3869	1/57	6.993513e-01	8.731422e-01	1.245436e+00	4.453705e-01	CNR1
+merged_WikiPathway_2021_Human.gmt	Canonical and non-canonical Notch signaling WP3845	1/53	6.728235e-01	8.613725e-01	1.340859e+00	5.313452e-01	NOTCH2
+merged_WikiPathway_2021_Human.gmt	Canonical and non-canonical TGF-B signaling WP3874	1/33	5.009092e-01	7.983498e-01	2.170307e+00	1.500399e+00	SMAD3
+merged_WikiPathway_2021_Human.gmt	Cardiac Hypertrophic Response WP2795	4/108	1.875815e-01	7.518193e-01	2.038990e+00	3.412335e+00	IKBKB;PRKCA;NFATC2;NPPA
+merged_WikiPathway_2021_Human.gmt	Cardiac Progenitor Differentiation WP2406	2/104	6.410447e-01	8.486211e-01	1.144285e+00	5.088134e-01	TBXT;MEF2C
+merged_WikiPathway_2021_Human.gmt	Cell Differentiation - Index WP2029	1/25	4.092037e-01	7.827428e-01	2.881262e+00	2.574529e+00	MEF2C
+merged_WikiPathway_2021_Human.gmt	Cell Differentiation - Index expanded WP2023	1/37	5.412999e-01	7.983498e-01	1.931698e+00	1.185641e+00	MEF2C
+merged_WikiPathway_2021_Human.gmt	Cell cycle WP179	4/239	7.373506e-01	8.740061e-01	8.929394e-01	2.720713e-01	CHEK2;SMAD3;E2F3;MIF-AS1
+merged_WikiPathway_2021_Human.gmt	Cell-type Dependent Selectivity of CCK2R Signaling WP3679	1/25	4.092037e-01	7.827428e-01	2.881262e+00	2.574529e+00	CNR1
+merged_WikiPathway_2021_Human.gmt	Chemokine signaling pathway WP3929	10/327	1.445521e-01	7.333598e-01	1.577344e+00	3.050764e+00	IKBKB;GNB4;STAT1;CCR6;ADCY9;SOS1;VAV1;PIK3R3;PTK2B;STAT2
+merged_WikiPathway_2021_Human.gmt	Cholesterol metabolism (includes both Bloch and Kandutsch-Russell pathways) WP4718	1/91	8.536707e-01	9.191494e-01	7.749102e-01	1.225984e-01	CRYZL2P-SEC16B
+merged_WikiPathway_2021_Human.gmt	Chromosomal and microsatellite instability in colorectal cancer  WP4216	2/145	8.085864e-01	9.021397e-01	8.140009e-01	1.729489e-01	SMAD3;TCF7
+merged_WikiPathway_2021_Human.gmt	Ciliary landscape WP4352	3/426	9.941750e-01	9.941750e-01	3.770734e-01	2.202859e-03	MAPK4;PCAT6;ZMYND19
+merged_WikiPathway_2021_Human.gmt	Ciliopathies WP4803	5/355	8.666502e-01	9.214328e-01	7.281996e-01	1.042198e-01	OLMALINC;RUNDC3A-AS1;RWDD3-DT;BCL10-AS1;KCNQ1OT1
+merged_WikiPathway_2021_Human.gmt	Circadian rhythm related genes WP3594	7/401	7.346836e-01	8.740061e-01	8.866975e-01	2.733824e-01	CRY1;KLF9;DRD4;EGR3;KLF10;ZFHX3;BHLHE41
+merged_WikiPathway_2021_Human.gmt	Common Pathways Underlying Drug Addiction WP2636	4/83	9.442017e-02	7.333598e-01	2.686873e+00	6.341021e+00	MAPK4;PRKCA;DRD4;KRTAP5-AS1
+merged_WikiPathway_2021_Human.gmt	Complement Activation WP545	1/42	5.872422e-01	8.329252e-01	1.698121e+00	9.039403e-01	CRYZL2P-SEC16B
+merged_WikiPathway_2021_Human.gmt	Complement and Coagulation Cascades WP558	4/114	2.133059e-01	7.597631e-01	1.927120e+00	2.977455e+00	CRYZL2P-SEC16B;LINC02362;LINC02532;CR1
+merged_WikiPathway_2021_Human.gmt	Complement system WP2806	7/193	1.081453e-01	7.333598e-01	1.915733e+00	4.261125e+00	LINC02362;CR1;CRYZL2P-SEC16B;CD19;LINC02532;PRKCA;TLR2
+merged_WikiPathway_2021_Human.gmt	Composition of Lipid Particles WP3601	1/17	3.007402e-01	7.673035e-01	4.281627e+00	5.144412e+00	LPL
+merged_WikiPathway_2021_Human.gmt	Computational Model of Aerobic Glycolysis WP4629	2/23	8.194070e-02	7.333598e-01	5.499428e+00	1.375825e+01	ENO1;TPI1
+merged_WikiPathway_2021_Human.gmt	Constitutive Androstane Receptor Pathway WP2875	1/63	7.351816e-01	8.740061e-01	1.125203e+00	3.461548e-01	RXRA
+merged_WikiPathway_2021_Human.gmt	Copper homeostasis WP3286	1/103	8.865757e-01	9.288996e-01	6.833703e-01	8.227013e-02	SOD1
+merged_WikiPathway_2021_Human.gmt	Cori Cycle WP1946	4/33	4.647191e-03	2.422348e-01	7.276956e+00	3.908812e+01	PFKP;MIR210HG;TALDO1;TPI1
+merged_WikiPathway_2021_Human.gmt	Corticotropin-releasing hormone signaling pathway WP2355	3/185	7.446587e-01	8.740061e-01	8.967671e-01	2.643932e-01	MAPK4;GRK3;PRKCA
+merged_WikiPathway_2021_Human.gmt	Cytokines and Inflammatory Response WP530	2/51	2.869893e-01	7.673035e-01	2.382017e+00	2.973497e+00	PDGFA;IL15
+merged_WikiPathway_2021_Human.gmt	Cytoplasmic Ribosomal Proteins WP477	1/176	9.760725e-01	9.807764e-01	3.962106e-01	9.595608e-03	MIF-AS1
+merged_WikiPathway_2021_Human.gmt	Cytosolic DNA-sensing pathway WP4655	1/147	9.555414e-01	9.671378e-01	4.760257e-01	2.164830e-02	IKBKB
+merged_WikiPathway_2021_Human.gmt	DNA IR-damage and cellular response via ATR WP4016	4/158	4.180263e-01	7.923498e-01	1.372237e+00	1.196880e+00	CHEK2;CLK2;FIRRE;MIF-AS1
+merged_WikiPathway_2021_Human.gmt	DNA IR-double strand breaks and cellular response via ATM WP3959	2/108	6.614369e-01	8.613725e-01	1.100868e+00	4.550334e-01	CHEK2;MIF-AS1
+merged_WikiPathway_2021_Human.gmt	DNA Mismatch Repair WP531	1/45	6.125780e-01	8.342963e-01	1.583170e+00	7.758783e-01	MIF-AS1
+merged_WikiPathway_2021_Human.gmt	DNA Repair Pathways Full Network WP4946	3/238	8.768663e-01	9.257045e-01	6.912402e-01	9.082944e-02	FIRRE;MPG;MIF-AS1
+merged_WikiPathway_2021_Human.gmt	DNA damage response (only ATM dependent) WP710	7/218	1.695054e-01	7.415357e-01	1.685035e+00	2.990719e+00	MIF-AS1;INSR;TCF7;SOS1;PIK3R3;SMAD3;WNT5A
+merged_WikiPathway_2021_Human.gmt	DNA damage response WP707	2/134	7.721001e-01	8.943492e-01	8.825505e-01	2.282638e-01	CHEK2;MIF-AS1
+merged_WikiPathway_2021_Human.gmt	Development and heterogeneity of the ILC family WP3893	2/63	3.784827e-01	7.827428e-01	1.914948e+00	1.860535e+00	GFI1;IL15
+merged_WikiPathway_2021_Human.gmt	Development of ureteric collection system WP5053	3/93	3.054493e-01	7.673035e-01	1.825141e+00	2.164565e+00	FOXC1;SHH;MIF-AS1
+merged_WikiPathway_2021_Human.gmt	Differentiation Pathway WP2848	3/95	3.168764e-01	7.817817e-01	1.785323e+00	2.051771e+00	SHH;WNT5A;PDGFA
+merged_WikiPathway_2021_Human.gmt	Differentiation of white and brown adipocyte WP2895	1/49	6.439669e-01	8.497917e-01	1.452022e+00	6.390466e-01	PRDM16
+merged_WikiPathway_2021_Human.gmt	Disruption of postsynaptic signaling by CNV WP4875	1/65	7.461539e-01	8.740061e-01	1.090096e+00	3.192056e-01	MAPK4
+merged_WikiPathway_2021_Human.gmt	Dopamine metabolism WP2436	1/25	4.092037e-01	7.827428e-01	2.881262e+00	2.574529e+00	SOD1
+merged_WikiPathway_2021_Human.gmt	Dopaminergic Neurogenesis WP2855	2/59	3.484009e-01	7.827428e-01	2.048977e+00	2.160444e+00	MSX1;SHH
+merged_WikiPathway_2021_Human.gmt	Drug Induction of Bile Acid Pathway WP2289	2/33	1.498236e-01	7.333598e-01	3.749861e+00	7.118347e+00	NR1I2;VDR
+merged_WikiPathway_2021_Human.gmt	EDA signaling in hair follicle development WP3930	1/25	4.092037e-01	7.827428e-01	2.881262e+00	2.574529e+00	SHH
+merged_WikiPathway_2021_Human.gmt	EGF/EGFR signaling pathway WP437	15/322	2.977998e-03	2.069709e-01	2.466650e+00	1.434728e+01	MAPK4;PLD1;MIF-AS1;MYBL2;MEF2C;STAT1;SOS1;GAB1;ARHGEF1;VAV1;PTK2B;GAS6-AS1;CAV1;PLSCR1;PRKCA
+merged_WikiPathway_2021_Human.gmt	EGFR Tyrosine Kinase Inhibitor Resistance WP4806	7/167	5.981106e-02	7.333598e-01	2.231897e+00	6.286281e+00	MAPK4;PDGFA;MIF-AS1;SOS1;GAB1;PIK3R3;PRKCA
+merged_WikiPathway_2021_Human.gmt	EPO Receptor Signaling WP581	2/51	2.869893e-01	7.673035e-01	2.382017e+00	2.973497e+00	SOS1;STAT1
+merged_WikiPathway_2021_Human.gmt	ESC Pluripotency Pathways WP3931	9/231	5.220371e-02	7.333598e-01	2.046233e+00	6.041712e+00	MAPK4;FGFR1;MIF-AS1;PDGFA;LRP5;SOS1;GAB1;WNT5A;FZD2
+merged_WikiPathway_2021_Human.gmt	EV release from cardiac cells and their functional effects WP3297	1/13	2.392929e-01	7.597631e-01	5.653986e+00	8.085579e+00	MYB
+merged_WikiPathway_2021_Human.gmt	Ebola Virus Pathway on Host WP4217	6/257	4.461139e-01	7.983498e-01	1.217302e+00	9.825832e-01	STAT1;PIK3R3;FLNB;DAB2IP;GAS6-AS1;CAV1
+merged_WikiPathway_2021_Human.gmt	Ebstein-Barr virus LMP1 signaling WP262	1/44	6.043096e-01	8.342963e-01	1.619725e+00	8.158048e-01	IKBKB
+merged_WikiPathway_2021_Human.gmt	Ectoderm Differentiation WP2858	13/273	4.634829e-03	2.422348e-01	2.522969e+00	1.355883e+01	HMGB2;MAPK4;KRTAP5-AS1;SHH;MIR9-3HG;LINC01833;RHPN1;CELSR2;PAN2;PRDM16-DT;KCNQ1OT1;HDAC6;PPARD
+merged_WikiPathway_2021_Human.gmt	Eicosanoid Synthesis WP167	1/52	6.658353e-01	8.613725e-01	1.367031e+00	5.559891e-01	TBXAS1
+merged_WikiPathway_2021_Human.gmt	Eicosanoid metabolism via cyclooxygenases (COX) WP4719	3/59	1.242421e-01	7.333598e-01	2.933368e+00	6.117606e+00	CRYZL2P-SEC16B;TBXAS1;PPARD
+merged_WikiPathway_2021_Human.gmt	Eicosanoid metabolism via lipooxygenases (LOX) WP4721	2/57	3.331766e-01	7.827428e-01	2.123236e+00	2.333611e+00	CRYZL2P-SEC16B;PPARD
+merged_WikiPathway_2021_Human.gmt	Electron Transport Chain (OXPHOS system in mitochondria) WP111	3/205	8.041831e-01	9.021397e-01	8.065708e-01	1.757746e-01	ZFP28-DT;FGF14-AS2;MIR4458HG
+merged_WikiPathway_2021_Human.gmt	Endochondral Ossification WP474	4/127	2.719179e-01	7.661470e-01	1.722026e+00	2.242517e+00	FGFR1;SERPINH1;STAT1;MEF2C
+merged_WikiPathway_2021_Human.gmt	Endochondral Ossification with Skeletal Dysplasias WP4808	4/127	2.719179e-01	7.661470e-01	1.722026e+00	2.242517e+00	FGFR1;SERPINH1;STAT1;MEF2C
+merged_WikiPathway_2021_Human.gmt	Endoderm differentiation WP2853	9/280	1.301633e-01	7.333598e-01	1.668629e+00	3.402277e+00	PAX9;MIF-AS1;DUSP4;STAT1;TCF7;SMAD3;FIRRE;HOXA1;AHDC1
+merged_WikiPathway_2021_Human.gmt	Endometrial cancer WP4155	5/125	1.193861e-01	7.333598e-01	2.167996e+00	4.607842e+00	MAPK4;FGFR1;TCF7;SOS1;PIK3R3
+merged_WikiPathway_2021_Human.gmt	Endoplasmic reticulum stress response in coronavirus infection WP4861	1/93	8.597500e-01	9.191494e-01	7.580042e-01	1.145448e-01	MAPK4
+merged_WikiPathway_2021_Human.gmt	Endothelin Pathways WP2197	3/65	1.530031e-01	7.333598e-01	2.650184e+00	4.975181e+00	MAPK4;MYLK;PRKCA
+merged_WikiPathway_2021_Human.gmt	Energy Metabolism WP1541	3/93	3.054493e-01	7.673035e-01	1.825141e+00	2.164565e+00	RXRA;PPARD;MEF2C
+merged_WikiPathway_2021_Human.gmt	Envelope proteins and their potential roles in EDMD physiopathology WP4535	4/89	1.143192e-01	7.333598e-01	2.496827e+00	5.415021e+00	ADCY9;SMAD3;SOS1;MAPK4
+merged_WikiPathway_2021_Human.gmt	Epithelial to mesenchymal transition in colorectal cancer WP4239	8/319	3.459555e-01	7.827428e-01	1.289737e+00	1.368985e+00	MIF-AS1;LRP5;SOS1;NOTCH2;PIK3R3;SMAD3;WNT5A;FZD2
+merged_WikiPathway_2021_Human.gmt	ErbB signaling pathway WP673	6/181	1.759182e-01	7.479801e-01	1.757889e+00	3.054747e+00	MAPK4;MIF-AS1;SOS1;GAB1;PIK3R3;PRKCA
+merged_WikiPathway_2021_Human.gmt	Estrogen metabolism WP697	1/34	5.113271e-01	7.983498e-01	2.105313e+00	1.412129e+00	ARSD
+merged_WikiPathway_2021_Human.gmt	Estrogen signaling pathway WP712	1/45	6.125780e-01	8.342963e-01	1.583170e+00	7.758783e-01	IKBKB
+merged_WikiPathway_2021_Human.gmt	Ethanol effects on histone modifications WP3996	1/61	7.237374e-01	8.740061e-01	1.162631e+00	3.759096e-01	HDAC6
+merged_WikiPathway_2021_Human.gmt	Exercise-induced Circadian Regulation WP410	3/94	3.111612e-01	7.723466e-01	1.805014e+00	2.107254e+00	MAPK4;KLF9;CRY1
+merged_WikiPathway_2021_Human.gmt	Extracellular vesicle-mediated signaling in recipient cells WP2870	3/59	1.242421e-01	7.333598e-01	2.933368e+00	6.117606e+00	SMAD3;TGFBR3;WNT5A
+merged_WikiPathway_2021_Human.gmt	Extracellular vesicles in the crosstalk of cardiac cells WP4300	1/37	5.412999e-01	7.983498e-01	1.931698e+00	1.185641e+00	SOD1
+merged_WikiPathway_2021_Human.gmt	FBXL10 enhancement of MAP/ERK signaling in diffuse large B-cell lymphoma WP4553	1/60	7.178320e-01	8.740061e-01	1.182288e+00	3.919519e-01	KDM2B
+merged_WikiPathway_2021_Human.gmt	FGF23 signaling in hypophosphatemic rickets and related disorders WP4790	1/43	5.958656e-01	8.338119e-01	1.658001e+00	8.584137e-01	PHEX
+merged_WikiPathway_2021_Human.gmt	FGFR3 signaling in chondrocyte proliferation and terminal differentiation WP4767	1/53	6.728235e-01	8.613725e-01	1.340859e+00	5.313452e-01	STAT1
+merged_WikiPathway_2021_Human.gmt	FTO Obesity Variant Mechanism WP3407	1/15	2.706604e-01	7.661470e-01	4.873161e+00	6.368688e+00	PRDM16
+merged_WikiPathway_2021_Human.gmt	Factors and pathways affecting insulin-like growth factor (IGF1)-Akt signaling WP3850	1/73	7.856992e-01	8.976345e-01	9.690379e-01	2.337137e-01	PLD1
+merged_WikiPathway_2021_Human.gmt	Farnesoid X receptor pathway WP2879	1/37	5.412999e-01	7.983498e-01	1.931698e+00	1.185641e+00	RXRA
+merged_WikiPathway_2021_Human.gmt	Fatty Acid Biosynthesis WP357	2/43	2.250614e-01	7.597631e-01	2.843458e+00	4.240682e+00	CRYZL2P-SEC16B;HADH
+merged_WikiPathway_2021_Human.gmt	Fatty acid beta-oxidation WP143	5/67	1.265366e-02	3.768982e-01	4.204143e+00	1.837130e+01	CRYZL2P-SEC16B;HADH;ECI1;LPL;TPI1
+merged_WikiPathway_2021_Human.gmt	Ferroptosis WP4313	4/79	8.215955e-02	7.333598e-01	2.830351e+00	7.073308e+00	CYBB;SAT2;SLC39A14;CCR5AS
+merged_WikiPathway_2021_Human.gmt	Fibrin Complement Receptor 3 Signaling Pathway WP4136	1/81	8.191082e-01	9.054090e-01	8.720410e-01	1.740063e-01	IKBKB
+merged_WikiPathway_2021_Human.gmt	Fluoropyrimidine Activity WP1601	2/65	3.933094e-01	7.827428e-01	1.854266e+00	1.730325e+00	RRM2;DPYD
+merged_WikiPathway_2021_Human.gmt	Focal Adhesion WP306	14/395	3.638920e-02	6.316607e-01	1.836732e+00	6.085982e+00	MAPK4;MIF-AS1;PDGFA;SOS1;MYLK;VAV1;PRDM16-DT;PIK3R3;FLNB;ITGB5;FLNB-AS1;GAS6-AS1;CAV1;PRKCA
+merged_WikiPathway_2021_Human.gmt	Focal Adhesion-PI3K-Akt-mTOR-signaling pathway WP3932	11/605	7.212049e-01	8.740061e-01	9.009379e-01	2.944554e-01	MAPK4;CREB3;IKBKB;FGFR1;PDGFA;MIF-AS1;GNB4;INSR;SOS1;ITGB5;FLNB-AS1
+merged_WikiPathway_2021_Human.gmt	Folate Metabolism WP176	4/137	3.187120e-01	7.817817e-01	1.591442e+00	1.819762e+00	INSR;SOD1;CRYZL2P-SEC16B;LINC02532
+merged_WikiPathway_2021_Human.gmt	Follicle Stimulating Hormone (FSH) signaling pathway WP2035	1/52	6.658353e-01	8.613725e-01	1.367031e+00	5.559891e-01	PRKCA
+merged_WikiPathway_2021_Human.gmt	Fragile X Syndrome  WP4549	8/241	1.301975e-01	7.333598e-01	1.734254e+00	3.535627e+00	MAPK4;KRTAP5-AS1;MIR9-3HG;CNR1;SOS1;GAB1;PRDM16-DT;PRKCA
+merged_WikiPathway_2021_Human.gmt	G Protein Signaling Pathways WP35	5/185	3.411239e-01	7.827428e-01	1.438647e+00	1.547278e+00	MAPK4;ADCY9;ARHGEF1;AKAP12;PRKCA
+merged_WikiPathway_2021_Human.gmt	G1 to S cell cycle control WP45	3/127	4.948328e-01	7.983498e-01	1.322211e+00	9.302223e-01	E2F3;CREB3;MIF-AS1
+merged_WikiPathway_2021_Human.gmt	G13 Signaling Pathway WP524	3/77	2.156881e-01	7.597631e-01	2.220655e+00	3.406312e+00	MAPK4;ARHGEF1;RTKN
+merged_WikiPathway_2021_Human.gmt	GABA receptor Signaling WP4159	2/61	3.635083e-01	7.827428e-01	1.979710e+00	2.003374e+00	MAPK4;GAD2
+merged_WikiPathway_2021_Human.gmt	GDNF/RET signaling axis WP4830	2/45	2.405005e-01	7.597631e-01	2.712186e+00	3.864955e+00	FOXC1;MIF-AS1
+merged_WikiPathway_2021_Human.gmt	GPCRs, Class A Rhodopsin-like WP455	5/513	9.840433e-01	9.864088e-01	4.938165e-01	7.943236e-03	CCR6;GPR34;DRD4;CCRL2;CNR1
+merged_WikiPathway_2021_Human.gmt	GPCRs, Class C Metabotropic glutamate, pheromone WP501	1/29	4.569800e-01	7.983498e-01	2.475893e+00	1.938910e+00	MAPK4
+merged_WikiPathway_2021_Human.gmt	GPCRs, Other WP117	4/181	5.225854e-01	7.983498e-01	1.191669e+00	7.733539e-01	CELSR2;CNR1;DRD4;GPR183
+merged_WikiPathway_2021_Human.gmt	GPR40 Pathway WP3958	1/29	4.569800e-01	7.983498e-01	2.475893e+00	1.938910e+00	PLCD3
+merged_WikiPathway_2021_Human.gmt	Gastric Cancer Network 1 WP2361	2/56	3.255261e-01	7.827428e-01	2.162409e+00	2.426899e+00	E2F7;MYBL2
+merged_WikiPathway_2021_Human.gmt	Gastrin signaling pathway WP4659	7/227	1.947158e-01	7.518193e-01	1.614790e+00	2.642142e+00	IKBKB;MIF-AS1;MEF2C;SOS1;PIK3R3;GAS6-AS1;PRKCA
+merged_WikiPathway_2021_Human.gmt	Genes controlling nephrogenesis WP4823	3/85	2.600413e-01	7.661470e-01	2.003722e+00	2.698843e+00	FOXC1;SHH;NOTCH2
+merged_WikiPathway_2021_Human.gmt	Genes related to primary cilium development (based on CRISPR) WP4536	2/199	9.223226e-01	9.476365e-01	5.882370e-01	4.756501e-02	RUNDC3A-AS1;KCNQ1OT1
+merged_WikiPathway_2021_Human.gmt	Genes targeted by miRNAs in adipocytes WP1992	1/25	4.092037e-01	7.827428e-01	2.881262e+00	2.574529e+00	KCNJ2
+merged_WikiPathway_2021_Human.gmt	Genotoxicity pathway WP4286	2/118	7.083620e-01	8.740061e-01	1.005367e+00	3.466507e-01	E2F7;TRIM22
+merged_WikiPathway_2021_Human.gmt	Glial Cell Differentiation WP2276	1/13	2.392929e-01	7.597631e-01	5.653986e+00	8.085579e+00	MAPK4
+merged_WikiPathway_2021_Human.gmt	Glioblastoma signaling pathways WP2261	5/163	2.521074e-01	7.661470e-01	1.641960e+00	2.262456e+00	MAPK4;FGFR1;MIF-AS1;GAB1;PRKCA
+merged_WikiPathway_2021_Human.gmt	Glucocorticoid Receptor Pathway WP2880	3/139	5.557884e-01	8.132062e-01	1.204525e+00	7.074990e-01	NR1I2;RXRA;TGFBR3
+merged_WikiPathway_2021_Human.gmt	Glucuronidation WP698	2/51	2.869893e-01	7.673035e-01	2.382017e+00	2.973497e+00	UGT2B15;UGT2B17
+merged_WikiPathway_2021_Human.gmt	Glycerolipids and Glycerophospholipids WP4722	2/43	2.250614e-01	7.597631e-01	2.843458e+00	4.240682e+00	AGPAT4;PLD1
+merged_WikiPathway_2021_Human.gmt	Glycerophospholipid Biosynthetic Pathway WP2533	1/59	7.118010e-01	8.740061e-01	1.202618e+00	4.088383e-01	GPAT3
+merged_WikiPathway_2021_Human.gmt	Glycogen Synthesis and Degradation WP500	1/79	8.112767e-01	9.021397e-01	8.944368e-01	1.870680e-01	MAPK4
+merged_WikiPathway_2021_Human.gmt	Glycolysis and Gluconeogenesis WP534	4/88	1.108820e-01	7.333598e-01	2.526627e+00	5.556783e+00	PFKP;SLC2A5;ENO1;TPI1
+merged_WikiPathway_2021_Human.gmt	Glycolysis in senescence WP5049	1/21	3.572452e-01	7.827428e-01	3.444823e+00	3.545871e+00	ENO1
+merged_WikiPathway_2021_Human.gmt	HIF1A and PPARG regulation of glycolysis WP2456	2/15	3.786935e-02	6.316607e-01	8.765288e+00	2.869416e+01	TPI1;GPAT3
+merged_WikiPathway_2021_Human.gmt	Hair Follicle Development: Organogenesis - Part 2 of 3 WP2839	5/63	9.841958e-03	3.420080e-01	4.493392e+00	2.076442e+01	SHH;PDGFA;LRP5;WNT5A;TP63
+merged_WikiPathway_2021_Human.gmt	Head and Neck Squamous Cell Carcinoma WP4674	7/145	3.172745e-02	6.316607e-01	2.592136e+00	8.944353e+00	FGFR1;MIF-AS1;NOTCH2;GAB1;GAS6-AS1;TP63;TERT
+merged_WikiPathway_2021_Human.gmt	Heart Development WP1591	6/87	9.440881e-03	3.420080e-01	3.821178e+00	1.781703e+01	NFATC4;SHH;MIF-AS1;MEF2C;FOXC1;NFATC2
+merged_WikiPathway_2021_Human.gmt	Hedgehog Signaling Pathway Netpath WP47	1/31	4.794056e-01	7.983498e-01	2.313080e+00	1.700596e+00	SHH
+merged_WikiPathway_2021_Human.gmt	Hedgehog Signaling Pathway WP4249	3/87	2.713254e-01	7.661470e-01	1.955907e+00	2.551356e+00	SHH;GRK3;MIF-AS1
+merged_WikiPathway_2021_Human.gmt	Hematopoietic Stem Cell Differentiation WP2849	6/109	2.608518e-02	6.043066e-01	3.002352e+00	1.094774e+01	IRF5;THRB;MXI1;VAV1;NFATC2;MYB
+merged_WikiPathway_2021_Human.gmt	Hepatitis B infection WP4666	15/303	1.656630e-03	1.727036e-01	2.634190e+00	1.686664e+01	IKBKB;CREB3;NFATC4;MIF-AS1;LINC01058;STAT1;SOS1;PIK3R3;SMAD3;PTK2B;EGR3;STAT2;NFATC2;PRKCA;TLR2
+merged_WikiPathway_2021_Human.gmt	Hepatitis C and Hepatocellular Carcinoma WP3646	3/97	3.283115e-01	7.827428e-01	1.747190e+00	1.946006e+00	SMAD3;SOS1;RRM2
+merged_WikiPathway_2021_Human.gmt	Hippo-Merlin Signaling Dysregulation WP4541	6/237	3.716578e-01	7.827428e-01	1.325149e+00	1.311609e+00	MAPK4;FGFR1;MIF-AS1;INSR;ITGB5;FLNB-AS1
+merged_WikiPathway_2021_Human.gmt	Hippo-Yap signaling pathway WP4537	1/44	6.043096e-01	8.342963e-01	1.619725e+00	8.158048e-01	MINK1
+merged_WikiPathway_2021_Human.gmt	Histone Modifications WP2369	3/129	5.052831e-01	7.983498e-01	1.301046e+00	8.881416e-01	KCNQ1OT1;SMYD3;SETD3
+merged_WikiPathway_2021_Human.gmt	Homologous recombination WP186	1/25	4.092037e-01	7.827428e-01	2.881262e+00	2.574529e+00	MIF-AS1
+merged_WikiPathway_2021_Human.gmt	Host-pathogen interaction of human coronaviruses - interferon induction WP4880	3/65	1.530031e-01	7.333598e-01	2.650184e+00	4.975181e+00	IKBKB;STAT2;STAT1
+merged_WikiPathway_2021_Human.gmt	Hypothesized Pathways in Pathogenesis of Cardiovascular Disease WP3668	2/48	2.637401e-01	7.661470e-01	2.536451e+00	3.380560e+00	TGFBR3;ENG
+merged_WikiPathway_2021_Human.gmt	Hypothetical Craniofacial Development Pathway WP3655	1/13	2.392929e-01	7.597631e-01	5.653986e+00	8.085579e+00	TP63
+merged_WikiPathway_2021_Human.gmt	ID signaling pathway WP53	1/31	4.794056e-01	7.983498e-01	2.313080e+00	1.700596e+00	PAX5
+merged_WikiPathway_2021_Human.gmt	IL-1 signaling pathway WP195	1/108	8.980062e-01	9.384072e-01	6.512604e-01	7.006148e-02	IKBKB
+merged_WikiPathway_2021_Human.gmt	IL-10 Anti-inflammatory Signaling Pathway  WP4495	3/23	1.157283e-02	3.712208e-01	8.113572e+00	3.617919e+01	DUSP5-DT;STAT2;STAT1
+merged_WikiPathway_2021_Human.gmt	IL-18 signaling pathway WP4754	15/540	1.555691e-01	7.371855e-01	1.411308e+00	2.625971e+00	CLLU1-AS1;IKBKB;NFATC4;PLD1;KCNJ2-AS1;HADH;NPPA;SLC4A7;CD44-DT;ENO1;GAS6-AS1;CENPB;FBXW7;HDGF;PRKCA
+merged_WikiPathway_2021_Human.gmt	IL-2 signaling pathway WP49	3/83	2.488227e-01	7.661470e-01	2.053913e+00	2.857023e+00	PTK2B;SOS1;STAT1
+merged_WikiPathway_2021_Human.gmt	IL-3 signaling pathway WP286	3/97	3.283115e-01	7.827428e-01	1.747190e+00	1.946006e+00	SOS1;PTPN6;VAV1
+merged_WikiPathway_2021_Human.gmt	IL-4 signaling pathway WP395	4/107	1.833965e-01	7.506799e-01	2.058896e+00	3.492104e+00	IKBKB;SOS1;PTPN6;STAT1
+merged_WikiPathway_2021_Human.gmt	IL-5 signaling pathway WP127	2/79	4.920072e-01	7.983498e-01	1.517187e+00	1.076083e+00	SOS1;STAT1
+merged_WikiPathway_2021_Human.gmt	IL-6 signaling pathway WP364	4/85	1.008573e-01	7.333598e-01	2.620415e+00	6.011361e+00	SOS1;GAB1;VAV1;STAT1
+merged_WikiPathway_2021_Human.gmt	IL-7 signaling pathway WP205	2/49	2.714933e-01	7.661470e-01	2.482805e+00	3.237126e+00	PTK2B;STAT1
+merged_WikiPathway_2021_Human.gmt	IL-9 signaling pathway WP22	1/33	5.009092e-01	7.983498e-01	2.170307e+00	1.500399e+00	STAT1
+merged_WikiPathway_2021_Human.gmt	IL1 and megakaryocytes in obesity WP2865	1/47	6.286023e-01	8.455715e-01	1.514776e+00	7.032443e-01	TLR2
+merged_WikiPathway_2021_Human.gmt	IL17 signaling pathway WP2112	2/62	3.710130e-01	7.827428e-01	1.946794e+00	1.930281e+00	IKBKB;IL17RB
+merged_WikiPathway_2021_Human.gmt	Immune response to tuberculosis WP4197	2/45	2.405005e-01	7.597631e-01	2.712186e+00	3.864955e+00	STAT2;STAT1
+merged_WikiPathway_2021_Human.gmt	Inflammatory Response Pathway WP453	2/59	3.484009e-01	7.827428e-01	2.048977e+00	2.160444e+00	MIR155HG;ZAP70
+merged_WikiPathway_2021_Human.gmt	Initiation of transcription and translation elongation at the HIV-1 LTR WP3414	2/63	3.784827e-01	7.827428e-01	1.914948e+00	1.860535e+00	NFATC4;NFATC2
+merged_WikiPathway_2021_Human.gmt	Insulin Signaling WP481	10/317	1.253712e-01	7.333598e-01	1.630301e+00	3.385281e+00	MAPK4;IKBKB;MIF-AS1;INSR;SOS1;GAB1;PIK3R3;GAS6-AS1;MINK1;PRKCA
+merged_WikiPathway_2021_Human.gmt	Integrated Cancer Pathway WP1971	2/87	5.437202e-01	7.983498e-01	1.374132e+00	8.372868e-01	CHEK2;STAT1
+merged_WikiPathway_2021_Human.gmt	Integrated breast cancer pathway WP1984	5/303	7.606654e-01	8.885083e-01	8.596068e-01	2.351555e-01	MIF-AS1;STAT1;MAX;GAS6-AS1;CHEK2
+merged_WikiPathway_2021_Human.gmt	Integrin-mediated Cell Adhesion WP185	5/200	4.032579e-01	7.827428e-01	1.326260e+00	1.204481e+00	MAPK4;SOS1;ITGB5;GAS6-AS1;CAV1
+merged_WikiPathway_2021_Human.gmt	Interactome of polycomb repressive complex 2 (PRC2)  WP2916	1/31	4.794056e-01	7.983498e-01	2.313080e+00	1.700596e+00	MORC3
+merged_WikiPathway_2021_Human.gmt	Interferon type I signaling pathways WP585	5/107	7.229310e-02	7.333598e-01	2.553305e+00	6.707601e+00	STAT1;PTPN6;VAV1;STAT2;ZAP70
+merged_WikiPathway_2021_Human.gmt	Interleukin-11 Signaling Pathway WP2332	2/87	5.437202e-01	7.983498e-01	1.374132e+00	8.372868e-01	IKBKB;STAT1
+merged_WikiPathway_2021_Human.gmt	Intracellular trafficking proteins involved in CMT neuropathy WP4856	1/53	6.728235e-01	8.613725e-01	1.340859e+00	5.313452e-01	MAPK4
+merged_WikiPathway_2021_Human.gmt	Joubert Syndrome WP4656	3/151	6.121726e-01	8.342963e-01	1.105859e+00	5.426902e-01	RUNDC3A-AS1;KCNQ1OT1;SHH
+merged_WikiPathway_2021_Human.gmt	Kallmann's Syndrome WP5074	3/47	7.391609e-02	7.333598e-01	3.728830e+00	9.712949e+00	MAPK4;PLXND1;FGFR1
+merged_WikiPathway_2021_Human.gmt	Kisspeptin/kisspeptin receptor system in the ovary WP4871	1/77	8.031078e-01	9.021397e-01	9.180036e-01	2.012873e-01	PRKCA
+merged_WikiPathway_2021_Human.gmt	Kit receptor signaling pathway WP304	6/117	3.521684e-02	6.316607e-01	2.784711e+00	9.318285e+00	STAT1;SOS1;PTPN6;SOCS6;VAV1;PRKCA
+merged_WikiPathway_2021_Human.gmt	LDLRAD4 and what we know about it WP4904	1/13	2.392929e-01	7.597631e-01	5.653986e+00	8.085579e+00	OLMALINC
+merged_WikiPathway_2021_Human.gmt	LTF danger signal response pathway WP4478	1/37	5.412999e-01	7.983498e-01	1.931698e+00	1.185641e+00	TLR2
+merged_WikiPathway_2021_Human.gmt	Leptin Insulin Overlap WP3935	1/33	5.009092e-01	7.983498e-01	2.170307e+00	1.500399e+00	PIK3R3
+merged_WikiPathway_2021_Human.gmt	Leptin signaling pathway WP2034	3/151	6.121726e-01	8.342963e-01	1.105859e+00	5.426902e-01	IKBKB;SOS1;STAT1
+merged_WikiPathway_2021_Human.gmt	Lipid Metabolism Pathway WP3965	1/57	6.993513e-01	8.731422e-01	1.245436e+00	4.453705e-01	MIF-AS1
+merged_WikiPathway_2021_Human.gmt	Liver X receptor pathway WP2874	1/19	3.295849e-01	7.827428e-01	3.817993e+00	4.237671e+00	RXRA
+merged_WikiPathway_2021_Human.gmt	LncRNA involvement in canonical Wnt signaling and colorectal cancer WP4258	6/186	1.915143e-01	7.518193e-01	1.708335e+00	2.823524e+00	MIF-AS1;LRP5;TCF7;PRDM16-DT;WNT5A;FZD2
+merged_WikiPathway_2021_Human.gmt	Lung fibrosis WP3624	2/124	7.338376e-01	8.740061e-01	9.555513e-01	2.957121e-01	TERT;PDGFA
+merged_WikiPathway_2021_Human.gmt	MAPK Cascade WP422	1/65	7.461539e-01	8.740061e-01	1.090096e+00	3.192056e-01	SOS1
+merged_WikiPathway_2021_Human.gmt	MAPK Signaling Pathway WP382	11/489	4.394833e-01	7.983498e-01	1.132980e+00	9.314856e-01	MAPK4;IKBKB;FGFR1;MIF-AS1;PDGFA;DUSP4;MEF2C;SOS1;MAX;FLNB;PRKCA
+merged_WikiPathway_2021_Human.gmt	MAPK pathway in congenital thyroid cancer WP4928	1/31	4.794056e-01	7.983498e-01	2.313080e+00	1.700596e+00	SOS1
+merged_WikiPathway_2021_Human.gmt	MECP2 and Associated Rett Syndrome WP3584	4/143	3.471191e-01	7.827428e-01	1.522077e+00	1.610491e+00	MAPK4;MIR9-3HG;MIF-AS1;MEF2C
+merged_WikiPathway_2021_Human.gmt	MET in type 1 papillary renal cell carcinoma WP4205	3/117	4.410630e-01	7.983498e-01	1.439127e+00	1.178022e+00	SOS1;GAB1;PIK3R3
+merged_WikiPathway_2021_Human.gmt	MFAP5 effect on permeability and motility of endothelial cells via cytoskeleton rearrangement WP4560	1/35	5.215286e-01	7.983498e-01	2.044086e+00	1.330682e+00	MYLK
+merged_WikiPathway_2021_Human.gmt	MTHFR deficiency WP4288	1/48	6.363654e-01	8.478094e-01	1.482738e+00	6.701716e-01	CHDH
+merged_WikiPathway_2021_Human.gmt	Major receptors targeted by epinephrine and norepinephrine WP4589	2/29	1.214270e-01	7.333598e-01	4.296998e+00	9.059973e+00	ADCY9;MAPK4
+merged_WikiPathway_2021_Human.gmt	Male infertility WP4673	5/286	7.148118e-01	8.740061e-01	9.130970e-01	3.065595e-01	INSR;PIWIL4;PON2;KLK2;CXXC1
+merged_WikiPathway_2021_Human.gmt	Mammary gland development pathway - Embryonic development (Stage 1 of 4) WP2813	1/29	4.569800e-01	7.983498e-01	2.475893e+00	1.938910e+00	TERT
+merged_WikiPathway_2021_Human.gmt	Mammary gland development pathway - Pregnancy and lactation (Stage 3 of 4) WP2817	2/63	3.784827e-01	7.827428e-01	1.914948e+00	1.860535e+00	CAV1;MIF-AS1
+merged_WikiPathway_2021_Human.gmt	Mechanoregulation and pathology of YAP/TAZ via Hippo and non-Hippo mechanisms WP4534	1/92	8.567424e-01	9.191494e-01	7.663648e-01	1.184938e-01	ITGB5
+merged_WikiPathway_2021_Human.gmt	Melanoma WP4685	4/135	3.092813e-01	7.722772e-01	1.615970e+00	1.896347e+00	E2F3;SOS1;MIF-AS1;PIK3R3
+merged_WikiPathway_2021_Human.gmt	Melatonin metabolism and effects WP3298	2/73	4.508943e-01	7.983498e-01	1.645486e+00	1.310666e+00	CRY1;PRKCA
+merged_WikiPathway_2021_Human.gmt	Mesodermal commitment pathway WP2857	7/290	3.992411e-01	7.827428e-01	1.247954e+00	1.145859e+00	MAPK4;FGFR1;MIF-AS1;FOXC1;SMAD3;FIRRE;AHDC1
+merged_WikiPathway_2021_Human.gmt	Metabolic pathway of LDL, HDL and TG, including diseases WP4522	1/31	4.794056e-01	7.983498e-01	2.313080e+00	1.700596e+00	LPL
+merged_WikiPathway_2021_Human.gmt	Metabolic reprogramming in colon cancer WP4290	2/83	5.183224e-01	7.983498e-01	1.442149e+00	9.477193e-01	ENO1;TALDO1
+merged_WikiPathway_2021_Human.gmt	Metabolism of Spingolipids in ER and Golgi apparatus WP4142	1/39	5.602578e-01	8.168794e-01	1.830987e+00	1.060797e+00	MAPK4
+merged_WikiPathway_2021_Human.gmt	Metapathway biotransformation Phase I and II WP702	4/364	9.483759e-01	9.645677e-01	5.759436e-01	3.052748e-02	UGT2B15;UGT2B17;CHST7;HSD17B3-AS1
+merged_WikiPathway_2021_Human.gmt	Metastatic brain tumor WP2249	1/11	2.065829e-01	7.597631e-01	6.732268e+00	1.061715e+01	E2F3
+merged_WikiPathway_2021_Human.gmt	Methionine De Novo and Salvage Pathway WP3580	2/43	2.250614e-01	7.597631e-01	2.843458e+00	4.240682e+00	MSRB2;CHDH
+merged_WikiPathway_2021_Human.gmt	MicroRNAs in cardiomyocyte hypertrophy WP1544	11/165	6.544163e-04	1.364458e-01	3.626866e+00	2.659134e+01	MAPK4;IKBKB;NFATC4;MIF-AS1;LRP5;MYLK;NPPA;PIK3R3;WNT5A;FZD2;RCAN1
+merged_WikiPathway_2021_Human.gmt	Microglia Pathogen Phagocytosis Pathway WP3937	4/79	8.215955e-02	7.333598e-01	2.830351e+00	7.073308e+00	CYBB;PTPN6;PIK3R3;VAV1
+merged_WikiPathway_2021_Human.gmt	Mitochondrial CIV Assembly WP4922	1/69	7.667593e-01	8.906369e-01	1.026032e+00	2.724961e-01	MIR4458HG
+merged_WikiPathway_2021_Human.gmt	Mitochondrial LC-Fatty Acid Beta-Oxidation WP368	2/33	1.498236e-01	7.333598e-01	3.749861e+00	7.118347e+00	HADH;ECI1
+merged_WikiPathway_2021_Human.gmt	Mitochondrial complex I assembly model OXPHOS system WP4324	2/111	6.761159e-01	8.613725e-01	1.070386e+00	4.189392e-01	FGF14-AS2;MIR4458HG
+merged_WikiPathway_2021_Human.gmt	Mitochondrial complex III assembly WP4921	1/31	4.794056e-01	7.983498e-01	2.313080e+00	1.700596e+00	MIR4458HG
+merged_WikiPathway_2021_Human.gmt	Mitochondrial fatty acid synthesis pathway WP4317	1/9	1.724732e-01	7.415357e-01	8.317976e+00	1.461895e+01	FGF14-AS2
+merged_WikiPathway_2021_Human.gmt	Modulators of TCR signaling and T cell activation WP5072	5/120	1.051004e-01	7.333598e-01	2.262979e+00	5.098129e+00	IKBKB;PTPN6;VAV1;DGKA;ZAP70
+merged_WikiPathway_2021_Human.gmt	Monoamine GPCRs WP58	1/65	7.461539e-01	8.740061e-01	1.090096e+00	3.192056e-01	DRD4
+merged_WikiPathway_2021_Human.gmt	Monoamine Transport WP727	1/63	7.351816e-01	8.740061e-01	1.125203e+00	3.461548e-01	MAPK4
+merged_WikiPathway_2021_Human.gmt	Myometrial relaxation and contraction pathways WP289	5/311	7.802474e-01	8.976345e-01	8.364881e-01	2.075698e-01	MAPK4;CREB3;GNB4;ADCY9;PRKCA
+merged_WikiPathway_2021_Human.gmt	NO/cGMP/PKG mediated Neuroprotection WP4008	1/93	8.597500e-01	9.191494e-01	7.580042e-01	1.145448e-01	NPPA
+merged_WikiPathway_2021_Human.gmt	NRF2 pathway WP2884	6/290	5.638462e-01	8.192470e-01	1.072505e+00	6.145172e-01	CRYZL2P-SEC16B;RXRA;SLC2A5;TXNRD3;SLC39A14;PPARD
+merged_WikiPathway_2021_Human.gmt	NRF2-ARE regulation WP4357	2/45	2.405005e-01	7.597631e-01	2.712186e+00	3.864955e+00	INSR;PRKCA
+merged_WikiPathway_2021_Human.gmt	Nanoparticle triggered autophagic cell death WP2509	1/45	6.125780e-01	8.342963e-01	1.583170e+00	7.758783e-01	INSR
+merged_WikiPathway_2021_Human.gmt	Nanoparticle-mediated activation of receptor signaling WP2643	1/55	6.863664e-01	8.620928e-01	1.291397e+00	4.860089e-01	SOS1
+merged_WikiPathway_2021_Human.gmt	Neovascularisation processes WP4331	1/73	7.856992e-01	8.976345e-01	9.690379e-01	2.337137e-01	SMAD3
+merged_WikiPathway_2021_Human.gmt	Nephrogenesis WP5052	1/33	5.009092e-01	7.983498e-01	2.170307e+00	1.500399e+00	NOTCH2
+merged_WikiPathway_2021_Human.gmt	Nephrotic syndrome WP4758	1/88	8.440565e-01	9.191494e-01	8.017183e-01	1.359200e-01	E2F3
+merged_WikiPathway_2021_Human.gmt	Netrin-UNC5B signaling pathway WP4747	3/102	3.568686e-01	7.827428e-01	1.658563e+00	1.708963e+00	MAPK4;PTK2B;PRKCA
+merged_WikiPathway_2021_Human.gmt	Neural Crest Cell Migration during Development WP4564	1/79	8.112767e-01	9.021397e-01	8.944368e-01	1.870680e-01	PIK3R3
+merged_WikiPathway_2021_Human.gmt	Neural Crest Cell Migration in Cancer WP4565	2/85	5.311378e-01	7.983498e-01	1.407326e+00	8.904627e-01	MAPK4;PIK3R3
+merged_WikiPathway_2021_Human.gmt	Neural Crest Differentiation WP2064	7/201	1.262829e-01	7.333598e-01	1.835457e+00	3.797984e+00	MSX1;FGFR1;MIF-AS1;NOTCH2;HDAC6;HOXA1;MYB
+merged_WikiPathway_2021_Human.gmt	Nicotine Activity on Dopaminergic Neurons WP1602	2/41	2.097030e-01	7.597631e-01	2.988024e+00	4.667482e+00	KCNK9;DRD4
+merged_WikiPathway_2021_Human.gmt	Non-genomic actions of 1,25 dihydroxyvitamin D3 WP4341	9/141	2.700736e-03	2.069709e-01	3.467376e+00	2.050686e+01	IKBKB;VDR;STAT1;RXRA;NOD2;CAV1;STAT2;PRKCA;TLR2
+merged_WikiPathway_2021_Human.gmt	Non-homologous end joining WP438	1/19	3.295849e-01	7.827428e-01	3.817993e+00	4.237671e+00	FIRRE
+merged_WikiPathway_2021_Human.gmt	Non-small cell lung cancer WP4255	5/143	1.775888e-01	7.479801e-01	1.882839e+00	3.254081e+00	SOS1;PIK3R3;RXRA;E2F3;PRKCA
+merged_WikiPathway_2021_Human.gmt	Nonalcoholic fatty liver disease WP4396	6/309	6.260309e-01	8.455715e-01	1.003421e+00	4.699577e-01	IKBKB;MIR4458HG;INSR;PIK3R3;RXRA;ZFP28-DT
+merged_WikiPathway_2021_Human.gmt	Notch Signaling Pathway Netpath WP61	3/121	4.628552e-01	7.983498e-01	1.389993e+00	1.070768e+00	FBXW7;NOTCH2;MIF-AS1
+merged_WikiPathway_2021_Human.gmt	Notch Signaling WP268	1/89	8.473291e-01	9.191494e-01	7.925803e-01	1.313037e-01	NOTCH2
+merged_WikiPathway_2021_Human.gmt	Novel intracellular components of RIG-I-like receptor (RLR) pathway WP3865	1/118	9.175406e-01	9.476365e-01	5.952388e-01	5.122534e-02	IKBKB
+merged_WikiPathway_2021_Human.gmt	Nuclear Receptors Meta-Pathway WP2882	12/636	6.793404e-01	8.613725e-01	9.338675e-01	3.610640e-01	LINC02924;CRYZL2P-SEC16B;NR1I2;RXRA;TGFBR3;SLC2A5;TXNRD3;LINC02532;HSD17B3-AS1;SLC39A14;VDR;PPARD
+merged_WikiPathway_2021_Human.gmt	Nuclear Receptors in Lipid Metabolism and Toxicity WP299	2/65	3.933094e-01	7.827428e-01	1.854266e+00	1.730325e+00	NR1I2;PPARD
+merged_WikiPathway_2021_Human.gmt	Nuclear receptors WP170	5/75	1.980880e-02	5.162668e-01	3.724112e+00	1.460459e+01	THRB;RXRA;NR1I2;VDR;PPARD
+merged_WikiPathway_2021_Human.gmt	Nucleotide Excision Repair WP4753	1/87	8.407141e-01	9.191494e-01	8.110675e-01	1.407232e-01	MIF-AS1
+merged_WikiPathway_2021_Human.gmt	Nucleotide metabolism WP404	1/36	5.315180e-01	7.983498e-01	1.986309e+00	1.255384e+00	RRM2
+merged_WikiPathway_2021_Human.gmt	Nucleotide-binding Oligomerization Domain (NOD) pathway WP1433	4/81	8.818599e-02	7.333598e-01	2.756760e+00	6.694261e+00	IKBKB;ACAP1;NOD2;NOD1
+merged_WikiPathway_2021_Human.gmt	Oligodendrocyte specification and differentiation, leading to myelin components for CNS WP4304	2/59	3.484009e-01	7.827428e-01	2.048977e+00	2.160444e+00	MAPK4;SHH
+merged_WikiPathway_2021_Human.gmt	Omega-9 FA synthesis WP4724	1/27	4.335930e-01	7.983498e-01	2.663280e+00	2.225567e+00	MAPK4
+merged_WikiPathway_2021_Human.gmt	Oncostatin M Signaling Pathway WP2374	4/128	2.765483e-01	7.673035e-01	1.708024e+00	2.195442e+00	PTK2B;SOS1;PRKCA;STAT1
+merged_WikiPathway_2021_Human.gmt	One-carbon metabolism WP241	2/59	3.484009e-01	7.827428e-01	2.048977e+00	2.160444e+00	CRYZL2P-SEC16B;CHDH
+merged_WikiPathway_2021_Human.gmt	One-carbon metabolism and related pathways WP3940	7/102	5.324984e-03	2.467243e-01	3.775472e+00	1.976590e+01	PLD1;CRYZL2P-SEC16B;SOD1;CHDH;LINC02532;GAD2;BCAT1
+merged_WikiPathway_2021_Human.gmt	Osteoblast differentiation WP4787	9/235	5.698848e-02	7.333598e-01	2.009284e+00	5.756411e+00	MAPK4;FGFR1;MIF-AS1;LRP5;STAT1;NOTCH2;PIK3R3;FZD2;PRKCA
+merged_WikiPathway_2021_Human.gmt	Osteopontin Signaling WP1434	1/24	3.966198e-01	7.827428e-01	3.004166e+00	2.778184e+00	IKBKB
+merged_WikiPathway_2021_Human.gmt	Ovarian infertility WP34	1/63	7.351816e-01	8.740061e-01	1.125203e+00	3.461548e-01	VDR
+merged_WikiPathway_2021_Human.gmt	Overview of interferons-mediated signaling pathway WP4558	3/73	1.941672e-01	7.518193e-01	2.347584e+00	3.847775e+00	STAT2;PRKCA;STAT1
+merged_WikiPathway_2021_Human.gmt	Overview of leukocyte-intrinsic Hippo pathway functions WP4542	2/68	4.152440e-01	7.906701e-01	1.770087e+00	1.555710e+00	LPL;CD19
+merged_WikiPathway_2021_Human.gmt	Oxidation by Cytochrome P450 WP43	1/121	9.226389e-01	9.476365e-01	5.802455e-01	4.671980e-02	CRYZL2P-SEC16B
+merged_WikiPathway_2021_Human.gmt	Oxidative Stress WP408	2/65	3.933094e-01	7.827428e-01	1.854266e+00	1.730325e+00	CYBB;SOD1
+merged_WikiPathway_2021_Human.gmt	Oxidative phosphorylation WP623	3/119	4.520030e-01	7.983498e-01	1.414138e+00	1.122920e+00	ZFP28-DT;FGF14-AS2;MIR4458HG
+merged_WikiPathway_2021_Human.gmt	Oxysterols derived from cholesterol WP4545	2/91	5.681767e-01	8.198259e-01	1.312195e+00	7.418137e-01	NR1I2;GPR183
+merged_WikiPathway_2021_Human.gmt	PDGF Pathway WP2526	4/79	8.215955e-02	7.333598e-01	2.830351e+00	7.073308e+00	SOS1;PDGFA;VAV1;STAT1
+merged_WikiPathway_2021_Human.gmt	PDGFR-beta pathway WP3972	3/57	1.151383e-01	7.333598e-01	3.041619e+00	6.574827e+00	SOS1;PRKCA;STAT1
+merged_WikiPathway_2021_Human.gmt	PI3K-AKT-mTOR signaling pathway and therapeutic opportunities WP3844	1/59	7.118010e-01	8.740061e-01	1.202618e+00	4.088383e-01	PIK3R3
+merged_WikiPathway_2021_Human.gmt	PI3K-Akt signaling pathway WP4172	15/678	4.413234e-01	7.983498e-01	1.101694e+00	9.011607e-01	IKBKB;CREB3;FGFR1;MIF-AS1;PDGFA;GNB4;INSR;SOS1;PIK3R3;ITGB5;CD19;HSD17B3-AS1;MYB;PRKCA;TLR2
+merged_WikiPathway_2021_Human.gmt	PI3K/AKT/mTOR - VitD3 signaling WP4141	2/43	2.250614e-01	7.597631e-01	2.843458e+00	4.240682e+00	RXRA;VDR
+merged_WikiPathway_2021_Human.gmt	PKC-gamma calcium signaling pathway in ataxia WP4760	1/43	5.958656e-01	8.338119e-01	1.658001e+00	8.584137e-01	MAPK4
+merged_WikiPathway_2021_Human.gmt	PPAR signaling pathway WP3942	4/133	2.998801e-01	7.673035e-01	1.641255e+00	1.976683e+00	CRYZL2P-SEC16B;RXRA;LPL;PPARD
+merged_WikiPathway_2021_Human.gmt	PPAR-alpha pathway WP2878	1/51	6.586986e-01	8.613725e-01	1.394239e+00	5.820799e-01	RXRA
+merged_WikiPathway_2021_Human.gmt	Pancreatic adenocarcinoma pathway WP4263	7/177	7.644086e-02	7.333598e-01	2.098884e+00	5.396730e+00	IKBKB;PLD1;MIF-AS1;STAT1;PIK3R3;SMAD3;E2F3
+merged_WikiPathway_2021_Human.gmt	Parkin-Ubiquitin Proteasomal System pathway WP2359	1/138	9.461360e-01	9.645677e-01	5.076414e-01	2.810760e-02	FBXW7
+merged_WikiPathway_2021_Human.gmt	Parkinson's disease pathway WP2371	1/73	7.856992e-01	8.976345e-01	9.690379e-01	2.337137e-01	MIF-AS1
+merged_WikiPathway_2021_Human.gmt	Pathogenesis of SARS-CoV-2 Mediated by nsp9-nsp10 Complex WP4884	1/41	5.784357e-01	8.260538e-01	1.740223e+00	9.526464e-01	ZAP70
+merged_WikiPathway_2021_Human.gmt	Pathogenic Escherichia coli infection WP2272	1/109	9.001508e-01	9.384072e-01	6.451935e-01	6.786981e-02	PRKCA
+merged_WikiPathway_2021_Human.gmt	Pathways Regulating Hippo Signaling WP4540	7/194	1.103312e-01	7.333598e-01	1.905324e+00	4.199845e+00	MAPK4;FGFR1;MIF-AS1;INSR;TCF7;SMAD3;PRKCA
+merged_WikiPathway_2021_Human.gmt	Pathways affected in adenoid cystic carcinoma WP3651	5/128	1.283751e-01	7.333598e-01	2.114697e+00	4.341047e+00	MAX;MYBL1;CHEK2;KCNQ1OT1;MYB
+merged_WikiPathway_2021_Human.gmt	Pathways in clear cell renal cell carcinoma WP4018	7/169	6.294005e-02	7.333598e-01	2.203985e+00	6.095279e+00	PFKP;MAPK4;TOX2;KCNJ2;ENO1;BHLHE41;TPI1
+merged_WikiPathway_2021_Human.gmt	Pentose Phosphate Metabolism WP134	1/13	2.392929e-01	7.597631e-01	5.653986e+00	8.085579e+00	TALDO1
+merged_WikiPathway_2021_Human.gmt	Peptide GPCRs WP24	1/147	9.555414e-01	9.671378e-01	4.760257e-01	2.164830e-02	CCR6
+merged_WikiPathway_2021_Human.gmt	Phase I biotransformations, non P450 WP136	1/15	2.706604e-01	7.661470e-01	4.873161e+00	6.368688e+00	PON2
+merged_WikiPathway_2021_Human.gmt	Phosphodiesterases in neuronal function WP4222	2/104	6.410447e-01	8.486211e-01	1.144285e+00	5.088134e-01	ADCY9;MAPK4
+merged_WikiPathway_2021_Human.gmt	Phosphoinositides metabolism WP4971	2/97	6.030682e-01	8.342963e-01	1.229018e+00	6.215450e-01	MAPK4;PLCD3
+merged_WikiPathway_2021_Human.gmt	Photodynamic therapy-induced NF-kB survival signaling WP3617	2/69	4.224682e-01	7.962284e-01	1.743690e+00	1.502435e+00	IKBKB;MIR155HG
+merged_WikiPathway_2021_Human.gmt	Physiological and pathological hypertrophy of the heart WP1528	2/49	2.714933e-01	7.661470e-01	2.482805e+00	3.237126e+00	NFATC4;MAPK4
+merged_WikiPathway_2021_Human.gmt	Phytochemical activity on NRF2 transcriptional activation WP3	1/29	4.569800e-01	7.983498e-01	2.475893e+00	1.938910e+00	PRKCA
+merged_WikiPathway_2021_Human.gmt	Pilocytic astrocytoma WP2253	1/11	2.065829e-01	7.597631e-01	6.732268e+00	1.061715e+01	SOS1
+merged_WikiPathway_2021_Human.gmt	Platelet-mediated interactions with vascular and circulating cells WP4462	1/33	5.009092e-01	7.983498e-01	2.170307e+00	1.500399e+00	TLR2
+merged_WikiPathway_2021_Human.gmt	Prader-Willi and Angelman Syndrome WP3998	2/121	7.213439e-01	8.740061e-01	9.798340e-01	3.200523e-01	LHB;MSX1
+merged_WikiPathway_2021_Human.gmt	Pre-implantation embryo WP3527	1/114	9.102190e-01	9.465369e-01	6.164628e-01	5.799071e-02	MYBL1
+merged_WikiPathway_2021_Human.gmt	Pregnane X receptor pathway WP2876	3/65	1.530031e-01	7.333598e-01	2.650184e+00	4.975181e+00	CRYZL2P-SEC16B;NR1I2;RXRA
+merged_WikiPathway_2021_Human.gmt	Primary focal segmental glomerulosclerosis (FSGS) WP2572	4/143	3.471191e-01	7.827428e-01	1.522077e+00	1.610491e+00	MAPK4;CR1;MKI67;LRP5
+merged_WikiPathway_2021_Human.gmt	Prion disease pathway WP3995	4/65	4.611272e-02	6.867502e-01	3.479502e+00	1.070527e+01	RXRA;PAX5;FGFR1;MEF2C
+merged_WikiPathway_2021_Human.gmt	Prolactin Signaling Pathway WP2037	5/151	2.063673e-01	7.597631e-01	1.778595e+00	2.806797e+00	STAT1;SOS1;PTPN6;VAV1;ZAP70
+merged_WikiPathway_2021_Human.gmt	Prostaglandin Synthesis and Regulation WP98	1/89	8.473291e-01	9.191494e-01	7.925803e-01	1.313037e-01	TBXAS1
+merged_WikiPathway_2021_Human.gmt	Proteasome Degradation WP183	1/119	9.192761e-01	9.476365e-01	5.901567e-01	4.967273e-02	MIR155HG
+merged_WikiPathway_2021_Human.gmt	Proximal tubule transport WP4917	2/113	6.856129e-01	8.620928e-01	1.050976e+00	3.966826e-01	LINC01507;MAPK8IP3-AS1
+merged_WikiPathway_2021_Human.gmt	Pyrimidine metabolism WP4022	3/166	6.756477e-01	8.613725e-01	1.002893e+00	3.932176e-01	RRM2;DPYD;MIF-AS1
+merged_WikiPathway_2021_Human.gmt	Pyrimidine metabolism and related diseases WP4225	2/33	1.498236e-01	7.333598e-01	3.749861e+00	7.118347e+00	RRM2;DPYD
+merged_WikiPathway_2021_Human.gmt	RAC1/PAK1/p38/MMP2 Pathway WP3303	3/135	5.359492e-01	7.983498e-01	1.241385e+00	7.742716e-01	IKBKB;SOS1;MIF-AS1
+merged_WikiPathway_2021_Human.gmt	RANKL/RANK signaling pathway WP2018	2/109	6.663880e-01	8.613725e-01	1.090518e+00	4.426228e-01	IKBKB;STAT1
+merged_WikiPathway_2021_Human.gmt	RAS and bradykinin pathways in COVID-19 WP4969	3/57	1.151383e-01	7.333598e-01	3.041619e+00	6.574827e+00	CRYZL2P-SEC16B;KLK1;VDR
+merged_WikiPathway_2021_Human.gmt	Ras signaling WP4223	17/366	1.645940e-03	1.727036e-01	2.464352e+00	1.579512e+01	MAPK4;IKBKB;ZAP70;FGFR1;MIF-AS1;GNB4;PLD1;INSR;PLA2G2D;KRTAP5-AS1;SOS1;GAB1;PIK3R3;GAS6-AS1;KSR2;PRKCA;RASAL1
+merged_WikiPathway_2021_Human.gmt	Regulation of Actin Cytoskeleton WP51	10/298	9.308370e-02	7.333598e-01	1.741034e+00	4.133661e+00	MAPK4;FGFR1;MIF-AS1;PDGFA;SOS1;ARHGEF1;MYLK;PRDM16-DT;VAV1;PIK3R3
+merged_WikiPathway_2021_Human.gmt	Regulation of Microtubule Cytoskeleton WP2038	3/91	2.940411e-01	7.673035e-01	1.866760e+00	2.284981e+00	MAPK4;MIR9-3HG;PRKCA
+merged_WikiPathway_2021_Human.gmt	Regulation of toll-like receptor signaling pathway WP1449	6/277	5.186738e-01	7.983498e-01	1.125344e+00	7.387663e-01	IRF5;IKBKB;STAT1;PTPN6;PIK3R3;TLR2
+merged_WikiPathway_2021_Human.gmt	Regulatory circuits of the STAT3 signaling pathway WP4538	1/155	9.625191e-01	9.718413e-01	4.510150e-01	1.722940e-02	MAPK4
+merged_WikiPathway_2021_Human.gmt	Renin-angiotensin-aldosterone system (RAAS) WP4756	2/87	5.437202e-01	7.983498e-01	1.374132e+00	8.372868e-01	MAPK4;CREB3
+merged_WikiPathway_2021_Human.gmt	Resistin as a regulator of inflammation WP4481	2/65	3.933094e-01	7.827428e-01	1.854266e+00	1.730325e+00	IKBKB;PLCD3
+merged_WikiPathway_2021_Human.gmt	Retinoblastoma gene in cancer WP2446	5/172	2.879388e-01	7.673035e-01	1.552331e+00	1.932664e+00	HMGB2;HLTF;MIF-AS1;RRM2;E2F3
+merged_WikiPathway_2021_Human.gmt	Rett syndrome causing genes WP4312	4/95	1.358955e-01	7.333598e-01	2.331706e+00	4.653779e+00	MAPK4;HIVEP2;SATB2;MEF2C
+merged_WikiPathway_2021_Human.gmt	Role of Altered Glycolysation of MUC1 in Tumour Microenvironment WP4480	1/17	3.007402e-01	7.673035e-01	4.281627e+00	5.144412e+00	IKBKB
+merged_WikiPathway_2021_Human.gmt	Role of Osx and miRNAs in tooth development WP3971	1/29	4.569800e-01	7.983498e-01	2.475893e+00	1.938910e+00	NOTCH2
+merged_WikiPathway_2021_Human.gmt	SARS coronavirus and innate immunity WP4912	2/61	3.635083e-01	7.827428e-01	1.979710e+00	2.003374e+00	STAT2;STAT1
+merged_WikiPathway_2021_Human.gmt	SARS-CoV-2 and angiotensin-converting enzyme 2 receptor: molecular mechanisms WP4883	1/13	2.392929e-01	7.597631e-01	5.653986e+00	8.085579e+00	CRYZL2P-SEC16B
+merged_WikiPathway_2021_Human.gmt	SARS-CoV-2 innate immunity evasion and cell-specific immune response WP5039	4/131	2.905147e-01	7.673035e-01	1.667334e+00	2.060993e+00	LAG3;SMAD3;STAT2;STAT1
+merged_WikiPathway_2021_Human.gmt	SCFA and skeletal muscle substrate metabolism WP4030	1/11	2.065829e-01	7.597631e-01	6.732268e+00	1.061715e+01	PPARD
+merged_WikiPathway_2021_Human.gmt	SRF and miRs in Smooth Muscle Differentiation and Proliferation WP1991	1/21	3.572452e-01	7.827428e-01	3.444823e+00	3.545871e+00	MEF2C
+merged_WikiPathway_2021_Human.gmt	STING pathway in Kawasaki-like disease and COVID-19 WP4961	1/42	5.872422e-01	8.329252e-01	1.698121e+00	9.039403e-01	IKBKB
+merged_WikiPathway_2021_Human.gmt	Selenium Micronutrient Network WP15	5/176	3.041652e-01	7.673035e-01	1.515516e+00	1.803743e+00	INSR;SOD1;CRYZL2P-SEC16B;TXNRD3;LINC02532
+merged_WikiPathway_2021_Human.gmt	Senescence and Autophagy in Cancer WP615	3/209	8.145878e-01	9.034125e-01	7.906281e-01	1.621365e-01	IRF5;SMAD3;MIF-AS1
+merged_WikiPathway_2021_Human.gmt	Signal Transduction of S1P Receptor WP26	2/48	2.637401e-01	7.661470e-01	2.536451e+00	3.380560e+00	MAPK4;S1PR2
+merged_WikiPathway_2021_Human.gmt	Signal transduction through IL1R WP4496	1/64	7.407255e-01	8.740061e-01	1.107373e+00	3.323504e-01	IKBKB
+merged_WikiPathway_2021_Human.gmt	Signaling of Hepatocyte Growth Factor Receptor WP313	3/67	1.630226e-01	7.415357e-01	2.567497e+00	4.657096e+00	PTK2B;SOS1;GAB1
+merged_WikiPathway_2021_Human.gmt	Simplified Depiction of MYD88 Distinct Input-Output Pathway WP3877	1/35	5.215286e-01	7.983498e-01	2.044086e+00	1.330682e+00	TLR2
+merged_WikiPathway_2021_Human.gmt	Simplified Interaction Map Between LOXL4 and Oxidative Stress Pathway WP3670	1/35	5.215286e-01	7.983498e-01	2.044086e+00	1.330682e+00	DDR1
+merged_WikiPathway_2021_Human.gmt	Small Ligand GPCRs WP247	2/37	1.793717e-01	7.479801e-01	3.326022e+00	5.715086e+00	S1PR2;CNR1
+merged_WikiPathway_2021_Human.gmt	Small cell lung cancer WP4658	6/191	2.076205e-01	7.597631e-01	1.661452e+00	2.611874e+00	IKBKB;MIF-AS1;MAX;PIK3R3;RXRA;E2F3
+merged_WikiPathway_2021_Human.gmt	Sphingolipid Metabolism (general overview) WP4725	2/47	2.559878e-01	7.661470e-01	2.592454e+00	3.532544e+00	MAPK4;CERS6
+merged_WikiPathway_2021_Human.gmt	Sphingolipid Metabolism (integrated pathway) WP4726	2/49	2.714933e-01	7.661470e-01	2.482805e+00	3.237126e+00	MAPK4;CERS6
+merged_WikiPathway_2021_Human.gmt	Sphingolipid pathway WP1422	3/57	1.151383e-01	7.333598e-01	3.041619e+00	6.574827e+00	MAPK4;CERS6;LINC00865
+merged_WikiPathway_2021_Human.gmt	Spinal Cord Injury WP2431	5/235	5.434292e-01	7.983498e-01	1.120908e+00	6.835924e-01	MAPK4;KCNJ2-AS1;LGALS3;CSPG4;PRKCA
+merged_WikiPathway_2021_Human.gmt	Splicing factor NOVA regulated synaptic proteins WP4148	1/82	8.229017e-01	9.054090e-01	8.612553e-01	1.678746e-01	MAPK4
+merged_WikiPathway_2021_Human.gmt	Statin inhibition of cholesterol production WP430	2/57	3.331766e-01	7.827428e-01	2.123236e+00	2.333611e+00	CRYZL2P-SEC16B;LPL
+merged_WikiPathway_2021_Human.gmt	Sterol regulatory element-binding proteins (SREBP) signaling WP1982	1/137	9.449757e-01	9.645677e-01	5.114117e-01	2.894390e-02	LPL
+merged_WikiPathway_2021_Human.gmt	Structural Pathway of Interleukin 1 (IL-1) WP2637	1/96	8.684007e-01	9.214328e-01	7.339728e-01	1.035650e-01	IKBKB
+merged_WikiPathway_2021_Human.gmt	Sudden Infant Death Syndrome (SIDS) Susceptibility Pathways WP706	6/312	6.353778e-01	8.478094e-01	9.932956e-01	4.504948e-01	MAPK4;KRTAP5-AS1;PDE6B-AS1;THRB;MEF2C;MYB
+merged_WikiPathway_2021_Human.gmt	Sulindac Metabolic Pathway WP2542	1/9	1.724732e-01	7.415357e-01	8.317976e+00	1.461895e+01	MSRB2
+merged_WikiPathway_2021_Human.gmt	Synaptic Vesicle Pathway WP2267	1/101	8.816542e-01	9.275499e-01	6.971089e-01	8.780460e-02	MAPK4
+merged_WikiPathway_2021_Human.gmt	Synaptic signaling pathways associated with autism spectrum disorder WP4539	2/99	6.142181e-01	8.342963e-01	1.203567e+00	5.866248e-01	MAPK4;PIK3R3
+merged_WikiPathway_2021_Human.gmt	T-Cell Receptor and Co-stimulatory Signaling WP2583	4/57	3.053587e-02	6.316607e-01	4.002983e+00	1.396582e+01	PRKCA;PTPN6;NFATC2;ZAP70
+merged_WikiPathway_2021_Human.gmt	T-Cell antigen Receptor (TCR) pathway during Staphylococcus aureus infection WP3863	5/122	1.107081e-01	7.333598e-01	2.224016e+00	4.894744e+00	IKBKB;SOS1;PTPN6;NFATC2;ZAP70
+merged_WikiPathway_2021_Human.gmt	T-cell receptor (TCR) signaling pathway WP69	6/178	1.668232e-01	7.415357e-01	1.789001e+00	3.203780e+00	IKBKB;SOS1;VAV1;PTK2B;NFATC2;ZAP70
+merged_WikiPathway_2021_Human.gmt	TGF-B Signaling in Thyroid Cells for Epithelial-Mesenchymal Transition WP3859	1/35	5.215286e-01	7.983498e-01	2.044086e+00	1.330682e+00	SMAD3
+merged_WikiPathway_2021_Human.gmt	TGF-beta Receptor Signaling WP560	5/107	7.229310e-02	7.333598e-01	2.553305e+00	6.707601e+00	ZFYVE9;STAT1;SMAD3;TGFBR3;ENG
+merged_WikiPathway_2021_Human.gmt	TGF-beta Signaling Pathway WP366	11/262	2.107664e-02	5.169975e-01	2.206346e+00	8.515592e+00	MAPK4;MIF-AS1;ZFYVE9;MEF2C;SOS1;SMAD3;TGFBR3;KLF10;GAS6-AS1;CAV1;TERT
+merged_WikiPathway_2021_Human.gmt	TGF-beta receptor signaling in skeletal dysplasias WP4816	5/115	9.172219e-02	7.333598e-01	2.366559e+00	5.653688e+00	ZFYVE9;STAT1;SMAD3;TGFBR3;ENG
+merged_WikiPathway_2021_Human.gmt	TLR4 Signaling and Tolerance WP3851	1/55	6.863664e-01	8.620928e-01	1.291397e+00	4.860089e-01	IKBKB
+merged_WikiPathway_2021_Human.gmt	TNF related weak inducer of apoptosis (TWEAK) Signaling Pathway WP2036	1/82	8.229017e-01	9.054090e-01	8.612553e-01	1.678746e-01	IKBKB
+merged_WikiPathway_2021_Human.gmt	TNF-alpha signaling pathway WP231	3/182	7.345951e-01	8.740061e-01	9.120301e-01	2.813028e-01	IKBKB;SOS1;KSR2
+merged_WikiPathway_2021_Human.gmt	TP53 network WP1742	1/37	5.412999e-01	7.983498e-01	1.931698e+00	1.185641e+00	TP63
+merged_WikiPathway_2021_Human.gmt	TYROBP causal network in microglia WP3945	1/121	9.226389e-01	9.476365e-01	5.802455e-01	4.671980e-02	DPYD
+merged_WikiPathway_2021_Human.gmt	Tamoxifen metabolism WP691	1/41	5.784357e-01	8.260538e-01	1.740223e+00	9.526464e-01	UGT2B15
+merged_WikiPathway_2021_Human.gmt	Target Of Rapamycin (TOR) Signaling WP1471	1/71	7.764288e-01	8.968721e-01	9.967267e-01	2.522220e-01	PRKCA
+merged_WikiPathway_2021_Human.gmt	Tgif disruption of Shh signaling WP3674	1/17	3.007402e-01	7.673035e-01	4.281627e+00	5.144412e+00	SHH
+merged_WikiPathway_2021_Human.gmt	The Overlap Between Signal Transduction Pathways that Contribute to a Range of LMNA Laminopathies WP4879	3/109	3.965486e-01	7.827428e-01	1.548467e+00	1.432265e+00	SMAD3;TCF7;MIF-AS1
+merged_WikiPathway_2021_Human.gmt	The influence of laminopathies on Wnt signaling WP4844	1/69	7.667593e-01	8.906369e-01	1.026032e+00	2.724961e-01	TCF7
+merged_WikiPathway_2021_Human.gmt	Thermogenesis WP4321	9/215	3.573710e-02	6.316607e-01	2.208344e+00	7.357243e+00	MAPK4;CREB3;PRDM16;FGFR1;MIF-AS1;ADCY9;SOS1;DPF3;CNR1
+merged_WikiPathway_2021_Human.gmt	Thymic Stromal LymphoPoietin (TSLP) Signaling Pathway WP2203	1/93	8.597500e-01	9.191494e-01	7.580042e-01	1.145448e-01	STAT1
+merged_WikiPathway_2021_Human.gmt	Thyroid hormones production and their peripheral downstream signaling effects WP4746	8/189	4.383424e-02	6.867502e-01	2.242856e+00	7.014172e+00	CREB3;PRDM16;FGFR1;SHH;THRB;SOS1;NPPA;RXRA
+merged_WikiPathway_2021_Human.gmt	Thyroid stimulating hormone (TSH) signaling pathway WP2032	3/131	5.156217e-01	7.983498e-01	1.280540e+00	8.482066e-01	MAPK4;PLD1;STAT1
+merged_WikiPathway_2021_Human.gmt	Toll-like Receptor Signaling Pathway WP75	5/205	4.238914e-01	7.962284e-01	1.292535e+00	1.109354e+00	IRF5;IKBKB;STAT1;PIK3R3;TLR2
+merged_WikiPathway_2021_Human.gmt	Toll-like Receptor Signaling related to MyD88 WP3858	2/61	3.635083e-01	7.827428e-01	1.979710e+00	2.003374e+00	IKBKB;TLR2
+merged_WikiPathway_2021_Human.gmt	Transcription co-factors SKI and SKIL protein partners WP4533	1/35	5.215286e-01	7.983498e-01	2.044086e+00	1.330682e+00	SATB2
+merged_WikiPathway_2021_Human.gmt	Transcription factor regulation in adipogenesis WP3599	2/43	2.250614e-01	7.597631e-01	2.843458e+00	4.240682e+00	INSR;RXRA
+merged_WikiPathway_2021_Human.gmt	Translation inhibitors in chronically activated PDGFRA cells WP4566	2/91	5.681767e-01	8.198259e-01	1.312195e+00	7.418137e-01	PIK3R3;PRKCA
+merged_WikiPathway_2021_Human.gmt	Triacylglyceride synthesis WP325	3/47	7.391609e-02	7.333598e-01	3.728830e+00	9.712949e+00	CRYZL2P-SEC16B;AGPAT4;LPL
+merged_WikiPathway_2021_Human.gmt	Tryptophan metabolism WP465	2/82	5.118285e-01	7.983498e-01	1.460209e+00	9.779980e-01	CRYZL2P-SEC16B;HADH
+merged_WikiPathway_2021_Human.gmt	Tumor suppressor activity of SMARCB1 WP4204	1/60	7.178320e-01	8.740061e-01	1.182288e+00	3.919519e-01	DPF3
+merged_WikiPathway_2021_Human.gmt	Type I collagen synthesis in the context of Osteogenesis imperfecta WP4786	2/65	3.933094e-01	7.827428e-01	1.854266e+00	1.730325e+00	SERPINH1;LRP5
+merged_WikiPathway_2021_Human.gmt	Type I interferon induction and signaling during SARS-CoV-2 infection WP4868	2/61	3.635083e-01	7.827428e-01	1.979710e+00	2.003374e+00	STAT2;TLR2
+merged_WikiPathway_2021_Human.gmt	Type II diabetes mellitus WP1584	2/43	2.250614e-01	7.597631e-01	2.843458e+00	4.240682e+00	INSR;IKBKB
+merged_WikiPathway_2021_Human.gmt	Type II interferon signaling (IFNG) WP619	3/73	1.941672e-01	7.518193e-01	2.347584e+00	3.847775e+00	CYBB;STAT2;STAT1
+merged_WikiPathway_2021_Human.gmt	Type III interferon signaling WP2113	2/19	5.843192e-02	7.333598e-01	6.759117e+00	1.919517e+01	STAT2;STAT1
+merged_WikiPathway_2021_Human.gmt	Urea cycle and associated pathways WP4595	1/47	6.286023e-01	8.455715e-01	1.514776e+00	7.032443e-01	CRYZL2P-SEC16B
+merged_WikiPathway_2021_Human.gmt	Urea cycle and metabolism of amino groups WP497	1/41	5.784357e-01	8.260538e-01	1.740223e+00	9.526464e-01	CRYZL2P-SEC16B
+merged_WikiPathway_2021_Human.gmt	VEGFA-VEGFR2 Signaling Pathway WP3888	26/859	3.345543e-02	6.316607e-01	1.557888e+00	5.292990e+00	CYBB;MIR155HG;CRYZL2P-SEC16B;PRDM16-DT;PTMA;FLNB;CCRL2;EGR3;KLF3-AS1;MAPK4;MEF2C;GAB1;ENG;RCAN1;MIF-AS1;STAT1;PTPN6;LINC01108;FLNB-AS1;FOXD2-AS1;ITGB5;PTK2B;GAS6-AS1;CAV1;NFATC2;PRKCA
+merged_WikiPathway_2021_Human.gmt	Valproic acid pathway WP3871	1/25	4.092037e-01	7.827428e-01	2.881262e+00	2.574529e+00	ACADSB
+merged_WikiPathway_2021_Human.gmt	Vitamin A and carotenoid metabolism WP716	3/85	2.600413e-01	7.661470e-01	2.003722e+00	2.698843e+00	CRYZL2P-SEC16B;RXRA;LPL
+merged_WikiPathway_2021_Human.gmt	Vitamin B12 Disorders WP4271	1/23	3.837693e-01	7.827428e-01	3.137995e+00	3.005301e+00	LINC00173
+merged_WikiPathway_2021_Human.gmt	Vitamin B12 metabolism WP1533	4/97	1.434318e-01	7.333598e-01	2.281374e+00	4.430190e+00	INSR;SOD1;CRYZL2P-SEC16B;LINC02532
+merged_WikiPathway_2021_Human.gmt	Vitamin D Metabolism WP1531	2/19	5.843192e-02	7.333598e-01	6.759117e+00	1.919517e+01	RXRA;VDR
+merged_WikiPathway_2021_Human.gmt	Vitamin D Receptor Pathway WP2877	7/363	6.350120e-01	8.478094e-01	9.850465e-01	4.473209e-01	IRF5;LRP5;RXRA;HSD17B3-AS1;NFATC2;VDR;PPARD
+merged_WikiPathway_2021_Human.gmt	Vitamin D in inflammatory diseases WP4482	3/43	5.969533e-02	7.333598e-01	4.098736e+00	1.155229e+01	IKBKB;RXRA;VDR
+merged_WikiPathway_2021_Human.gmt	Vitamin D-sensitive calcium signaling in depression WP4698	2/80	4.986703e-01	7.983498e-01	1.497710e+00	1.042122e+00	MAPK4;RXRA
+merged_WikiPathway_2021_Human.gmt	Wnt Signaling Pathway WP363	4/103	1.669816e-01	7.415357e-01	2.142521e+00	3.834838e+00	MAPK4;NFATC2;PRKCA;LRP5
+merged_WikiPathway_2021_Human.gmt	Wnt signaling WP428	11/229	8.381039e-03	3.420080e-01	2.548063e+00	1.218429e+01	MAPK4;NFATC4;MIF-AS1;LRP5;TCF7;PRDM16-DT;WNT5A;VANGL1;FZD2;NFATC2;PRKCA
+merged_WikiPathway_2021_Human.gmt	Wnt signaling in kidney disease WP4150	3/71	1.836195e-01	7.506799e-01	2.416608e+00	4.095883e+00	WNT5A;MIF-AS1;LRP5
+merged_WikiPathway_2021_Human.gmt	Wnt signaling pathway and pluripotency WP399	7/203	1.310457e-01	7.333598e-01	1.816409e+00	3.691324e+00	MAPK4;MIF-AS1;LRP5;TCF7;FZD2;PRKCA;PPARD
+merged_WikiPathway_2021_Human.gmt	Wnt/beta-catenin signaling pathway in leukemia WP3658	2/51	2.869893e-01	7.673035e-01	2.382017e+00	2.973497e+00	LRP5;PPARD
+merged_WikiPathway_2021_Human.gmt	Zinc homeostasis WP3529	2/71	4.367777e-01	7.983498e-01	1.693175e+00	1.402509e+00	CRYZL2P-SEC16B;SLC39A14
+merged_WikiPathway_2021_Human.gmt	mBDNF and proBDNF regulation of GABA neurotransmission WP4829	2/75	4.648095e-01	7.983498e-01	1.600392e+00	1.226104e+00	MAPK4;PIK3R3
+merged_WikiPathway_2021_Human.gmt	mRNA Processing WP411	2/251	9.690787e-01	9.761010e-01	4.631981e-01	1.454882e-02	CLK2;SNRNP70
+merged_WikiPathway_2021_Human.gmt	miRNA regulation of DNA damage response WP1530	2/140	7.926927e-01	8.982415e-01	8.438100e-01	1.960336e-01	CHEK2;MIF-AS1
+merged_WikiPathway_2021_Human.gmt	miRNA regulation of p53 pathway in prostate cancer WP3982	2/47	2.559878e-01	7.661470e-01	2.592454e+00	3.532544e+00	ZMAT3;CHEK2
+merged_WikiPathway_2021_Human.gmt	miRNA regulation of prostate cancer signaling pathways WP3981	3/65	1.530031e-01	7.333598e-01	2.650184e+00	4.975181e+00	TCF7;SOS1;PDGFA
+merged_WikiPathway_2021_Human.gmt	miRNA targets in ECM and membrane receptors WP2911	1/43	5.958656e-01	8.338119e-01	1.658001e+00	8.584137e-01	ITGB5
+merged_WikiPathway_2021_Human.gmt	miRNAs involvement in the immune response in sepsis WP4329	2/73	4.508943e-01	7.983498e-01	1.645486e+00	1.310666e+00	IRF5;IKBKB
+merged_WikiPathway_2021_Human.gmt	ncRNAs involved in Wnt signaling in hepatocellular carcinoma WP4336	6/171	1.464231e-01	7.333598e-01	1.865981e+00	3.585025e+00	MIF-AS1;LRP5;TCF7;PRDM16-DT;WNT5A;FZD2
+merged_WikiPathway_2021_Human.gmt	p38 MAPK Signaling Pathway WP400	2/66	4.006632e-01	7.827428e-01	1.825336e+00	1.669515e+00	MAX;STAT1
+merged_WikiPathway_2021_Human.gmt	p53 transcriptional gene network WP4963	4/133	2.998801e-01	7.673035e-01	1.641255e+00	1.976683e+00	IRF5;TNFRSF10D;MIF-AS1;ZMAT3
