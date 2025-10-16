@@ -8,7 +8,7 @@ library(optparse)
 rm(list = ls())
 gc()
 
-setwd("C:/Users/vvasileiou/Desktop/Projects/lncAPNet_Prostate/")
+setwd("C:/Users/vvasileiou/Desktop/Projects/lncAPNet_Prostate/Stages_comparisons/")
 
 # Assign input values to script variables
 
@@ -20,7 +20,7 @@ Condition <- "ajcc_pathologic_n"
 
 driver_output <- sprintf('%s/Driver_output', project_name)
 
-source("scripts/Adjusted_functions/NetBID.analysis.dir.create_nc.R")
+source("../scripts/Adjusted_functions/NetBID.analysis.dir.create_nc.R")
 # This list object (analysis.par) is an ESSENTIAL variable in driver estimation pipeline
 analysis.par  <- NetBID.analysis.dir.create_nc(project_main_dir=driver_output, project_name=project_name,
                                                network_dir=project_name, network_project_name=project_name)
@@ -102,3 +102,10 @@ out2excel(analysis.par$final_ms_tab,out.xlsx = out_file)
 
 # Save Step 4 analysis.par as RData, ESSENTIAL
 NetBID.saveRData(analysis.par=analysis.par,step='ms-tab')
+NetBID.loadRData(analysis.par=analysis.par,step='ms-tab')
+
+
+de <- analysis.par$DE$U.Vs.M
+da <- analysis.par$DA$U.Vs.M
+
+count_matrix <- as.data.frame(exprs(analysis.par$cal.eset))
