@@ -1,0 +1,3253 @@
+id,x,y,text,name
+11,186.33,0,"Sample 11 
+              Patient: DTB-188-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+13,204.19,0,"Sample 13 
+              Patient: DTB-194-PRO 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+16,165.64,0,"Sample 16 
+              Patient: DTB-187-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+17,207.04,0,"Sample 17 
+              Patient: DTB-135-PRO 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+18,176.36,0,"Sample 18 
+              Patient: DTB-232-PRO 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+23,170.81,0,"Sample 23 
+              Patient: DTB-092-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+25,195.62,0,"Sample 25 
+              Patient: DTB-074-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+34,178.68,0,"Sample 34 
+              Patient: DTB-175-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+42,183.13,0,"Sample 42 
+              Patient: DTB-024-PRO 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+55,188.06,0,"Sample 55 
+              Patient: DTB-037-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+60,170.81,0,"Sample 60 
+              Patient: DTB-251-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+66,170.81,0,"Sample 66 
+              Patient: DTB-035-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+78,170.85,0,"Sample 78 
+              Patient: DTB-080-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+83,178.32,0,"Sample 83 
+              Patient: DTB-071-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+92,177.71,0,"Sample 92 
+              Patient: DTB-098-PRO2 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+95,176.46,0,"Sample 95 
+              Patient: DTB-018-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+106,182.62,0,"Sample 106 
+              Patient: DTB-067-PRO 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+107,184.08,0,"Sample 107 
+              Patient: DTB-214-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+111,193.89,0,"Sample 111 
+              Patient: DTB-137-PRO 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+122,182.1,0,"Sample 122 
+              Patient: DTB-055-PRO 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+125,171.12,0,"Sample 125 
+              Patient: DTB-170-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+126,172.08,0,"Sample 126 
+              Patient: DTB-022-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+136,170.18,0,"Sample 136 
+              Patient: DTB-143-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+146,173.29,0,"Sample 146 
+              Patient: DTB-129-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+163,191.5,0,"Sample 163 
+              Patient: DTB-059-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+173,171.59,0,"Sample 173 
+              Patient: DTB-104-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+180,178.6,0,"Sample 180 
+              Patient: DTB-266-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+182,178.78,0,"Sample 182 
+              Patient: DTB-091-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+200,177.71,0,"Sample 200 
+              Patient: DTB-112-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+209,181.16,0,"Sample 209 
+              Patient: DTB-159-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+211,172.53,0,"Sample 211 
+              Patient: DTB-077-PRO 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+213,172.53,0,"Sample 213 
+              Patient: DTB-149-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+215,201.9,0,"Sample 215 
+              Patient: DTB-097-PRO 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+218,179.07,0,"Sample 218 
+              Patient: DTB-069-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+221,181.74,0,"Sample 221 
+              Patient: DTB-085-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+224,174.26,0,"Sample 224 
+              Patient: DTB-220-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+234,201.32,0,"Sample 234 
+              Patient: DTB-036-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+238,175.9,0,"Sample 238 
+              Patient: DTB-172-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+264,172.53,0,"Sample 264 
+              Patient: DTB-119-PRO 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+268,177.41,0,"Sample 268 
+              Patient: DTB-258-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+282,174.31,0,"Sample 282 
+              Patient: DTB-173-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+284,173.02,0.11911154268656356,"Sample 284 
+              Patient: DTB-020-BL 
+              Expression: 0.11911154268656356
+            ",WCDT-MCRPC (99 samples)
+286,175.42,0,"Sample 286 
+              Patient: DTB-176-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+287,175.97,0,"Sample 287 
+              Patient: DTB-090-PRO 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+288,174.26,0,"Sample 288 
+              Patient: DTB-222-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+299,174.26,0,"Sample 299 
+              Patient: DTB-060-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+302,169.08,0,"Sample 302 
+              Patient: DTB-186-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+308,190.37,0,"Sample 308 
+              Patient: DTB-202-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+309,181.16,0,"Sample 309 
+              Patient: DTB-124-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+313,170.81,0,"Sample 313 
+              Patient: DTB-255-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+331,175.98,0,"Sample 331 
+              Patient: DTB-034-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+332,175.98,0.09873622529758672,"Sample 332 
+              Patient: DTB-140-BL 
+              Expression: 0.09873622529758672
+            ",WCDT-MCRPC (99 samples)
+341,180.13,0,"Sample 341 
+              Patient: DTB-265-PRO 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+342,174.46,0,"Sample 342 
+              Patient: DTB-094-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+344,173.55,0,"Sample 344 
+              Patient: DTB-260-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+354,172.4,0,"Sample 354 
+              Patient: DTB-064-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+368,175.62,0,"Sample 368 
+              Patient: DTB-127-PRO 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+371,172.53,0,"Sample 371 
+              Patient: DTB-146-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+385,169.08,0,"Sample 385 
+              Patient: DTB-234-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+398,171.76,0,"Sample 398 
+              Patient: DTB-101-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+400,179.23,0,"Sample 400 
+              Patient: DTB-210-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+405,170.94,0,"Sample 405 
+              Patient: DTB-204-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+406,166.5,0,"Sample 406 
+              Patient: DTB-201-PRO 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+429,181.29,0,"Sample 429 
+              Patient: DTB-009-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+441,175.98,0,"Sample 441 
+              Patient: DTB-089-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+443,163.91,0,"Sample 443 
+              Patient: DTB-252-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+444,176.21,0,"Sample 444 
+              Patient: DTB-190-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+451,177.51,0,"Sample 451 
+              Patient: DTB-213-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+459,172.53,0,"Sample 459 
+              Patient: DTB-132-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+472,174.37,0,"Sample 472 
+              Patient: DTB-011-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+473,174.26,0,"Sample 473 
+              Patient: DTB-111-PRO 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+486,172.31,0,"Sample 486 
+              Patient: DTB-023-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+491,172.69,0,"Sample 491 
+              Patient: DTB-141-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+492,212.66,0,"Sample 492 
+              Patient: DTB-061-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+500,161.75,0,"Sample 500 
+              Patient: DTB-151-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+506,179.36,0,"Sample 506 
+              Patient: DTB-167-PRO 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+508,186.87,0,"Sample 508 
+              Patient: DTB-005-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+521,174.98,0,"Sample 521 
+              Patient: DTB-261-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+522,199.55,0,"Sample 522 
+              Patient: DTB-008-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+528,183.82,0,"Sample 528 
+              Patient: DTB-053-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+536,174.26,0,"Sample 536 
+              Patient: DTB-019-PRO 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+538,169.08,0,"Sample 538 
+              Patient: DTB-206-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+542,192.99,0,"Sample 542 
+              Patient: DTB-021-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+544,172.53,0,"Sample 544 
+              Patient: DTB-128-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+545,203.01,0,"Sample 545 
+              Patient: DTB-040-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+546,176.16,0,"Sample 546 
+              Patient: DTB-138-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+563,177.71,0,"Sample 563 
+              Patient: DTB-183-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+566,197.42,0,"Sample 566 
+              Patient: DTB-003-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+570,202.85,0,"Sample 570 
+              Patient: DTB-205-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+572,166.99,0,"Sample 572 
+              Patient: DTB-223-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+579,193.23,0.07744265641408728,"Sample 579 
+              Patient: DTB-216-PRO 
+              Expression: 0.07744265641408728
+            ",WCDT-MCRPC (99 samples)
+592,173.55,0,"Sample 592 
+              Patient: DTB-083-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+594,186.32,0,"Sample 594 
+              Patient: DTB-126-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+595,175.98,0,"Sample 595 
+              Patient: DTB-165-PRO 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+596,193.5,0,"Sample 596 
+              Patient: DTB-042-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+699,182.24,0,"Sample 699 
+              Patient: DTB-102-PRO 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+734,179.04,0,"Sample 734 
+              Patient: DTB-100-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+744,189.78,0,"Sample 744 
+              Patient: DTB-156-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+747,168.08,0,"Sample 747 
+              Patient: DTB-121-BL 
+              Expression: 0
+            ",WCDT-MCRPC (99 samples)
+599,169.34,0.17513387690874288,"Sample 599 
+              Patient: SAMEA4618845-1 
+              Expression: 0.17513387690874288
+            ",NEPC lncRNA (96 samples)
+600,169.75,0.10668625286866455,"Sample 600 
+              Patient: SAMEA4618845-2 
+              Expression: 0.10668625286866455
+            ",NEPC lncRNA (96 samples)
+601,169.79,0,"Sample 601 
+              Patient: SAMEA4618846-1 
+              Expression: 0
+            ",NEPC lncRNA (96 samples)
+602,178.41,0,"Sample 602 
+              Patient: SAMEA4618846-2 
+              Expression: 0
+            ",NEPC lncRNA (96 samples)
+603,158.23,0.2262873708286129,"Sample 603 
+              Patient: SAMEA4618847-1 
+              Expression: 0.2262873708286129
+            ",NEPC lncRNA (96 samples)
+604,159.05,0.17695609064952694,"Sample 604 
+              Patient: SAMEA4618847-2 
+              Expression: 0.17695609064952694
+            ",NEPC lncRNA (96 samples)
+605,154.85,0.08655640650509631,"Sample 605 
+              Patient: SAMEA4618848-1 
+              Expression: 0.08655640650509631
+            ",NEPC lncRNA (96 samples)
+606,155.84,0.024982976512220752,"Sample 606 
+              Patient: SAMEA4618848-2 
+              Expression: 0.024982976512220752
+            ",NEPC lncRNA (96 samples)
+607,75.04,0.9846045959000738,"Sample 607 
+              Patient: SAMEA4618849-1 
+              Expression: 0.9846045959000738
+            ",NEPC lncRNA (96 samples)
+608,76.81,1.056330760358529,"Sample 608 
+              Patient: SAMEA4618849-2 
+              Expression: 1.056330760358529
+            ",NEPC lncRNA (96 samples)
+609,110.65,1.4022491041231253,"Sample 609 
+              Patient: SAMEA4618852-1 
+              Expression: 1.4022491041231253
+            ",NEPC lncRNA (96 samples)
+610,111.08,1.438391577752344,"Sample 610 
+              Patient: SAMEA4618852-2 
+              Expression: 1.438391577752344
+            ",NEPC lncRNA (96 samples)
+611,100.45,1.0107835678392036,"Sample 611 
+              Patient: SAMEA4618853-1 
+              Expression: 1.0107835678392036
+            ",NEPC lncRNA (96 samples)
+612,100.62,1.1592392740028443,"Sample 612 
+              Patient: SAMEA4618853-2 
+              Expression: 1.1592392740028443
+            ",NEPC lncRNA (96 samples)
+613,116.34,0.6850624327379398,"Sample 613 
+              Patient: SAMEA4618854-1 
+              Expression: 0.6850624327379398
+            ",NEPC lncRNA (96 samples)
+614,116.72,0.7737837010594316,"Sample 614 
+              Patient: SAMEA4618854-2 
+              Expression: 0.7737837010594316
+            ",NEPC lncRNA (96 samples)
+615,96.52,1.1618149011771488,"Sample 615 
+              Patient: SAMEA4618855-1 
+              Expression: 1.1618149011771488
+            ",NEPC lncRNA (96 samples)
+616,96.24,1.2301284311524465,"Sample 616 
+              Patient: SAMEA4618855-2 
+              Expression: 1.2301284311524465
+            ",NEPC lncRNA (96 samples)
+617,99.17,1.502010532076912,"Sample 617 
+              Patient: SAMEA4618857-1 
+              Expression: 1.502010532076912
+            ",NEPC lncRNA (96 samples)
+618,99.19,1.6461780698155062,"Sample 618 
+              Patient: SAMEA4618857-2 
+              Expression: 1.6461780698155062
+            ",NEPC lncRNA (96 samples)
+619,88,1.8711084302726668,"Sample 619 
+              Patient: SAMEA4618858-1 
+              Expression: 1.8711084302726668
+            ",NEPC lncRNA (96 samples)
+620,87.8,2.0805197662635577,"Sample 620 
+              Patient: SAMEA4618858-2 
+              Expression: 2.0805197662635577
+            ",NEPC lncRNA (96 samples)
+621,95.34,2.3255359606939328,"Sample 621 
+              Patient: SAMEA4618859-1 
+              Expression: 2.3255359606939328
+            ",NEPC lncRNA (96 samples)
+622,95.65,2.499965840553655,"Sample 622 
+              Patient: SAMEA4618859-2 
+              Expression: 2.499965840553655
+            ",NEPC lncRNA (96 samples)
+623,123.45,0.6163275237740531,"Sample 623 
+              Patient: SAMEA4618860-1 
+              Expression: 0.6163275237740531
+            ",NEPC lncRNA (96 samples)
+624,124.86,0.6934339727467722,"Sample 624 
+              Patient: SAMEA4618860-2 
+              Expression: 0.6934339727467722
+            ",NEPC lncRNA (96 samples)
+625,68.48,1.5443847740943244,"Sample 625 
+              Patient: SAMEA4618861-1 
+              Expression: 1.5443847740943244
+            ",NEPC lncRNA (96 samples)
+626,69.04,1.5553160676858175,"Sample 626 
+              Patient: SAMEA4618861-2 
+              Expression: 1.5553160676858175
+            ",NEPC lncRNA (96 samples)
+627,110.54,0.9280507602304505,"Sample 627 
+              Patient: SAMEA4618862-1 
+              Expression: 0.9280507602304505
+            ",NEPC lncRNA (96 samples)
+628,111.13,0.878652653556473,"Sample 628 
+              Patient: SAMEA4618862-2 
+              Expression: 0.878652653556473
+            ",NEPC lncRNA (96 samples)
+629,106.17,0.9319776996083042,"Sample 629 
+              Patient: SAMEA4618863-1 
+              Expression: 0.9319776996083042
+            ",NEPC lncRNA (96 samples)
+630,106.56,0.9563144125762492,"Sample 630 
+              Patient: SAMEA4618863-2 
+              Expression: 0.9563144125762492
+            ",NEPC lncRNA (96 samples)
+631,83.85,1.3583762785672737,"Sample 631 
+              Patient: SAMEA4618864-1 
+              Expression: 1.3583762785672737
+            ",NEPC lncRNA (96 samples)
+632,83.08,1.3868104974061177,"Sample 632 
+              Patient: SAMEA4618864-2 
+              Expression: 1.3868104974061177
+            ",NEPC lncRNA (96 samples)
+633,122.72,0.7745903065186397,"Sample 633 
+              Patient: SAMEA4618865-1 
+              Expression: 0.7745903065186397
+            ",NEPC lncRNA (96 samples)
+634,123.64,0.9412762158309385,"Sample 634 
+              Patient: SAMEA4618865-2 
+              Expression: 0.9412762158309385
+            ",NEPC lncRNA (96 samples)
+635,111.09,0.8274392287019163,"Sample 635 
+              Patient: SAMEA4618866-1 
+              Expression: 0.8274392287019163
+            ",NEPC lncRNA (96 samples)
+636,111.72,0.874491246334741,"Sample 636 
+              Patient: SAMEA4618866-2 
+              Expression: 0.874491246334741
+            ",NEPC lncRNA (96 samples)
+637,76.94,2.215735948819347,"Sample 637 
+              Patient: SAMEA4618867-1 
+              Expression: 2.215735948819347
+            ",NEPC lncRNA (96 samples)
+638,76.31,2.406120257721697,"Sample 638 
+              Patient: SAMEA4618867-2 
+              Expression: 2.406120257721697
+            ",NEPC lncRNA (96 samples)
+639,69.4,2.7116115041557,"Sample 639 
+              Patient: SAMEA4618868-1 
+              Expression: 2.7116115041557
+            ",NEPC lncRNA (96 samples)
+640,68.7,2.912690578333356,"Sample 640 
+              Patient: SAMEA4618868-2 
+              Expression: 2.912690578333356
+            ",NEPC lncRNA (96 samples)
+641,89,1.5746094860827227,"Sample 641 
+              Patient: SAMEA4618869-1 
+              Expression: 1.5746094860827227
+            ",NEPC lncRNA (96 samples)
+642,88.74,1.7296686837387083,"Sample 642 
+              Patient: SAMEA4618869-2 
+              Expression: 1.7296686837387083
+            ",NEPC lncRNA (96 samples)
+643,90.1,1.3793089115952955,"Sample 643 
+              Patient: SAMEA4618871-1 
+              Expression: 1.3793089115952955
+            ",NEPC lncRNA (96 samples)
+644,90,1.576407001745947,"Sample 644 
+              Patient: SAMEA4618871-2 
+              Expression: 1.576407001745947
+            ",NEPC lncRNA (96 samples)
+645,86.08,1.6432644456892704,"Sample 645 
+              Patient: SAMEA4618872-1 
+              Expression: 1.6432644456892704
+            ",NEPC lncRNA (96 samples)
+646,85.4,1.841184323024008,"Sample 646 
+              Patient: SAMEA4618872-2 
+              Expression: 1.841184323024008
+            ",NEPC lncRNA (96 samples)
+647,102.61,1.7754269927765545,"Sample 647 
+              Patient: SAMEA4618873-1 
+              Expression: 1.7754269927765545
+            ",NEPC lncRNA (96 samples)
+648,103.23,1.8806936988220064,"Sample 648 
+              Patient: SAMEA4618873-2 
+              Expression: 1.8806936988220064
+            ",NEPC lncRNA (96 samples)
+649,88.14,2.00800078513872,"Sample 649 
+              Patient: SAMEA4618874-1 
+              Expression: 2.00800078513872
+            ",NEPC lncRNA (96 samples)
+650,88,2.2288893163417485,"Sample 650 
+              Patient: SAMEA4618874-2 
+              Expression: 2.2288893163417485
+            ",NEPC lncRNA (96 samples)
+651,86.91,2.176161130029684,"Sample 651 
+              Patient: SAMEA4618875-1 
+              Expression: 2.176161130029684
+            ",NEPC lncRNA (96 samples)
+652,86.28,2.266859613990555,"Sample 652 
+              Patient: SAMEA4618875-2 
+              Expression: 2.266859613990555
+            ",NEPC lncRNA (96 samples)
+653,98.19,1.0669943293454012,"Sample 653 
+              Patient: SAMEA4618876-1 
+              Expression: 1.0669943293454012
+            ",NEPC lncRNA (96 samples)
+654,98.16,1.0994092166344842,"Sample 654 
+              Patient: SAMEA4618876-2 
+              Expression: 1.0994092166344842
+            ",NEPC lncRNA (96 samples)
+655,88.19,1.6829412061551474,"Sample 655 
+              Patient: SAMEA4618877-1 
+              Expression: 1.6829412061551474
+            ",NEPC lncRNA (96 samples)
+656,88,1.7990009108078182,"Sample 656 
+              Patient: SAMEA4618877-2 
+              Expression: 1.7990009108078182
+            ",NEPC lncRNA (96 samples)
+657,91.62,1.652941898747217,"Sample 657 
+              Patient: SAMEA4618878-1 
+              Expression: 1.652941898747217
+            ",NEPC lncRNA (96 samples)
+658,91.29,1.832498492916762,"Sample 658 
+              Patient: SAMEA4618878-2 
+              Expression: 1.832498492916762
+            ",NEPC lncRNA (96 samples)
+659,81.1,1.8968210869678448,"Sample 659 
+              Patient: SAMEA4618879-1 
+              Expression: 1.8968210869678448
+            ",NEPC lncRNA (96 samples)
+660,80.04,1.966660210820168,"Sample 660 
+              Patient: SAMEA4618879-2 
+              Expression: 1.966660210820168
+            ",NEPC lncRNA (96 samples)
+661,100.07,1.2836768414717976,"Sample 661 
+              Patient: SAMEA4618880-1 
+              Expression: 1.2836768414717976
+            ",NEPC lncRNA (96 samples)
+662,100.42,1.197914158092611,"Sample 662 
+              Patient: SAMEA4618880-2 
+              Expression: 1.197914158092611
+            ",NEPC lncRNA (96 samples)
+663,102.34,1.245439189236176,"Sample 663 
+              Patient: SAMEA4618881-1 
+              Expression: 1.245439189236176
+            ",NEPC lncRNA (96 samples)
+664,102.68,1.1482429593973225,"Sample 664 
+              Patient: SAMEA4618881-2 
+              Expression: 1.1482429593973225
+            ",NEPC lncRNA (96 samples)
+665,95.14,1.5814599523127413,"Sample 665 
+              Patient: SAMEA4618882-1 
+              Expression: 1.5814599523127413
+            ",NEPC lncRNA (96 samples)
+666,95.22,1.658443747543547,"Sample 666 
+              Patient: SAMEA4618882-2 
+              Expression: 1.658443747543547
+            ",NEPC lncRNA (96 samples)
+667,88.62,1.2144562765209879,"Sample 667 
+              Patient: SAMEA4618883-1 
+              Expression: 1.2144562765209879
+            ",NEPC lncRNA (96 samples)
+668,88.32,1.1825366459308886,"Sample 668 
+              Patient: SAMEA4618883-2 
+              Expression: 1.1825366459308886
+            ",NEPC lncRNA (96 samples)
+669,76.11,1.8461037914176435,"Sample 669 
+              Patient: SAMEA4618884-1 
+              Expression: 1.8461037914176435
+            ",NEPC lncRNA (96 samples)
+670,75.54,1.9177659770998063,"Sample 670 
+              Patient: SAMEA4618884-2 
+              Expression: 1.9177659770998063
+            ",NEPC lncRNA (96 samples)
+671,91.48,1.6365536675690933,"Sample 671 
+              Patient: SAMEA4618885-1 
+              Expression: 1.6365536675690933
+            ",NEPC lncRNA (96 samples)
+672,91.29,1.7216637987368943,"Sample 672 
+              Patient: SAMEA4618885-2 
+              Expression: 1.7216637987368943
+            ",NEPC lncRNA (96 samples)
+673,86.27,1.9121131131208038,"Sample 673 
+              Patient: SAMEA4618886-1 
+              Expression: 1.9121131131208038
+            ",NEPC lncRNA (96 samples)
+674,86.23,2.0181357101726194,"Sample 674 
+              Patient: SAMEA4618886-2 
+              Expression: 2.0181357101726194
+            ",NEPC lncRNA (96 samples)
+675,101.19,1.2962505873032335,"Sample 675 
+              Patient: SAMEA4618887-1 
+              Expression: 1.2962505873032335
+            ",NEPC lncRNA (96 samples)
+676,101.11,1.3567917403625527,"Sample 676 
+              Patient: SAMEA4618887-2 
+              Expression: 1.3567917403625527
+            ",NEPC lncRNA (96 samples)
+677,79,2.1665820610779822,"Sample 677 
+              Patient: SAMEA4618888-1 
+              Expression: 2.1665820610779822
+            ",NEPC lncRNA (96 samples)
+678,78.4,2.4333777049931222,"Sample 678 
+              Patient: SAMEA4618888-2 
+              Expression: 2.4333777049931222
+            ",NEPC lncRNA (96 samples)
+679,104.42,3.3390026994815263,"Sample 679 
+              Patient: SAMEA4618889-1 
+              Expression: 3.3390026994815263
+            ",NEPC lncRNA (96 samples)
+680,104.89,3.4254272020037635,"Sample 680 
+              Patient: SAMEA4618889-2 
+              Expression: 3.4254272020037635
+            ",NEPC lncRNA (96 samples)
+681,113.29,0.9105055336074209,"Sample 681 
+              Patient: SAMEA4618890-1 
+              Expression: 0.9105055336074209
+            ",NEPC lncRNA (96 samples)
+682,114.17,0.9834880781741732,"Sample 682 
+              Patient: SAMEA4618890-2 
+              Expression: 0.9834880781741732
+            ",NEPC lncRNA (96 samples)
+683,101.56,1.504982548356446,"Sample 683 
+              Patient: SAMEA4618891-1 
+              Expression: 1.504982548356446
+            ",NEPC lncRNA (96 samples)
+684,101.4,1.5383101778633375,"Sample 684 
+              Patient: SAMEA4618891-2 
+              Expression: 1.5383101778633375
+            ",NEPC lncRNA (96 samples)
+685,107.58,2.5323880009971584,"Sample 685 
+              Patient: SAMEA4618892-1 
+              Expression: 2.5323880009971584
+            ",NEPC lncRNA (96 samples)
+686,108.46,2.6679455636459055,"Sample 686 
+              Patient: SAMEA4618892-2 
+              Expression: 2.6679455636459055
+            ",NEPC lncRNA (96 samples)
+687,75.68,1.6846185123760729,"Sample 687 
+              Patient: SAMEA4618893-1 
+              Expression: 1.6846185123760729
+            ",NEPC lncRNA (96 samples)
+688,75.04,1.7648454231701136,"Sample 688 
+              Patient: SAMEA4618893-2 
+              Expression: 1.7648454231701136
+            ",NEPC lncRNA (96 samples)
+689,61.77,2.8936309085472063,"Sample 689 
+              Patient: SAMEA4618894-1 
+              Expression: 2.8936309085472063
+            ",NEPC lncRNA (96 samples)
+690,60.44,3.059947910198955,"Sample 690 
+              Patient: SAMEA4618894-2 
+              Expression: 3.059947910198955
+            ",NEPC lncRNA (96 samples)
+691,98.35,1.7852588927495192,"Sample 691 
+              Patient: SAMEA4618895-1 
+              Expression: 1.7852588927495192
+            ",NEPC lncRNA (96 samples)
+692,98.35,1.8122258231227582,"Sample 692 
+              Patient: SAMEA4618895-2 
+              Expression: 1.8122258231227582
+            ",NEPC lncRNA (96 samples)
+693,88.02,1.4407964572965726,"Sample 693 
+              Patient: SAMEA4618899-1 
+              Expression: 1.4407964572965726
+            ",NEPC lncRNA (96 samples)
+694,87.89,1.5733796282273824,"Sample 694 
+              Patient: SAMEA4618899-2 
+              Expression: 1.5733796282273824
+            ",NEPC lncRNA (96 samples)
+748,205.25,0,"Sample 748 
+              Patient: 06115014-T-C-1_SI_4539 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+749,222.45,0,"Sample 749 
+              Patient: 06115013-T-C-2_SI_4538 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+750,218.24,0,"Sample 750 
+              Patient: 05115359-T-A-1_SI_9074 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+751,168.67,0,"Sample 751 
+              Patient: 05115327-T-A-1_SI_8527 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+752,220.27,0.02566993949651565,"Sample 752 
+              Patient: 05115291-T-C-1_SI_8408 
+              Expression: 0.02566993949651565
+            ",SU2C-PCF (62 samples)
+753,161.4,0,"Sample 753 
+              Patient: 05115290-T-A-1_SI_8296 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+754,214.45,0,"Sample 754 
+              Patient: 05115276-T-A-1_SI_8407 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+755,179.75,0,"Sample 755 
+              Patient: 05115261-T-A-2_SI_7590 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+756,176.65,0,"Sample 756 
+              Patient: 05115260-T-A-1_SI_8256 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+757,186.32,0,"Sample 757 
+              Patient: 05115259-T-C-2_SI_6554 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+758,223.57,0,"Sample 758 
+              Patient: 05115258-T-A-4_SI_6061 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+759,170.81,0,"Sample 759 
+              Patient: 05115256-T-C-2_SI_7956 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+760,196.96,0,"Sample 760 
+              Patient: 05115254-T-A-1_SI_7821 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+761,196.69,0,"Sample 761 
+              Patient: 05115203-T-A-1_SI_7068-1 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+762,196.69,0,"Sample 762 
+              Patient: 05115203-T-A-1_SI_7068-2 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+763,185.6,0,"Sample 763 
+              Patient: 05115255-T-A-2_SI_8294 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+764,182.56,0,"Sample 764 
+              Patient: 05115197-T-A-1_SI_7237 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+765,189.78,0,"Sample 765 
+              Patient: 05115196-T-A-1_SI_7233 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+766,221.52,0,"Sample 766 
+              Patient: 05115195-T-A-1_SI_7118 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+767,185.28,0.05912924707895453,"Sample 767 
+              Patient: 05115194-T-A-1_SI_7070-1 
+              Expression: 0.05912924707895453
+            ",SU2C-PCF (62 samples)
+768,185.1,0,"Sample 768 
+              Patient: 05115194-T-A-1_SI_7070-2 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+769,188.55,0,"Sample 769 
+              Patient: 05115193-T-A-1_SI_7585 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+770,165.31,0,"Sample 770 
+              Patient: 05115187-T-A-1_SI_7398 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+771,185.28,0,"Sample 771 
+              Patient: 05115186-T-A-2_SI_6848 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+772,190.81,0,"Sample 772 
+              Patient: 05115160-T-A-1_SI_7203 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+773,222.72,0,"Sample 773 
+              Patient: 05115158-T-B-1_SI_7010 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+774,198,0,"Sample 774 
+              Patient: 05115130-T-A-1_SI_6695 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+775,213.46,0,"Sample 775 
+              Patient: 05115129-T-A-1_SI_6690 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+776,161.25,0,"Sample 776 
+              Patient: 05115128-T-A-1_SI_6851 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+777,190.66,0,"Sample 777 
+              Patient: 05115127-T-A-1_SI_6321 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+778,180.47,0,"Sample 778 
+              Patient: 05115078-T-C-1_SI_6325 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+779,192.28,0,"Sample 779 
+              Patient: 05115075-T-A-1_SI_6209 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+780,179.43,0,"Sample 780 
+              Patient: 05115073-T-C-1_SI_6059 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+781,196.25,0.028230804428575326,"Sample 781 
+              Patient: 05115058-T-A-1_SI_6271 
+              Expression: 0.028230804428575326
+            ",SU2C-PCF (62 samples)
+782,182.64,0,"Sample 782 
+              Patient: 05115057-T-A-2_SI_5873 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+783,217.89,0,"Sample 783 
+              Patient: 05115034-T-A-1_SI_5924 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+784,182.28,0,"Sample 784 
+              Patient: 05115033-T-A-1_SI_5668 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+785,223.96,0,"Sample 785 
+              Patient: 05115031-T-C-1_SI_5594 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+786,190.36,0,"Sample 786 
+              Patient: 05115032-T-A-2_SI_5665 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+787,189.83,0,"Sample 787 
+              Patient: 05115030-T-A-1_SI_5551 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+788,218.81,0,"Sample 788 
+              Patient: 05115029-T-A-1_SI_5410 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+789,63.48,2.4248886672836796,"Sample 789 
+              Patient: 05115028-T-A-1_SI_5258 
+              Expression: 2.4248886672836796
+            ",SU2C-PCF (62 samples)
+790,142.32,0.039220527956333594,"Sample 790 
+              Patient: 05115027-T-A-2_SI_5092 
+              Expression: 0.039220527956333594
+            ",SU2C-PCF (62 samples)
+791,153.09,0,"Sample 791 
+              Patient: 05115026-T-A-1_SI_4966 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+792,228.75,0,"Sample 792 
+              Patient: 05115024-T-A-1_SI_4737 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+1100,168.59,0,"Sample 1100 
+              Patient: 5115409_SI_10142 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+1101,172.53,0,"Sample 1101 
+              Patient: 5115410_SI_10143 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+1102,227.58,0,"Sample 1102 
+              Patient: 5115547_SI_10311 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+1103,193.98,0,"Sample 1103 
+              Patient: 5115412_SI_10414 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+1104,184.61,0,"Sample 1104 
+              Patient: 5115528_SI_10697 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+1105,172.61,0,"Sample 1105 
+              Patient: 5115506_SI_10724 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+1106,176.78,0,"Sample 1106 
+              Patient: 5115608_SI_11081 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+1107,184.66,0,"Sample 1107 
+              Patient: 5115610_SI_11361 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+1108,190.93,0,"Sample 1108 
+              Patient: 5115611_SI_11362 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+1109,167.01,0,"Sample 1109 
+              Patient: 5115612_SI_11363 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+1110,213.17,0,"Sample 1110 
+              Patient: 5115614_SI_11763 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+1111,172.17,0,"Sample 1111 
+              Patient: 5115651_SI_12472 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+1112,192.01,0,"Sample 1112 
+              Patient: 05115406-T-B-1_SI_9309 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+1113,216.92,0,"Sample 1113 
+              Patient: 5115407_SI_9310 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+1114,185.94,0,"Sample 1114 
+              Patient: 05115405-T-A-1_SI_9377 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+1115,175.98,0,"Sample 1115 
+              Patient: 5115408_SI_9793 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+1116,224.29,0,"Sample 1116 
+              Patient: 05115501-T-A-1_SI_9988 
+              Expression: 0
+            ",SU2C-PCF (62 samples)
+793,237.38,0.047116230395438954,"Sample 793 
+              Patient: WCMC155_1_N_RNA_Tumor 
+              Expression: 0.047116230395438954
+            ",T.C.B. 2015 (49 samples)
+794,183.39,0,"Sample 794 
+              Patient: WCMC188_1_C_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+795,241.67,0,"Sample 795 
+              Patient: WCMC192_1_N_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+796,80.74,1.9675879456186158,"Sample 796 
+              Patient: WCMC187_1_C_RNA_Tumor 
+              Expression: 1.9675879456186158
+            ",T.C.B. 2015 (49 samples)
+797,220.15,0,"Sample 797 
+              Patient: WCMC0_10_N_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+798,230.04,0,"Sample 798 
+              Patient: WCMC0_9_N_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+799,214.18,0,"Sample 799 
+              Patient: WCMC212_1_N_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+800,226.69,0.03278186114431461,"Sample 800 
+              Patient: WCMC0_1_N_RNA_Tumor 
+              Expression: 0.03278186114431461
+            ",T.C.B. 2015 (49 samples)
+801,216.81,0,"Sample 801 
+              Patient: WCMC159_6_C_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+802,227.32,0,"Sample 802 
+              Patient: WCMC0_6_N_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+803,195.02,0,"Sample 803 
+              Patient: WCMC139_1_C_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+804,169.75,0.47641868769953105,"Sample 804 
+              Patient: WCMC63_1_C_RNA_Tumor 
+              Expression: 0.47641868769953105
+            ",T.C.B. 2015 (49 samples)
+805,181.16,0.04450215342288214,"Sample 805 
+              Patient: WCMC119_1_C_RNA_Tumor 
+              Expression: 0.04450215342288214
+            ",T.C.B. 2015 (49 samples)
+806,68.27,0.12993738023252135,"Sample 806 
+              Patient: WCMC11_1_C_RNA_Tumor 
+              Expression: 0.12993738023252135
+            ",T.C.B. 2015 (49 samples)
+807,51.29,0.8964802993138222,"Sample 807 
+              Patient: WCMC4_1_C_RNA_Tumor 
+              Expression: 0.8964802993138222
+            ",T.C.B. 2015 (49 samples)
+808,225.74,0,"Sample 808 
+              Patient: WCMC170_1_C_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+809,205.31,0,"Sample 809 
+              Patient: WCMC90_5_C_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+810,215.25,0,"Sample 810 
+              Patient: WCMC90_3_C_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+811,223.42,0,"Sample 811 
+              Patient: WCMC90_1_C_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+812,181.77,0.10795748792817171,"Sample 812 
+              Patient: WCMC195_1_C_RNA_Tumor 
+              Expression: 0.10795748792817171
+            ",T.C.B. 2015 (49 samples)
+813,215.86,0,"Sample 813 
+              Patient: WCMC158_1_C_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+814,224.57,0,"Sample 814 
+              Patient: WCMC12_2_N_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+815,240.88,0,"Sample 815 
+              Patient: WCMC169_1_C_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+816,188.06,0,"Sample 816 
+              Patient: WCMC161_1_C_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+817,219.43,1.5790858666135006,"Sample 817 
+              Patient: WCMC9_2_C_RNA_Tumor 
+              Expression: 1.5790858666135006
+            ",T.C.B. 2015 (49 samples)
+818,199.82,0,"Sample 818 
+              Patient: WCMC2_1_C_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+819,203.9,0,"Sample 819 
+              Patient: WCMC159_2_C_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+820,224.67,0,"Sample 820 
+              Patient: WCMC189_1_C_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+821,200.14,0,"Sample 821 
+              Patient: WCMC159_3_C_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+822,187.85,0.3794871559952106,"Sample 822 
+              Patient: WCMC91_1_C_RNA_Tumor 
+              Expression: 0.3794871559952106
+            ",T.C.B. 2015 (49 samples)
+823,222.31,0.6645703040212992,"Sample 823 
+              Patient: WCMC14_1_C_RNA_Tumor 
+              Expression: 0.6645703040212992
+            ",T.C.B. 2015 (49 samples)
+824,197.32,0,"Sample 824 
+              Patient: WCMC59_1_C_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+825,167.07,0,"Sample 825 
+              Patient: WCMC89_1_C_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+826,223.59,0,"Sample 826 
+              Patient: WCMC162_1_C_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+827,201.04,0.5211182922063261,"Sample 827 
+              Patient: WCMC159_1_C_RNA_Tumor 
+              Expression: 0.5211182922063261
+            ",T.C.B. 2015 (49 samples)
+828,235.56,0,"Sample 828 
+              Patient: WCMC0_8_N_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+829,220.09,0,"Sample 829 
+              Patient: WCMC131_1_C_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+830,200.14,0.12498908471650029,"Sample 830 
+              Patient: WCMC164_1_C_RNA_Tumor 
+              Expression: 0.12498908471650029
+            ",T.C.B. 2015 (49 samples)
+831,183.21,0,"Sample 831 
+              Patient: WCMC7520_1_N_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+832,234.77,0,"Sample 832 
+              Patient: WCMC4240_1_N_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+833,191.84,0,"Sample 833 
+              Patient: WCMC9_1_C_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+834,221.69,0,"Sample 834 
+              Patient: WCMC163_1_N_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+835,239.89,0,"Sample 835 
+              Patient: WCMC252_1_N_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+836,203.59,0,"Sample 836 
+              Patient: WCMC159_5_C_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+837,208.5,0,"Sample 837 
+              Patient: WCMC172_1_C_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+838,224.76,0,"Sample 838 
+              Patient: WCMC90_4_C_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+839,209.87,0,"Sample 839 
+              Patient: WCMC210_1_N_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+840,229.82,0.03288998911137575,"Sample 840 
+              Patient: WCMC0_5_N_RNA_Tumor 
+              Expression: 0.03288998911137575
+            ",T.C.B. 2015 (49 samples)
+841,253.49,0,"Sample 841 
+              Patient: WCMC90_2_C_RNA_Tumor 
+              Expression: 0
+            ",T.C.B. 2015 (49 samples)
+842,222.36,0,"Sample 842 
+              Patient: S74_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+843,246.85,0,"Sample 843 
+              Patient: S31_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+844,190.77,0,"Sample 844 
+              Patient: S59_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+845,200.89,0,"Sample 845 
+              Patient: S58_RNA_V1T 
+              Expression: 0
+            ",PROMOTE (79 samples)
+846,187.53,0,"Sample 846 
+              Patient: S14_RNA_V1T 
+              Expression: 0
+            ",PROMOTE (79 samples)
+847,228.25,0,"Sample 847 
+              Patient: S69_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+848,189.18,0,"Sample 848 
+              Patient: S43_RNA_V1T 
+              Expression: 0
+            ",PROMOTE (79 samples)
+849,212.71,0,"Sample 849 
+              Patient: S68_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+850,182.66,0,"Sample 850 
+              Patient: S39_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+851,229.52,0,"Sample 851 
+              Patient: S54_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+852,229.74,0,"Sample 852 
+              Patient: S7_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+853,181.39,0.41624200581332393,"Sample 853 
+              Patient: S46_RNA_V1T 
+              Expression: 0.41624200581332393
+            ",PROMOTE (79 samples)
+854,238.88,0,"Sample 854 
+              Patient: S18_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+855,207.88,0,"Sample 855 
+              Patient: S10_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+856,181.13,0,"Sample 856 
+              Patient: S78_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+857,169.26,0,"Sample 857 
+              Patient: S20_RNA_V1T 
+              Expression: 0
+            ",PROMOTE (79 samples)
+858,197.97,0.02329045839037735,"Sample 858 
+              Patient: S56_RNA_V1T 
+              Expression: 0.02329045839037735
+            ",PROMOTE (79 samples)
+859,181.3,0,"Sample 859 
+              Patient: S1_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+860,204.06,0,"Sample 860 
+              Patient: S72_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+861,245.32,0,"Sample 861 
+              Patient: S52_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+862,47.21,0,"Sample 862 
+              Patient: S5_RNA_V1T 
+              Expression: 0
+            ",PROMOTE (79 samples)
+863,240.38,0,"Sample 863 
+              Patient: S3_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+864,237.34,0,"Sample 864 
+              Patient: S26_RNA_V1T 
+              Expression: 0
+            ",PROMOTE (79 samples)
+865,203.59,0,"Sample 865 
+              Patient: S71_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+866,210.3,0,"Sample 866 
+              Patient: S47_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+867,188.75,0,"Sample 867 
+              Patient: S79_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+868,257.08,0,"Sample 868 
+              Patient: S85_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+869,182.39,0,"Sample 869 
+              Patient: S22_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+870,175.98,0,"Sample 870 
+              Patient: S75_RNA_V1T 
+              Expression: 0
+            ",PROMOTE (79 samples)
+871,201.41,0,"Sample 871 
+              Patient: S13_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+872,186.04,0,"Sample 872 
+              Patient: S65_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+873,174.72,0,"Sample 873 
+              Patient: S34_RNA_V1T 
+              Expression: 0
+            ",PROMOTE (79 samples)
+874,207.68,0,"Sample 874 
+              Patient: S55_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+875,220.05,0,"Sample 875 
+              Patient: S24_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+876,218.02,0,"Sample 876 
+              Patient: S19_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+877,182.11,0,"Sample 877 
+              Patient: S21_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+878,207.67,0,"Sample 878 
+              Patient: S57_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+879,250.66,0,"Sample 879 
+              Patient: S35_RNA_V1T 
+              Expression: 0
+            ",PROMOTE (79 samples)
+880,210.93,0,"Sample 880 
+              Patient: S41_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+881,187.15,0,"Sample 881 
+              Patient: S27_RNA_V1T 
+              Expression: 0
+            ",PROMOTE (79 samples)
+882,210.75,0,"Sample 882 
+              Patient: S16_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+883,203.38,0,"Sample 883 
+              Patient: S48_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+884,202.25,0,"Sample 884 
+              Patient: S17_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+885,189.06,0,"Sample 885 
+              Patient: S2_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+886,185.41,0,"Sample 886 
+              Patient: S23_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+887,63.2,3.818142378573185,"Sample 887 
+              Patient: S36_RNA_V1T 
+              Expression: 3.818142378573185
+            ",PROMOTE (79 samples)
+888,179.32,0,"Sample 888 
+              Patient: S80_RNA_V1T 
+              Expression: 0
+            ",PROMOTE (79 samples)
+889,191.28,0,"Sample 889 
+              Patient: S62_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+890,218.46,0,"Sample 890 
+              Patient: S64_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+891,166.89,0,"Sample 891 
+              Patient: S63_RNA_V1T 
+              Expression: 0
+            ",PROMOTE (79 samples)
+892,224.95,0,"Sample 892 
+              Patient: S76_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+893,243.05,0,"Sample 893 
+              Patient: S40_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+894,228.65,0,"Sample 894 
+              Patient: S12_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+895,177.37,0,"Sample 895 
+              Patient: S61_RNA_V1T 
+              Expression: 0
+            ",PROMOTE (79 samples)
+896,206.82,0,"Sample 896 
+              Patient: S30_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+897,204.5,0,"Sample 897 
+              Patient: S38_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+898,223.4,0,"Sample 898 
+              Patient: S53_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+899,194.54,0,"Sample 899 
+              Patient: S84_RNA_V1T 
+              Expression: 0
+            ",PROMOTE (79 samples)
+900,202.04,0,"Sample 900 
+              Patient: S81_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+901,232.92,0,"Sample 901 
+              Patient: S25_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+902,217.51,0,"Sample 902 
+              Patient: S88_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+903,211.84,0,"Sample 903 
+              Patient: S9_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+904,207.6,0,"Sample 904 
+              Patient: S15_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+905,176.54,0,"Sample 905 
+              Patient: S83_RNA_V1T 
+              Expression: 0
+            ",PROMOTE (79 samples)
+906,222.52,0,"Sample 906 
+              Patient: S42_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+907,184.09,0,"Sample 907 
+              Patient: S86_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+908,223.82,0,"Sample 908 
+              Patient: S29_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+909,183.42,0,"Sample 909 
+              Patient: S87_RNA_V1T 
+              Expression: 0
+            ",PROMOTE (79 samples)
+910,223.16,0,"Sample 910 
+              Patient: S6_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+911,188.15,0,"Sample 911 
+              Patient: S60_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+912,207.04,0,"Sample 912 
+              Patient: S11_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+913,171.67,0,"Sample 913 
+              Patient: S8_RNA_V1T 
+              Expression: 0
+            ",PROMOTE (79 samples)
+914,219.03,0,"Sample 914 
+              Patient: S77_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+915,175.18,0.03224394898339928,"Sample 915 
+              Patient: S66_RNA_V1T 
+              Expression: 0.03224394898339928
+            ",PROMOTE (79 samples)
+916,201.86,0,"Sample 916 
+              Patient: S82_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+917,221.25,0,"Sample 917 
+              Patient: S51_RNA_V1T 
+              Expression: 0
+            ",PROMOTE (79 samples)
+918,211.81,0,"Sample 918 
+              Patient: S50_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+919,248.71,0,"Sample 919 
+              Patient: S45_RNA_V1N 
+              Expression: 0
+            ",PROMOTE (79 samples)
+920,173.99,0,"Sample 920 
+              Patient: S49_RNA_V1T 
+              Expression: 0
+            ",PROMOTE (79 samples)
+921,111.72,4.0550147404132,"Sample 921 
+              Patient: N0_114T 
+              Expression: 4.0550147404132
+            ",EIMB RAS (31 samples)
+922,71.36,2.0151187220446847,"Sample 922 
+              Patient: N0_138T 
+              Expression: 2.0151187220446847
+            ",EIMB RAS (31 samples)
+923,71.94,1.155079343323604,"Sample 923 
+              Patient: N0_221T 
+              Expression: 1.155079343323604
+            ",EIMB RAS (31 samples)
+924,114.66,1.0702394602657808,"Sample 924 
+              Patient: N0_206T 
+              Expression: 1.0702394602657808
+            ",EIMB RAS (31 samples)
+925,58.43,3.343876176768069,"Sample 925 
+              Patient: N0_80T 
+              Expression: 3.343876176768069
+            ",EIMB RAS (31 samples)
+926,85.96,2.5406675791584017,"Sample 926 
+              Patient: N0_203T 
+              Expression: 2.5406675791584017
+            ",EIMB RAS (31 samples)
+927,80.51,1.1652266495279595,"Sample 927 
+              Patient: N0_79T 
+              Expression: 1.1652266495279595
+            ",EIMB RAS (31 samples)
+928,51.9,4.431028741375619,"Sample 928 
+              Patient: N0_88T 
+              Expression: 4.431028741375619
+            ",EIMB RAS (31 samples)
+929,95.1,1.0835837926254133,"Sample 929 
+              Patient: N0_85T 
+              Expression: 1.0835837926254133
+            ",EIMB RAS (31 samples)
+930,89.48,1.582514463041832,"Sample 930 
+              Patient: N0_102T 
+              Expression: 1.582514463041832
+            ",EIMB RAS (31 samples)
+931,90.41,1.613621427718512,"Sample 931 
+              Patient: N0_95T 
+              Expression: 1.613621427718512
+            ",EIMB RAS (31 samples)
+932,131.33,0.9858971268474434,"Sample 932 
+              Patient: N0_109T 
+              Expression: 0.9858971268474434
+            ",EIMB RAS (31 samples)
+933,56.65,3.4664385840503913,"Sample 933 
+              Patient: N0_104T 
+              Expression: 3.4664385840503913
+            ",EIMB RAS (31 samples)
+934,53.49,3.816210428590439,"Sample 934 
+              Patient: N0_4T 
+              Expression: 3.816210428590439
+            ",EIMB RAS (31 samples)
+935,102.81,1.4544737204905547,"Sample 935 
+              Patient: N0_12T 
+              Expression: 1.4544737204905547
+            ",EIMB RAS (31 samples)
+936,78.79,1.7287228257735718,"Sample 936 
+              Patient: N0_6T 
+              Expression: 1.7287228257735718
+            ",EIMB RAS (31 samples)
+937,79.7,1.4448092026697448,"Sample 937 
+              Patient: N0_63T 
+              Expression: 1.4448092026697448
+            ",EIMB RAS (31 samples)
+938,68.1,1.2873391523898223,"Sample 938 
+              Patient: N0_54T_r 
+              Expression: 1.2873391523898223
+            ",EIMB RAS (31 samples)
+939,81.96,1.8661066605659364,"Sample 939 
+              Patient: N0_74T 
+              Expression: 1.8661066605659364
+            ",EIMB RAS (31 samples)
+940,64.8,0,"Sample 940 
+              Patient: N0_70T 
+              Expression: 0
+            ",EIMB RAS (31 samples)
+941,105.25,1.608268207416902,"Sample 941 
+              Patient: N0_144T 
+              Expression: 1.608268207416902
+            ",EIMB RAS (31 samples)
+942,69.42,2.3009309882583113,"Sample 942 
+              Patient: N0_153T 
+              Expression: 2.3009309882583113
+            ",EIMB RAS (31 samples)
+943,128.95,1.1733124163633275,"Sample 943 
+              Patient: N0_170T_r 
+              Expression: 1.1733124163633275
+            ",EIMB RAS (31 samples)
+944,68.54,3.5128471278364364,"Sample 944 
+              Patient: N0_172T 
+              Expression: 3.5128471278364364
+            ",EIMB RAS (31 samples)
+945,81.85,0.537853456896368,"Sample 945 
+              Patient: N0_179T 
+              Expression: 0.537853456896368
+            ",EIMB RAS (31 samples)
+946,60.39,3.085056265894559,"Sample 946 
+              Patient: N0_182T 
+              Expression: 3.085056265894559
+            ",EIMB RAS (31 samples)
+947,66.28,2.5901458584818267,"Sample 947 
+              Patient: N0_185T 
+              Expression: 2.5901458584818267
+            ",EIMB RAS (31 samples)
+948,63.97,1.182097927281237,"Sample 948 
+              Patient: N0_186T 
+              Expression: 1.182097927281237
+            ",EIMB RAS (31 samples)
+949,82.57,1.9830650139215091,"Sample 949 
+              Patient: N0_190T 
+              Expression: 1.9830650139215091
+            ",EIMB RAS (31 samples)
+950,108.83,1.2180257504531786,"Sample 950 
+              Patient: N0_5T_r 
+              Expression: 1.2180257504531786
+            ",EIMB RAS (31 samples)
+951,95.49,1.427289005629613,"Sample 951 
+              Patient: N0_143T 
+              Expression: 1.427289005629613
+            ",EIMB RAS (31 samples)
+952,253.28,0.04109703433541699,"Sample 952 
+              Patient: GSM3330157 
+              Expression: 0.04109703433541699
+            ",Sharp A et al. (41 samples)
+953,231.04,0,"Sample 953 
+              Patient: GSM3330156 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+954,203.85,0,"Sample 954 
+              Patient: GSM3330158 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+955,189.77,0,"Sample 955 
+              Patient: GSM3330160 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+956,212.06,0,"Sample 956 
+              Patient: GSM3330159 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+957,186.29,1.0648921771446123,"Sample 957 
+              Patient: GSM3330161 
+              Expression: 1.0648921771446123
+            ",Sharp A et al. (41 samples)
+958,237.99,0,"Sample 958 
+              Patient: GSM3330162 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+959,232.8,0.03980886759996997,"Sample 959 
+              Patient: GSM3330163 
+              Expression: 0.03980886759996997
+            ",Sharp A et al. (41 samples)
+960,222.86,0,"Sample 960 
+              Patient: GSM3330164 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+961,197.62,0,"Sample 961 
+              Patient: GSM3330165 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+962,241.96,0.41948785815225587,"Sample 962 
+              Patient: GSM3330166 
+              Expression: 0.41948785815225587
+            ",Sharp A et al. (41 samples)
+963,240.2,0,"Sample 963 
+              Patient: GSM3330167 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+964,241.99,0.20266050577972133,"Sample 964 
+              Patient: GSM3330168 
+              Expression: 0.20266050577972133
+            ",Sharp A et al. (41 samples)
+965,183.2,0,"Sample 965 
+              Patient: GSM3330169 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+966,185.25,0,"Sample 966 
+              Patient: GSM3330170 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+967,176.14,0,"Sample 967 
+              Patient: GSM3330172 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+968,194.19,0,"Sample 968 
+              Patient: GSM3330171 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+969,199.41,0,"Sample 969 
+              Patient: GSM3330173 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+970,240.15,0,"Sample 970 
+              Patient: GSM3330175 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+971,247.33,0.6439318739378135,"Sample 971 
+              Patient: GSM3330174 
+              Expression: 0.6439318739378135
+            ",Sharp A et al. (41 samples)
+972,185.92,0,"Sample 972 
+              Patient: GSM3330176 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+973,202.78,0,"Sample 973 
+              Patient: GSM3330177 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+974,192.06,0,"Sample 974 
+              Patient: GSM3330179 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+975,198.16,0,"Sample 975 
+              Patient: GSM3330178 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+976,210.25,0,"Sample 976 
+              Patient: GSM3330182 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+977,231.87,1.2345835851689024,"Sample 977 
+              Patient: GSM3330181 
+              Expression: 1.2345835851689024
+            ",Sharp A et al. (41 samples)
+978,208.01,0,"Sample 978 
+              Patient: GSM3330180 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+979,244.92,0,"Sample 979 
+              Patient: GSM3330183 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+980,202.65,0,"Sample 980 
+              Patient: GSM3330184 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+981,225.18,0,"Sample 981 
+              Patient: GSM3330185 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+982,183.63,0,"Sample 982 
+              Patient: GSM3330188 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+983,207.89,0,"Sample 983 
+              Patient: GSM3330186 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+984,199.66,0,"Sample 984 
+              Patient: GSM3330187 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+985,188.64,0,"Sample 985 
+              Patient: GSM3330189 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+986,202.16,0.055763168051531864,"Sample 986 
+              Patient: GSM3330190 
+              Expression: 0.055763168051531864
+            ",Sharp A et al. (41 samples)
+987,186.33,0,"Sample 987 
+              Patient: GSM3330191 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+988,233.82,0,"Sample 988 
+              Patient: GSM3330193 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+989,192.73,0,"Sample 989 
+              Patient: GSM3330192 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+990,209.58,0,"Sample 990 
+              Patient: GSM3330194 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+991,247.57,0,"Sample 991 
+              Patient: GSM3330195 
+              Expression: 0
+            ",Sharp A et al. (41 samples)
+992,238.68,0.11507573702878278,"Sample 992 
+              Patient: GSM3330196 
+              Expression: 0.11507573702878278
+            ",Sharp A et al. (41 samples)
+993,97.66,1.8570453536962688,"Sample 993 
+              Patient: GSM3409968 
+              Expression: 1.8570453536962688
+            ",Stelloo S et al. (92 samples)
+994,97.94,2.3035340728987195,"Sample 994 
+              Patient: GSM3409969 
+              Expression: 2.3035340728987195
+            ",Stelloo S et al. (92 samples)
+995,92.78,1.705166423423134,"Sample 995 
+              Patient: GSM3409967 
+              Expression: 1.705166423423134
+            ",Stelloo S et al. (92 samples)
+996,91.87,2.0240737494477457,"Sample 996 
+              Patient: GSM3409966 
+              Expression: 2.0240737494477457
+            ",Stelloo S et al. (92 samples)
+997,96.52,1.9034952082719887,"Sample 997 
+              Patient: GSM3409970 
+              Expression: 1.9034952082719887
+            ",Stelloo S et al. (92 samples)
+998,81.71,3.4066874987086964,"Sample 998 
+              Patient: GSM3409972 
+              Expression: 3.4066874987086964
+            ",Stelloo S et al. (92 samples)
+999,81.07,2.9401649440729805,"Sample 999 
+              Patient: GSM3409971 
+              Expression: 2.9401649440729805
+            ",Stelloo S et al. (92 samples)
+1000,97.15,1.4507419302674158,"Sample 1000 
+              Patient: GSM3409973 
+              Expression: 1.4507419302674158
+            ",Stelloo S et al. (92 samples)
+1001,105.63,1.0098053818113009,"Sample 1001 
+              Patient: GSM3409976 
+              Expression: 1.0098053818113009
+            ",Stelloo S et al. (92 samples)
+1002,89.72,3.210818184393245,"Sample 1002 
+              Patient: GSM3409975 
+              Expression: 3.210818184393245
+            ",Stelloo S et al. (92 samples)
+1003,85.36,1.279368522403777,"Sample 1003 
+              Patient: GSM3409977 
+              Expression: 1.279368522403777
+            ",Stelloo S et al. (92 samples)
+1004,102.13,2.8365872928020726,"Sample 1004 
+              Patient: GSM3409978 
+              Expression: 2.8365872928020726
+            ",Stelloo S et al. (92 samples)
+1005,121.67,0.9855093458721575,"Sample 1005 
+              Patient: GSM3409979 
+              Expression: 0.9855093458721575
+            ",Stelloo S et al. (92 samples)
+1006,105.51,1.6346136778726295,"Sample 1006 
+              Patient: GSM3409981 
+              Expression: 1.6346136778726295
+            ",Stelloo S et al. (92 samples)
+1007,103.52,2.6931531714846386,"Sample 1007 
+              Patient: GSM3409980 
+              Expression: 2.6931531714846386
+            ",Stelloo S et al. (92 samples)
+1008,101.14,1.4469489353621006,"Sample 1008 
+              Patient: GSM3409984 
+              Expression: 1.4469489353621006
+            ",Stelloo S et al. (92 samples)
+1009,124.7,1.7656415918997763,"Sample 1009 
+              Patient: GSM3409983 
+              Expression: 1.7656415918997763
+            ",Stelloo S et al. (92 samples)
+1010,109.84,1.3366052074044175,"Sample 1010 
+              Patient: GSM3409982 
+              Expression: 1.3366052074044175
+            ",Stelloo S et al. (92 samples)
+1011,93.17,2.301681710346184,"Sample 1011 
+              Patient: GSM3409974 
+              Expression: 2.301681710346184
+            ",Stelloo S et al. (92 samples)
+1012,124.52,0.6064035789948566,"Sample 1012 
+              Patient: GSM3409985 
+              Expression: 0.6064035789948566
+            ",Stelloo S et al. (92 samples)
+1013,108.71,2.1529057551607247,"Sample 1013 
+              Patient: GSM3409986 
+              Expression: 2.1529057551607247
+            ",Stelloo S et al. (92 samples)
+1014,106.09,2.482255250824746,"Sample 1014 
+              Patient: GSM3409988 
+              Expression: 2.482255250824746
+            ",Stelloo S et al. (92 samples)
+1015,109.22,1.5308351223106529,"Sample 1015 
+              Patient: GSM3409987 
+              Expression: 1.5308351223106529
+            ",Stelloo S et al. (92 samples)
+1016,111.69,2.0836449784093882,"Sample 1016 
+              Patient: GSM3409990 
+              Expression: 2.0836449784093882
+            ",Stelloo S et al. (92 samples)
+1017,67.91,2.451607346304723,"Sample 1017 
+              Patient: GSM3409991 
+              Expression: 2.451607346304723
+            ",Stelloo S et al. (92 samples)
+1018,100.39,1.3926940528230196,"Sample 1018 
+              Patient: GSM3409992 
+              Expression: 1.3926940528230196
+            ",Stelloo S et al. (92 samples)
+1019,125.78,2.1596374372353777,"Sample 1019 
+              Patient: GSM3409989 
+              Expression: 2.1596374372353777
+            ",Stelloo S et al. (92 samples)
+1020,109.68,2.167308779148038,"Sample 1020 
+              Patient: GSM3409994 
+              Expression: 2.167308779148038
+            ",Stelloo S et al. (92 samples)
+1021,54.88,4.135938409439892,"Sample 1021 
+              Patient: GSM3409993 
+              Expression: 4.135938409439892
+            ",Stelloo S et al. (92 samples)
+1022,113.94,0.9172875029367723,"Sample 1022 
+              Patient: GSM3409995 
+              Expression: 0.9172875029367723
+            ",Stelloo S et al. (92 samples)
+1023,119.77,0.1291187453198374,"Sample 1023 
+              Patient: GSM3409998 
+              Expression: 0.1291187453198374
+            ",Stelloo S et al. (92 samples)
+1024,75.43,2.602863943112756,"Sample 1024 
+              Patient: GSM3409996 
+              Expression: 2.602863943112756
+            ",Stelloo S et al. (92 samples)
+1025,88.4,0.13311260820332715,"Sample 1025 
+              Patient: GSM3409997 
+              Expression: 0.13311260820332715
+            ",Stelloo S et al. (92 samples)
+1026,93.34,1.7576690058172855,"Sample 1026 
+              Patient: GSM3410000 
+              Expression: 1.7576690058172855
+            ",Stelloo S et al. (92 samples)
+1027,118.82,0.9615329607929028,"Sample 1027 
+              Patient: GSM3409999 
+              Expression: 0.9615329607929028
+            ",Stelloo S et al. (92 samples)
+1028,105.25,2.690571569539271,"Sample 1028 
+              Patient: GSM3410001 
+              Expression: 2.690571569539271
+            ",Stelloo S et al. (92 samples)
+1029,116.26,2.855917572771257,"Sample 1029 
+              Patient: GSM3410002 
+              Expression: 2.855917572771257
+            ",Stelloo S et al. (92 samples)
+1030,108.41,1.525544669857012,"Sample 1030 
+              Patient: GSM3410003 
+              Expression: 1.525544669857012
+            ",Stelloo S et al. (92 samples)
+1031,99.24,2.3740581627685073,"Sample 1031 
+              Patient: GSM3410004 
+              Expression: 2.3740581627685073
+            ",Stelloo S et al. (92 samples)
+1032,106.97,2.072288133509904,"Sample 1032 
+              Patient: GSM3410005 
+              Expression: 2.072288133509904
+            ",Stelloo S et al. (92 samples)
+1033,83.89,3.965915819707937,"Sample 1033 
+              Patient: GSM3410006 
+              Expression: 3.965915819707937
+            ",Stelloo S et al. (92 samples)
+1034,113.51,1.6085199306248692,"Sample 1034 
+              Patient: GSM3410009 
+              Expression: 1.6085199306248692
+            ",Stelloo S et al. (92 samples)
+1035,103.68,1.502572746754626,"Sample 1035 
+              Patient: GSM3410007 
+              Expression: 1.502572746754626
+            ",Stelloo S et al. (92 samples)
+1036,94.65,2.1505559784260124,"Sample 1036 
+              Patient: GSM3410008 
+              Expression: 2.1505559784260124
+            ",Stelloo S et al. (92 samples)
+1037,123.68,1.1393489264261367,"Sample 1037 
+              Patient: GSM3410010 
+              Expression: 1.1393489264261367
+            ",Stelloo S et al. (92 samples)
+1038,91.39,2.515269782665996,"Sample 1038 
+              Patient: GSM3410012 
+              Expression: 2.515269782665996
+            ",Stelloo S et al. (92 samples)
+1039,110.43,2.477753433150336,"Sample 1039 
+              Patient: GSM3410011 
+              Expression: 2.477753433150336
+            ",Stelloo S et al. (92 samples)
+1040,92.08,1.7722670890212682,"Sample 1040 
+              Patient: GSM3410013 
+              Expression: 1.7722670890212682
+            ",Stelloo S et al. (92 samples)
+1041,91.75,2.040009024904806,"Sample 1041 
+              Patient: GSM3410014 
+              Expression: 2.040009024904806
+            ",Stelloo S et al. (92 samples)
+1042,128.46,2.295140492601039,"Sample 1042 
+              Patient: GSM3410017 
+              Expression: 2.295140492601039
+            ",Stelloo S et al. (92 samples)
+1043,117.43,0.9787137396365209,"Sample 1043 
+              Patient: GSM3410015 
+              Expression: 0.9787137396365209
+            ",Stelloo S et al. (92 samples)
+1044,131.95,0.9563673796107989,"Sample 1044 
+              Patient: GSM3410018 
+              Expression: 0.9563673796107989
+            ",Stelloo S et al. (92 samples)
+1045,76.28,2.5978257493242873,"Sample 1045 
+              Patient: GSM3410019 
+              Expression: 2.5978257493242873
+            ",Stelloo S et al. (92 samples)
+1046,75.33,3.2265091085460034,"Sample 1046 
+              Patient: GSM3410016 
+              Expression: 3.2265091085460034
+            ",Stelloo S et al. (92 samples)
+1047,115.16,1.5453701799904587,"Sample 1047 
+              Patient: GSM3410020 
+              Expression: 1.5453701799904587
+            ",Stelloo S et al. (92 samples)
+1048,87.55,1.0704224578850472,"Sample 1048 
+              Patient: GSM3410022 
+              Expression: 1.0704224578850472
+            ",Stelloo S et al. (92 samples)
+1049,91.15,2.7103986461549634,"Sample 1049 
+              Patient: GSM3410021 
+              Expression: 2.7103986461549634
+            ",Stelloo S et al. (92 samples)
+1050,87.28,1.9302898838146711,"Sample 1050 
+              Patient: GSM3410023 
+              Expression: 1.9302898838146711
+            ",Stelloo S et al. (92 samples)
+1051,104.32,1.0592310680736468,"Sample 1051 
+              Patient: GSM3410024 
+              Expression: 1.0592310680736468
+            ",Stelloo S et al. (92 samples)
+1052,101.27,2.149097885608436,"Sample 1052 
+              Patient: GSM3410025 
+              Expression: 2.149097885608436
+            ",Stelloo S et al. (92 samples)
+1053,115.6,1.24153636119458,"Sample 1053 
+              Patient: GSM3410026 
+              Expression: 1.24153636119458
+            ",Stelloo S et al. (92 samples)
+1054,101.8,2.4017062290916233,"Sample 1054 
+              Patient: GSM3410028 
+              Expression: 2.4017062290916233
+            ",Stelloo S et al. (92 samples)
+1055,97.2,0.7256553155645208,"Sample 1055 
+              Patient: GSM3410027 
+              Expression: 0.7256553155645208
+            ",Stelloo S et al. (92 samples)
+1056,117.33,1.078483573403019,"Sample 1056 
+              Patient: GSM3410029 
+              Expression: 1.078483573403019
+            ",Stelloo S et al. (92 samples)
+1057,79.11,3.1305698948282705,"Sample 1057 
+              Patient: GSM3410030 
+              Expression: 3.1305698948282705
+            ",Stelloo S et al. (92 samples)
+1058,111.33,1.0569462029146028,"Sample 1058 
+              Patient: GSM3410031 
+              Expression: 1.0569462029146028
+            ",Stelloo S et al. (92 samples)
+1059,101.32,2.1122972515318486,"Sample 1059 
+              Patient: GSM3410032 
+              Expression: 2.1122972515318486
+            ",Stelloo S et al. (92 samples)
+1060,97.56,1.762889841812334,"Sample 1060 
+              Patient: GSM3410034 
+              Expression: 1.762889841812334
+            ",Stelloo S et al. (92 samples)
+1061,93.8,2.4703064758213187,"Sample 1061 
+              Patient: GSM3410033 
+              Expression: 2.4703064758213187
+            ",Stelloo S et al. (92 samples)
+1062,102.36,2.221863837440798,"Sample 1062 
+              Patient: GSM3410035 
+              Expression: 2.221863837440798
+            ",Stelloo S et al. (92 samples)
+1063,106.99,1.9829839035867725,"Sample 1063 
+              Patient: GSM3410036 
+              Expression: 1.9829839035867725
+            ",Stelloo S et al. (92 samples)
+1064,115.34,1.7443529198447845,"Sample 1064 
+              Patient: GSM3410039 
+              Expression: 1.7443529198447845
+            ",Stelloo S et al. (92 samples)
+1065,86.03,3.4424934504382314,"Sample 1065 
+              Patient: GSM3410037 
+              Expression: 3.4424934504382314
+            ",Stelloo S et al. (92 samples)
+1066,115.17,1.691329181077024,"Sample 1066 
+              Patient: GSM3410041 
+              Expression: 1.691329181077024
+            ",Stelloo S et al. (92 samples)
+1067,89.98,3.331818107884404,"Sample 1067 
+              Patient: GSM3410038 
+              Expression: 3.331818107884404
+            ",Stelloo S et al. (92 samples)
+1068,109.8,1.7238632811135117,"Sample 1068 
+              Patient: GSM3410042 
+              Expression: 1.7238632811135117
+            ",Stelloo S et al. (92 samples)
+1069,103.52,1.708842681887098,"Sample 1069 
+              Patient: GSM3410040 
+              Expression: 1.708842681887098
+            ",Stelloo S et al. (92 samples)
+1070,98.84,1.5179020389693703,"Sample 1070 
+              Patient: GSM3410043 
+              Expression: 1.5179020389693703
+            ",Stelloo S et al. (92 samples)
+1071,134.67,0.5062409153200479,"Sample 1071 
+              Patient: GSM3410044 
+              Expression: 0.5062409153200479
+            ",Stelloo S et al. (92 samples)
+1072,107.93,2.007152139035726,"Sample 1072 
+              Patient: GSM3410045 
+              Expression: 2.007152139035726
+            ",Stelloo S et al. (92 samples)
+1073,110.72,1.7710472464776716,"Sample 1073 
+              Patient: GSM3410046 
+              Expression: 1.7710472464776716
+            ",Stelloo S et al. (92 samples)
+1074,100.07,2.3368321146344893,"Sample 1074 
+              Patient: GSM3410047 
+              Expression: 2.3368321146344893
+            ",Stelloo S et al. (92 samples)
+1075,125.48,1.7783964475589318,"Sample 1075 
+              Patient: GSM3410049 
+              Expression: 1.7783964475589318
+            ",Stelloo S et al. (92 samples)
+1076,106.61,2.813368192773767,"Sample 1076 
+              Patient: GSM3410048 
+              Expression: 2.813368192773767
+            ",Stelloo S et al. (92 samples)
+1077,104.3,2.5113195616462374,"Sample 1077 
+              Patient: GSM3410050 
+              Expression: 2.5113195616462374
+            ",Stelloo S et al. (92 samples)
+1078,96.96,3.3034216930229032,"Sample 1078 
+              Patient: GSM3410051 
+              Expression: 3.3034216930229032
+            ",Stelloo S et al. (92 samples)
+1079,110.92,1.923612875285257,"Sample 1079 
+              Patient: GSM3410052 
+              Expression: 1.923612875285257
+            ",Stelloo S et al. (92 samples)
+1080,124.98,2.2071007532847418,"Sample 1080 
+              Patient: GSM3410053 
+              Expression: 2.2071007532847418
+            ",Stelloo S et al. (92 samples)
+1081,81.06,3.428413210334777,"Sample 1081 
+              Patient: GSM3410055 
+              Expression: 3.428413210334777
+            ",Stelloo S et al. (92 samples)
+1082,135.97,1.254219670607715,"Sample 1082 
+              Patient: GSM3410054 
+              Expression: 1.254219670607715
+            ",Stelloo S et al. (92 samples)
+1083,100.05,2.299604678257601,"Sample 1083 
+              Patient: GSM3410056 
+              Expression: 2.299604678257601
+            ",Stelloo S et al. (92 samples)
+1084,114.15,2.7161767919055215,"Sample 1084 
+              Patient: GSM3410057 
+              Expression: 2.7161767919055215
+            ",Stelloo S et al. (92 samples)
+1085,51.26,2.579856955532689,"Sample 1085 
+              Patient: GSM3415787 
+              Expression: 2.579856955532689
+            ",ANTE (6 samples)
+1086,66.78,0.32322392881203754,"Sample 1086 
+              Patient: GSM3415788 
+              Expression: 0.32322392881203754
+            ",ANTE (6 samples)
+1087,83.51,1.253268491449514,"Sample 1087 
+              Patient: GSM3415789 
+              Expression: 1.253268491449514
+            ",ANTE (6 samples)
+1088,92.43,0.40672347842488454,"Sample 1088 
+              Patient: GSM3415882 
+              Expression: 0.40672347842488454
+            ",ANTE (6 samples)
+1089,159.57,0.8863471539848096,"Sample 1089 
+              Patient: GSM3415886 
+              Expression: 0.8863471539848096
+            ",ANTE (6 samples)
+1090,61.92,2.569496501748915,"Sample 1090 
+              Patient: GSM3415895 
+              Expression: 2.569496501748915
+            ",ANTE (6 samples)
+1091,41.54,1.1160990248748146,"Sample 1091 
+              Patient: GTEX-VJYA-1226-SM-3GIJ6 
+              Expression: 1.1160990248748146
+            ",GTEx (115 samples)
+1092,56.72,0.9857921005798518,"Sample 1092 
+              Patient: GTEX-WFG7-1826-SM-3GIL1 
+              Expression: 0.9857921005798518
+            ",GTEx (115 samples)
+1093,70.29,1.1861883427005195,"Sample 1093 
+              Patient: GTEX-NFK9-2226-SM-3MJGP 
+              Expression: 1.1861883427005195
+            ",GTEx (115 samples)
+1094,51.02,1.0030747982721888,"Sample 1094 
+              Patient: GTEX-OIZH-2026-SM-3NB1M 
+              Expression: 1.0030747982721888
+            ",GTEx (115 samples)
+1095,23.18,2.899675632500278,"Sample 1095 
+              Patient: GTEX-OOBJ-2026-SM-3NB1R 
+              Expression: 2.899675632500278
+            ",GTEx (115 samples)
+1096,22.56,2.575976732781379,"Sample 1096 
+              Patient: GTEX-OOBK-2025-SM-3LK5S 
+              Expression: 2.575976732781379
+            ",GTEx (115 samples)
+1097,54.77,1.1909267896135196,"Sample 1097 
+              Patient: GTEX-PLZ6-1126-SM-3P5ZR-1 
+              Expression: 1.1909267896135196
+            ",GTEx (115 samples)
+1098,54.7,1.206589681554476,"Sample 1098 
+              Patient: GTEX-PLZ6-1126-SM-3P5ZR-2 
+              Expression: 1.206589681554476
+            ",GTEx (115 samples)
+1099,0,2.350166046199516,"Sample 1099 
+              Patient: GTEX-NPJ8-2426-SM-3MJHL 
+              Expression: 2.350166046199516
+            ",GTEx (115 samples)
+1176,48.48,2.3399500670279108,"Sample 1176 
+              Patient: GTEX-RWSA-2026-SM-47JX8 
+              Expression: 2.3399500670279108
+            ",GTEx (115 samples)
+1177,34.56,3.622426406017552,"Sample 1177 
+              Patient: GTEX-XGQ4-1826-SM-4AT6F 
+              Expression: 3.622426406017552
+            ",GTEx (115 samples)
+1178,52.12,3.5599730136557826,"Sample 1178 
+              Patient: GTEX-XQ3S-2526-SM-4BOOG 
+              Expression: 3.5599730136557826
+            ",GTEx (115 samples)
+1179,55,0.8462988229744314,"Sample 1179 
+              Patient: GTEX-U3ZM-0926-SM-4DXSW 
+              Expression: 0.8462988229744314
+            ",GTEx (115 samples)
+1180,61.47,1.4954645881508577,"Sample 1180 
+              Patient: GTEX-REY6-2126-SM-48FD9 
+              Expression: 1.4954645881508577
+            ",GTEx (115 samples)
+1181,18.24,1.0724424771253014,"Sample 1181 
+              Patient: GTEX-XPVG-2026-SM-4B65E 
+              Expression: 1.0724424771253014
+            ",GTEx (115 samples)
+1182,45.35,1.798359441268756,"Sample 1182 
+              Patient: GTEX-S33H-1826-SM-4AD65 
+              Expression: 1.798359441268756
+            ",GTEx (115 samples)
+1183,36.1,2.3669689098281816,"Sample 1183 
+              Patient: GTEX-WFG8-1826-SM-4LVM4 
+              Expression: 2.3669689098281816
+            ",GTEx (115 samples)
+1184,68.32,0.08528224857192668,"Sample 1184 
+              Patient: GTEX-V1D1-1926-SM-4JBGX 
+              Expression: 0.08528224857192668
+            ",GTEx (115 samples)
+1185,35.9,2.722339488376286,"Sample 1185 
+              Patient: GTEX-T8EM-1826-SM-4DM7F 
+              Expression: 2.722339488376286
+            ",GTEx (115 samples)
+1186,61.3,2.2435635165251333,"Sample 1186 
+              Patient: GTEX-SJXC-2026-SM-4DM6N 
+              Expression: 2.2435635165251333
+            ",GTEx (115 samples)
+1187,47.52,0.1058969212364492,"Sample 1187 
+              Patient: GTEX-S4Q7-1026-SM-4AD75 
+              Expression: 0.1058969212364492
+            ",GTEx (115 samples)
+1188,26.07,4.0940019549501425,"Sample 1188 
+              Patient: GTEX-UTHO-2726-SM-4JBH9 
+              Expression: 4.0940019549501425
+            ",GTEx (115 samples)
+1189,39.72,1.0168283252690475,"Sample 1189 
+              Patient: GTEX-V955-1826-SM-4JBIL 
+              Expression: 1.0168283252690475
+            ",GTEx (115 samples)
+1190,6.52,1.5683234276000604,"Sample 1190 
+              Patient: GTEX-SUCS-1126-SM-4DM61 
+              Expression: 1.5683234276000604
+            ",GTEx (115 samples)
+1191,58.74,0.9267754660077415,"Sample 1191 
+              Patient: GTEX-U4B1-1426-SM-4DXTX 
+              Expression: 0.9267754660077415
+            ",GTEx (115 samples)
+1192,64.87,1.3262147766798211,"Sample 1192 
+              Patient: GTEX-X5EB-1826-SM-4E3K8 
+              Expression: 1.3262147766798211
+            ",GTEx (115 samples)
+1193,23.31,2.2440782945989235,"Sample 1193 
+              Patient: GTEX-RM2N-1126-SM-48FCY 
+              Expression: 2.2440782945989235
+            ",GTEx (115 samples)
+1194,12.67,2.9077280988837138,"Sample 1194 
+              Patient: GTEX-U3ZH-0926-SM-4DXU4 
+              Expression: 2.9077280988837138
+            ",GTEx (115 samples)
+1195,12.7,2.1419142673877354,"Sample 1195 
+              Patient: GTEX-U8XE-2526-SM-4E3IT 
+              Expression: 2.1419142673877354
+            ",GTEx (115 samples)
+1196,66.77,2.1960048135042585,"Sample 1196 
+              Patient: GTEX-SNMC-0926-SM-4DM5U 
+              Expression: 2.1960048135042585
+            ",GTEx (115 samples)
+1197,48.23,1.3713611231763159,"Sample 1197 
+              Patient: GTEX-Q2AI-1126-SM-48U19 
+              Expression: 1.3713611231763159
+            ",GTEx (115 samples)
+1198,41.21,2.462021542871844,"Sample 1198 
+              Patient: GTEX-S95S-1026-SM-4B64M 
+              Expression: 2.462021542871844
+            ",GTEx (115 samples)
+1199,40.9,2.3226138428888605,"Sample 1199 
+              Patient: GTEX-WFON-1626-SM-4LVMV 
+              Expression: 2.3226138428888605
+            ",GTEx (115 samples)
+1200,31.09,0.8486972829779758,"Sample 1200 
+              Patient: GTEX-S3XE-1326-SM-4AD4H 
+              Expression: 0.8486972829779758
+            ",GTEx (115 samples)
+1201,52.14,2.2668172938269273,"Sample 1201 
+              Patient: GTEX-XOTO-2826-SM-4B65I 
+              Expression: 2.2668172938269273
+            ",GTEx (115 samples)
+1202,12.51,3.1045157595704884,"Sample 1202 
+              Patient: GTEX-T5JC-1226-SM-4DM7C 
+              Expression: 3.1045157595704884
+            ",GTEx (115 samples)
+1203,26.1,2.771750455813952,"Sample 1203 
+              Patient: GTEX-U412-2026-SM-4DXSI 
+              Expression: 2.771750455813952
+            ",GTEx (115 samples)
+1204,11.32,2.756946399945914,"Sample 1204 
+              Patient: GTEX-XXEK-1226-SM-4BRUY 
+              Expression: 2.756946399945914
+            ",GTEx (115 samples)
+1205,50.14,1.5276289941004937,"Sample 1205 
+              Patient: GTEX-WH7G-1726-SM-4LVKY 
+              Expression: 1.5276289941004937
+            ",GTEx (115 samples)
+1206,60.39,2.2185776931931196,"Sample 1206 
+              Patient: GTEX-XMK1-1026-SM-4B65H 
+              Expression: 2.2185776931931196
+            ",GTEx (115 samples)
+1207,21.17,2.5366795432249996,"Sample 1207 
+              Patient: GTEX-XAJ8-0626-SM-47JY4 
+              Expression: 2.5366795432249996
+            ",GTEx (115 samples)
+1208,56.81,1.054565313309616,"Sample 1208 
+              Patient: GTEX-117YX-1526-SM-5H12T 
+              Expression: 1.054565313309616
+            ",GTEx (115 samples)
+1209,38.09,2.9012191576269535,"Sample 1209 
+              Patient: GTEX-11O72-2726-SM-5HL6K 
+              Expression: 2.9012191576269535
+            ",GTEx (115 samples)
+1210,50.14,3.180571214289286,"Sample 1210 
+              Patient: GTEX-11NSD-0826-SM-5986S 
+              Expression: 3.180571214289286
+            ",GTEx (115 samples)
+1211,20.84,1.2244224693056072,"Sample 1211 
+              Patient: GTEX-13NYS-1026-SM-5KLZT 
+              Expression: 1.2244224693056072
+            ",GTEx (115 samples)
+1212,17.1,2.6403964418520327,"Sample 1212 
+              Patient: GTEX-145LV-1226-SM-5S2QH 
+              Expression: 2.6403964418520327
+            ",GTEx (115 samples)
+1213,40.28,2.65728259611411,"Sample 1213 
+              Patient: GTEX-14ABY-0726-SM-5Q5DF 
+              Expression: 2.65728259611411
+            ",GTEx (115 samples)
+1214,51.77,0.45904331116191793,"Sample 1214 
+              Patient: GTEX-1399R-0526-SM-5IJEF 
+              Expression: 0.45904331116191793
+            ",GTEx (115 samples)
+1215,18.35,1.3463854975703442,"Sample 1215 
+              Patient: GTEX-131XF-1926-SM-5DUW4 
+              Expression: 1.3463854975703442
+            ",GTEx (115 samples)
+1216,56.92,2.0913640992070026,"Sample 1216 
+              Patient: GTEX-146FQ-1726-SM-5QGPX 
+              Expression: 2.0913640992070026
+            ",GTEx (115 samples)
+1217,37.1,0.20740721438429827,"Sample 1217 
+              Patient: GTEX-ZLFU-1726-SM-4WWBU 
+              Expression: 0.20740721438429827
+            ",GTEx (115 samples)
+1218,34.84,2.7691091854614203,"Sample 1218 
+              Patient: GTEX-13O61-1726-SM-5KM46 
+              Expression: 2.7691091854614203
+            ",GTEx (115 samples)
+1219,58.41,1.271381005262605,"Sample 1219 
+              Patient: GTEX-ZT9W-1626-SM-4YCDQ 
+              Expression: 1.271381005262605
+            ",GTEx (115 samples)
+1220,30.39,0.7190288958537531,"Sample 1220 
+              Patient: GTEX-ZEX8-2026-SM-4WKF3 
+              Expression: 0.7190288958537531
+            ",GTEx (115 samples)
+1221,57.38,0.5773536252778246,"Sample 1221 
+              Patient: GTEX-ZVP2-0826-SM-59HJ6 
+              Expression: 0.5773536252778246
+            ",GTEx (115 samples)
+1222,34.01,0.19341052041751428,"Sample 1222 
+              Patient: GTEX-11WQK-2726-SM-5EQMU 
+              Expression: 0.19341052041751428
+            ",GTEx (115 samples)
+1223,17.14,3.7186564255852597,"Sample 1223 
+              Patient: GTEX-WK11-2626-SM-4OOSK 
+              Expression: 3.7186564255852597
+            ",GTEx (115 samples)
+1224,35.98,3.7737673473477344,"Sample 1224 
+              Patient: GTEX-11OF3-1726-SM-5GU5Q 
+              Expression: 3.7737673473477344
+            ",GTEx (115 samples)
+1225,53.45,2.1095501150227585,"Sample 1225 
+              Patient: GTEX-YF7O-1926-SM-4W1YQ 
+              Expression: 2.1095501150227585
+            ",GTEx (115 samples)
+1226,39.7,0.800584494827822,"Sample 1226 
+              Patient: GTEX-11EQ9-1726-SM-5HL6U 
+              Expression: 0.800584494827822
+            ",GTEx (115 samples)
+1227,44.04,3.596989148579959,"Sample 1227 
+              Patient: GTEX-11DYG-2526-SM-5N9BB 
+              Expression: 3.596989148579959
+            ",GTEx (115 samples)
+1228,47.41,2.6609063107344944,"Sample 1228 
+              Patient: GTEX-117YW-1426-SM-5EGGO 
+              Expression: 2.6609063107344944
+            ",GTEx (115 samples)
+1229,48.28,3.329883169854936,"Sample 1229 
+              Patient: GTEX-14BMV-2326-SM-5RQJ4 
+              Expression: 3.329883169854936
+            ",GTEx (115 samples)
+1230,34.51,3.1537172413878936,"Sample 1230 
+              Patient: GTEX-QV44-1526-SM-4R1KI 
+              Expression: 3.1537172413878936
+            ",GTEx (115 samples)
+1231,58.47,0.5074501534690302,"Sample 1231 
+              Patient: GTEX-QV31-1026-SM-4R1K3 
+              Expression: 0.5074501534690302
+            ",GTEx (115 samples)
+1312,57.65,0.5802335681052097,"Sample 1312 
+              Patient: GTEX-YB5E-1826-SM-5IFI4 
+              Expression: 0.5802335681052097
+            ",GTEx (115 samples)
+1313,45.79,2.2058832031669877,"Sample 1313 
+              Patient: GTEX-QEG4-2226-SM-4R1JM 
+              Expression: 2.2058832031669877
+            ",GTEx (115 samples)
+1314,31.46,1.5178463840135916,"Sample 1314 
+              Patient: GTEX-12BJ1-1226-SM-5LUAE 
+              Expression: 1.5178463840135916
+            ",GTEx (115 samples)
+1315,40.31,2.6172127957734115,"Sample 1315 
+              Patient: GTEX-148VJ-1826-SM-5Q5DV 
+              Expression: 2.6172127957734115
+            ",GTEx (115 samples)
+1316,66.42,3.407851251961494,"Sample 1316 
+              Patient: GTEX-13FXS-2826-SM-5LZYC 
+              Expression: 3.407851251961494
+            ",GTEx (115 samples)
+1317,54.28,0.3065651745182634,"Sample 1317 
+              Patient: GTEX-Y9LG-1826-SM-4VBQC 
+              Expression: 0.3065651745182634
+            ",GTEx (115 samples)
+1318,10.64,3.203959916163413,"Sample 1318 
+              Patient: GTEX-11DXZ-1826-SM-5H12Y 
+              Expression: 3.203959916163413
+            ",GTEx (115 samples)
+1319,25.43,2.730078647281942,"Sample 1319 
+              Patient: GTEX-13O21-1126-SM-5N9EV 
+              Expression: 2.730078647281942
+            ",GTEx (115 samples)
+1320,41.09,1.3196835395668753,"Sample 1320 
+              Patient: GTEX-144GM-0826-SM-5O98R 
+              Expression: 1.3196835395668753
+            ",GTEx (115 samples)
+1321,22.19,2.3794393253800066,"Sample 1321 
+              Patient: GTEX-WY7C-2026-SM-4ONCM 
+              Expression: 2.3794393253800066
+            ",GTEx (115 samples)
+1322,61.84,1.036794393622929,"Sample 1322 
+              Patient: GTEX-WOFM-0326-SM-4OOSL 
+              Expression: 1.036794393622929
+            ",GTEx (115 samples)
+1323,26.79,1.8523612451812603,"Sample 1323 
+              Patient: GTEX-13FHO-2826-SM-5K7ZA 
+              Expression: 1.8523612451812603
+            ",GTEx (115 samples)
+1324,31.06,2.4361798088570366,"Sample 1324 
+              Patient: GTEX-QLQ7-1326-SM-4R1JY 
+              Expression: 2.4361798088570366
+            ",GTEx (115 samples)
+1325,49.24,1.072787331790322,"Sample 1325 
+              Patient: GTEX-ZZ64-0926-SM-5E44L 
+              Expression: 1.072787331790322
+            ",GTEx (115 samples)
+1326,42.16,2.2951230556678914,"Sample 1326 
+              Patient: GTEX-QMRM-1426-SM-4R1K8 
+              Expression: 2.2951230556678914
+            ",GTEx (115 samples)
+1327,32.69,4.840827610576005,"Sample 1327 
+              Patient: GTEX-12ZZZ-2026-SM-5LZWJ 
+              Expression: 4.840827610576005
+            ",GTEx (115 samples)
+1328,57.79,2.3412779245974216,"Sample 1328 
+              Patient: GTEX-132NY-2826-SM-5P9G2 
+              Expression: 2.3412779245974216
+            ",GTEx (115 samples)
+1329,54.54,2.09795206511464,"Sample 1329 
+              Patient: GTEX-111FC-2026-SM-5GZYO 
+              Expression: 2.09795206511464
+            ",GTEx (115 samples)
+1330,43.62,1.208977429055721,"Sample 1330 
+              Patient: GTEX-ZYFD-2526-SM-5E45L 
+              Expression: 1.208977429055721
+            ",GTEx (115 samples)
+1331,24.3,4.779382436041229,"Sample 1331 
+              Patient: GTEX-13G51-2326-SM-5LZXV 
+              Expression: 4.779382436041229
+            ",GTEx (115 samples)
+1332,34.16,2.4804781389756583,"Sample 1332 
+              Patient: GTEX-111CU-1526-SM-5N9FS 
+              Expression: 2.4804781389756583
+            ",GTEx (115 samples)
+1333,29.71,2.8914708598831402,"Sample 1333 
+              Patient: GTEX-14C5O-2826-SM-5RQI6 
+              Expression: 2.8914708598831402
+            ",GTEx (115 samples)
+1334,51.65,0.9379551661349166,"Sample 1334 
+              Patient: GTEX-132QS-1126-SM-5P9GC 
+              Expression: 0.9379551661349166
+            ",GTEx (115 samples)
+1335,85.49,0.7049892879546332,"Sample 1335 
+              Patient: GTEX-ZUA1-2826-SM-59HLE 
+              Expression: 0.7049892879546332
+            ",GTEx (115 samples)
+1336,57.01,1.8570707156423392,"Sample 1336 
+              Patient: GTEX-13FTW-1226-SM-5LZZ1 
+              Expression: 1.8570707156423392
+            ",GTEx (115 samples)
+1337,32.84,3.8162639848833093,"Sample 1337 
+              Patient: GTEX-13N2G-1826-SM-5KM1I 
+              Expression: 3.8162639848833093
+            ",GTEx (115 samples)
+1338,63.67,2.578025979343106,"Sample 1338 
+              Patient: GTEX-WZTO-0926-SM-4PQZ3 
+              Expression: 2.578025979343106
+            ",GTEx (115 samples)
+1339,14.86,0,"Sample 1339 
+              Patient: GTEX-1477Z-2226-SM-5QGPG 
+              Expression: 0
+            ",GTEx (115 samples)
+1340,59.9,1.1467496395812793,"Sample 1340 
+              Patient: GTEX-11TUW-2126-SM-5GU7B 
+              Expression: 1.1467496395812793
+            ",GTEx (115 samples)
+1341,40.95,2.2055007167406075,"Sample 1341 
+              Patient: GTEX-139T6-1526-SM-5P9G6 
+              Expression: 2.2055007167406075
+            ",GTEx (115 samples)
+1342,26.8,2.2840478716153347,"Sample 1342 
+              Patient: GTEX-13111-1326-SM-5GCNO 
+              Expression: 2.2840478716153347
+            ",GTEx (115 samples)
+1343,48.49,1.298645318506479,"Sample 1343 
+              Patient: GTEX-ZY6K-1526-SM-5GZXE 
+              Expression: 1.298645318506479
+            ",GTEx (115 samples)
+1344,11.9,0.8097000601142712,"Sample 1344 
+              Patient: GTEX-YFCO-1626-SM-4W1Z3 
+              Expression: 0.8097000601142712
+            ",GTEx (115 samples)
+1345,52.17,0.4784804432496746,"Sample 1345 
+              Patient: GTEX-145LT-0626-SM-5O99E 
+              Expression: 0.4784804432496746
+            ",GTEx (115 samples)
+1346,44.79,3.037846038775031,"Sample 1346 
+              Patient: GTEX-14E6E-1126-SM-5S2R4 
+              Expression: 3.037846038775031
+            ",GTEx (115 samples)
+1347,26.9,2.06391293972084,"Sample 1347 
+              Patient: GTEX-12696-2226-SM-5EQ65 
+              Expression: 2.06391293972084
+            ",GTEx (115 samples)
+1348,43.3,1.6077365758487852,"Sample 1348 
+              Patient: GTEX-11TT1-2026-SM-5EQM8 
+              Expression: 1.6077365758487852
+            ",GTEx (115 samples)
+1349,37.59,2.833433380417838,"Sample 1349 
+              Patient: GTEX-ZPU1-2026-SM-57WFI 
+              Expression: 2.833433380417838
+            ",GTEx (115 samples)
+1350,37.31,0.2664916633470262,"Sample 1350 
+              Patient: GTEX-Y8E4-2126-SM-5RQHO 
+              Expression: 0.2664916633470262
+            ",GTEx (115 samples)
+1351,60.06,1.311699575546913,"Sample 1351 
+              Patient: GTEX-12C56-1326-SM-5FQSV 
+              Expression: 1.311699575546913
+            ",GTEx (115 samples)
+1352,53.67,1.3220298306176919,"Sample 1352 
+              Patient: GTEX-11P7K-0626-SM-5985Z 
+              Expression: 1.3220298306176919
+            ",GTEx (115 samples)
+1353,27.12,2.925046973516204,"Sample 1353 
+              Patient: GTEX-YJ8A-1126-SM-5IFJU 
+              Expression: 2.925046973516204
+            ",GTEx (115 samples)
+1354,42.21,3.403752354386204,"Sample 1354 
+              Patient: GTEX-1399T-1226-SM-5P9J5 
+              Expression: 3.403752354386204
+            ",GTEx (115 samples)
+1355,30.22,0.0866388941974207,"Sample 1355 
+              Patient: GTEX-ZTTD-2726-SM-57WFA 
+              Expression: 0.0866388941974207
+            ",GTEx (115 samples)
+1356,6.95,3.564508225724243,"Sample 1356 
+              Patient: GTEX-145LU-2126-SM-5Q5E9 
+              Expression: 3.564508225724243
+            ",GTEx (115 samples)
+1357,59.83,1.839249225731434,"Sample 1357 
+              Patient: GTEX-11P82-1126-SM-5BC5K 
+              Expression: 1.839249225731434
+            ",GTEx (115 samples)
+1358,14.56,2.5936968199464063,"Sample 1358 
+              Patient: GTEX-13RTJ-2126-SM-5S2PZ 
+              Expression: 2.5936968199464063
+            ",GTEx (115 samples)
+1359,50.38,1.4769792475483956,"Sample 1359 
+              Patient: GTEX-ZDYS-1226-SM-5IJF3 
+              Expression: 1.4769792475483956
+            ",GTEx (115 samples)
+1360,38.35,1.946122825927011,"Sample 1360 
+              Patient: GTEX-11ZUS-2126-SM-5N9E6 
+              Expression: 1.946122825927011
+            ",GTEx (115 samples)
+1361,41.13,1.1274204553578384,"Sample 1361 
+              Patient: GTEX-WYJK-0626-SM-4ONCZ 
+              Expression: 1.1274204553578384
+            ",GTEx (115 samples)
+1117,203.09,0,"Sample 1117 
+              Patient: GSM3591016 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1118,161.15,0,"Sample 1118 
+              Patient: GSM3591017 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1119,157.73,0,"Sample 1119 
+              Patient: GSM3591018 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1120,210.64,0.041848685314489605,"Sample 1120 
+              Patient: GSM3591019 
+              Expression: 0.041848685314489605
+            ",Labrecque MP et al. (59 samples)
+1121,192.14,0,"Sample 1121 
+              Patient: GSM3591021 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1122,208.42,0,"Sample 1122 
+              Patient: GSM3591022 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1123,193.93,0,"Sample 1123 
+              Patient: GSM3591023 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1124,181.17,0.08404072415137835,"Sample 1124 
+              Patient: GSM3591024 
+              Expression: 0.08404072415137835
+            ",Labrecque MP et al. (59 samples)
+1125,223.29,0,"Sample 1125 
+              Patient: GSM3591025 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1126,227.68,0,"Sample 1126 
+              Patient: GSM3591026 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1127,203.1,0,"Sample 1127 
+              Patient: GSM3591027 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1128,201.44,0,"Sample 1128 
+              Patient: GSM3591028 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1129,184.61,0,"Sample 1129 
+              Patient: GSM3591029 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1130,159.75,0,"Sample 1130 
+              Patient: GSM3591030 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1131,166.35,0,"Sample 1131 
+              Patient: GSM3591031 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1132,192.59,0,"Sample 1132 
+              Patient: GSM3591032 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1133,198.82,0,"Sample 1133 
+              Patient: GSM3591033 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1134,169.62,0,"Sample 1134 
+              Patient: GSM3591034 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1135,189.31,0,"Sample 1135 
+              Patient: GSM3591035 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1136,169.5,0,"Sample 1136 
+              Patient: GSM3591036 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1137,174.51,0,"Sample 1137 
+              Patient: GSM3591037 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1138,209.89,0,"Sample 1138 
+              Patient: GSM3591038 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1139,164.76,0,"Sample 1139 
+              Patient: GSM3591039 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1140,168.64,0,"Sample 1140 
+              Patient: GSM3591040 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1141,189.17,0,"Sample 1141 
+              Patient: GSM3591041 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1142,196.99,0,"Sample 1142 
+              Patient: GSM3591042 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1143,180.06,0,"Sample 1143 
+              Patient: GSM3591043 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1144,256.36,0,"Sample 1144 
+              Patient: GSM3591044 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1145,249.62,0,"Sample 1145 
+              Patient: GSM3591045 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1146,196.69,0,"Sample 1146 
+              Patient: GSM3591048 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1147,244.1,0.17315668669089862,"Sample 1147 
+              Patient: GSM3591054 
+              Expression: 0.17315668669089862
+            ",Labrecque MP et al. (59 samples)
+1148,204.61,0.047583274995618305,"Sample 1148 
+              Patient: GSM3591055 
+              Expression: 0.047583274995618305
+            ",Labrecque MP et al. (59 samples)
+1149,182.62,0,"Sample 1149 
+              Patient: GSM3591057 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1150,179.95,0,"Sample 1150 
+              Patient: GSM3591064 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1151,247.94,0,"Sample 1151 
+              Patient: GSM3591066 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1152,219.68,0,"Sample 1152 
+              Patient: GSM3591068 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1153,206.24,0,"Sample 1153 
+              Patient: GSM3591069 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1154,201.34,0,"Sample 1154 
+              Patient: GSM3591072 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1155,191.16,0,"Sample 1155 
+              Patient: GSM3591076 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1156,233.14,0,"Sample 1156 
+              Patient: GSM3591079 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1157,222.24,0,"Sample 1157 
+              Patient: GSM3591080 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1158,181.78,0,"Sample 1158 
+              Patient: GSM3591092 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1159,180.81,0,"Sample 1159 
+              Patient: GSM3591093 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1160,250.8,0.04918921064411968,"Sample 1160 
+              Patient: GSM3591098 
+              Expression: 0.04918921064411968
+            ",Labrecque MP et al. (59 samples)
+1161,205.91,0,"Sample 1161 
+              Patient: GSM3591099 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1162,204.47,0,"Sample 1162 
+              Patient: GSM3591100 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1163,207.61,0,"Sample 1163 
+              Patient: GSM3591101 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1164,244.18,0,"Sample 1164 
+              Patient: GSM3591102 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1165,233.74,0,"Sample 1165 
+              Patient: GSM3591103 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1166,214.17,0,"Sample 1166 
+              Patient: GSM3591104 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1167,200.38,0,"Sample 1167 
+              Patient: GSM3591105 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1168,201.09,0.053728005733488626,"Sample 1168 
+              Patient: GSM3591106 
+              Expression: 0.053728005733488626
+            ",Labrecque MP et al. (59 samples)
+1169,181.67,0,"Sample 1169 
+              Patient: GSM3591107 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1170,187.27,0,"Sample 1170 
+              Patient: GSM3591108 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1171,177.02,0,"Sample 1171 
+              Patient: GSM3591109 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1172,197.31,0,"Sample 1172 
+              Patient: GSM3591110 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1173,218.76,0.3374145130168231,"Sample 1173 
+              Patient: GSM3591112 
+              Expression: 0.3374145130168231
+            ",Labrecque MP et al. (59 samples)
+1174,218.48,0,"Sample 1174 
+              Patient: GSM3591111 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1175,214.34,0,"Sample 1175 
+              Patient: GSM3591113 
+              Expression: 0
+            ",Labrecque MP et al. (59 samples)
+1232,253.27,0.04109703433541699,"Sample 1232 
+              Patient: GSM4422675 
+              Expression: 0.04109703433541699
+            ",Nyquist MD et al. (80 samples)
+1233,203.81,0,"Sample 1233 
+              Patient: GSM4422676 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1234,212.02,0,"Sample 1234 
+              Patient: GSM4422678 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1235,189.73,0,"Sample 1235 
+              Patient: GSM4422679 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1236,186.33,1.0648921771446123,"Sample 1236 
+              Patient: GSM4422680 
+              Expression: 1.0648921771446123
+            ",Nyquist MD et al. (80 samples)
+1237,237.96,0,"Sample 1237 
+              Patient: GSM4422681 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1238,232.85,0.03980886759996997,"Sample 1238 
+              Patient: GSM4422682 
+              Expression: 0.03980886759996997
+            ",Nyquist MD et al. (80 samples)
+1239,222.98,0,"Sample 1239 
+              Patient: GSM4422684 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1240,197.48,0,"Sample 1240 
+              Patient: GSM4422686 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1241,208.25,0,"Sample 1241 
+              Patient: GSM4422688 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1242,242.1,0.41948785815225587,"Sample 1242 
+              Patient: GSM4422689 
+              Expression: 0.41948785815225587
+            ",Nyquist MD et al. (80 samples)
+1243,240.25,0,"Sample 1243 
+              Patient: GSM4422690 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1244,242.19,0.20269842546407055,"Sample 1244 
+              Patient: GSM4422691 
+              Expression: 0.20269842546407055
+            ",Nyquist MD et al. (80 samples)
+1245,183.21,0,"Sample 1245 
+              Patient: GSM4422692 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1246,185.1,0,"Sample 1246 
+              Patient: GSM4422693 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1247,194.18,0,"Sample 1247 
+              Patient: GSM4422694 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1248,176.26,0,"Sample 1248 
+              Patient: GSM4422696 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1249,199.47,0,"Sample 1249 
+              Patient: GSM4422698 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1250,247.43,0.6439318739378135,"Sample 1250 
+              Patient: GSM4422701 
+              Expression: 0.6439318739378135
+            ",Nyquist MD et al. (80 samples)
+1251,240.3,0,"Sample 1251 
+              Patient: GSM4422702 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1252,185.84,0,"Sample 1252 
+              Patient: GSM4422704 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1253,202.78,0,"Sample 1253 
+              Patient: GSM4422705 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1254,194.17,0,"Sample 1254 
+              Patient: GSM4422706 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1255,198.16,0,"Sample 1255 
+              Patient: GSM4422707 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1256,192.08,0,"Sample 1256 
+              Patient: GSM4422709 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1257,207.98,0,"Sample 1257 
+              Patient: GSM4422710 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1258,231.88,1.2345617200530952,"Sample 1258 
+              Patient: GSM4422711 
+              Expression: 1.2345617200530952
+            ",Nyquist MD et al. (80 samples)
+1259,210.22,0,"Sample 1259 
+              Patient: GSM4422714 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1260,244.85,0,"Sample 1260 
+              Patient: GSM4422715 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1261,202.66,0,"Sample 1261 
+              Patient: GSM4422716 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1262,225.16,0,"Sample 1262 
+              Patient: GSM4422717 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1263,207.81,0,"Sample 1263 
+              Patient: GSM4422718 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1264,199.73,0,"Sample 1264 
+              Patient: GSM4422719 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1265,226.91,0.050530686441436115,"Sample 1265 
+              Patient: GSM4422720 
+              Expression: 0.050530686441436115
+            ",Nyquist MD et al. (80 samples)
+1266,183.61,0,"Sample 1266 
+              Patient: GSM4422721 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1267,229.19,0,"Sample 1267 
+              Patient: GSM4422722 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1268,188.64,0,"Sample 1268 
+              Patient: GSM4422723 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1269,202.19,0.055763168051531864,"Sample 1269 
+              Patient: GSM4422724 
+              Expression: 0.055763168051531864
+            ",Nyquist MD et al. (80 samples)
+1270,186.33,0,"Sample 1270 
+              Patient: GSM4422725 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1271,192.75,0,"Sample 1271 
+              Patient: GSM4422726 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1272,181.66,0,"Sample 1272 
+              Patient: GSM4422727 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1273,233.85,0,"Sample 1273 
+              Patient: GSM4422729 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1274,209.7,0,"Sample 1274 
+              Patient: GSM4422730 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1275,247.58,0,"Sample 1275 
+              Patient: GSM4422731 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1276,238.71,0.11507573702878278,"Sample 1276 
+              Patient: GSM4422732 
+              Expression: 0.11507573702878278
+            ",Nyquist MD et al. (80 samples)
+1277,217.39,0,"Sample 1277 
+              Patient: GSM4422736 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1278,244.54,0,"Sample 1278 
+              Patient: GSM4422739 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1279,245.81,0,"Sample 1279 
+              Patient: GSM4422740 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1280,250.98,0,"Sample 1280 
+              Patient: GSM4422742 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1281,216.79,0,"Sample 1281 
+              Patient: GSM4422753 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1282,232.07,0,"Sample 1282 
+              Patient: GSM4422754 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1283,210.27,0,"Sample 1283 
+              Patient: GSM4422756 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1284,211.01,0,"Sample 1284 
+              Patient: GSM4422755 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1285,202.52,0,"Sample 1285 
+              Patient: GSM4422758 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1286,189.52,0,"Sample 1286 
+              Patient: GSM4422757 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1287,192.1,0,"Sample 1287 
+              Patient: GSM4422759 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1288,183.16,0.05281053765416315,"Sample 1288 
+              Patient: GSM4422760 
+              Expression: 0.05281053765416315
+            ",Nyquist MD et al. (80 samples)
+1289,178.17,0,"Sample 1289 
+              Patient: GSM4422761 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1290,193.64,0,"Sample 1290 
+              Patient: GSM4422762 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1291,214.75,0,"Sample 1291 
+              Patient: GSM4422763 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1292,223.18,0,"Sample 1292 
+              Patient: GSM4422764 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1293,230.72,0,"Sample 1293 
+              Patient: GSM4422765 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1294,206.09,0,"Sample 1294 
+              Patient: GSM4422766 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1295,199.4,0,"Sample 1295 
+              Patient: GSM4422768 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1296,183.71,0,"Sample 1296 
+              Patient: GSM4422767 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1297,239.33,0,"Sample 1297 
+              Patient: GSM4422769 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1298,186.78,0.04378189061681426,"Sample 1298 
+              Patient: GSM4422632 
+              Expression: 0.04378189061681426
+            ",Nyquist MD et al. (80 samples)
+1299,167.56,0,"Sample 1299 
+              Patient: GSM4422633 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1300,178.91,0,"Sample 1300 
+              Patient: GSM4422634 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1301,186.07,0,"Sample 1301 
+              Patient: GSM4422636 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1302,192.44,0,"Sample 1302 
+              Patient: GSM4422635 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1303,182.23,0,"Sample 1303 
+              Patient: GSM4422637 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1304,188.55,0,"Sample 1304 
+              Patient: GSM4422638 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1305,188.45,0,"Sample 1305 
+              Patient: GSM4422639 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1306,202.69,0,"Sample 1306 
+              Patient: GSM4422640 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1307,175.76,0,"Sample 1307 
+              Patient: GSM4422641 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1308,214.28,0,"Sample 1308 
+              Patient: GSM4422642 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1309,201.5,0,"Sample 1309 
+              Patient: GSM4422643 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1310,231.09,0,"Sample 1310 
+              Patient: GSM4422648 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1311,222.17,0,"Sample 1311 
+              Patient: GSM4422651 
+              Expression: 0
+            ",Nyquist MD et al. (80 samples)
+1362,202.7,0,"Sample 1362 
+              Patient: GSM5231656 
+              Expression: 0
+            ",Lim Y et al. (4 samples)
+1363,196.19,0,"Sample 1363 
+              Patient: GSM5231657 
+              Expression: 0
+            ",Lim Y et al. (4 samples)
+1364,185.22,0,"Sample 1364 
+              Patient: GSM5231658 
+              Expression: 0
+            ",Lim Y et al. (4 samples)
+1365,231.82,1.234605449953333,"Sample 1365 
+              Patient: GSM5231659 
+              Expression: 1.234605449953333
+            ",Lim Y et al. (4 samples)
