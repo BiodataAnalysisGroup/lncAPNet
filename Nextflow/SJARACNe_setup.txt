@@ -1,0 +1,17 @@
+# create conda environment for SJARACNe
+
+conda create --name SJARACNe python=3.9.2
+conda activate SJARACNe
+pip install numpy==1.20.1
+pip install scipy==1.6.1
+pip install pandas==1.2.3
+pip install cwltool==3.1.20230201224320
+conda install nodejs=18.16.0
+
+git clone https://github.com/jyyulab/SJARACNe
+cd SJARACNe
+python setup.py build     # build SJARACNe binary
+python setup.py install
+
+# ensure that the miniconda env of SJARACNe has open access
+$chmod -R 777 ~/miniconda/envs/SJARACNe
