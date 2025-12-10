@@ -1,0 +1,6 @@
+# Demo run [1.NetBID2, 2.SJARACNe]
+
+$cd Nextflow_demo/scripts # go to scripts
+$Rscript Network_reconstruction.R --eset ../data/test_eset.rds # run NetBID2
+$bash SJARACNe_run.sh # run SJARACne
+
