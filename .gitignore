@@ -2,3 +2,16 @@
 .Rhistory
 .RData
 .Ruserdata
+
+.nextflow*
+work/
+data/
+results/
+.DS_Store
+testing/
+testing*
+*.pyc
+null/
+.nf-test.log
+nf-test
+.nf-test*
