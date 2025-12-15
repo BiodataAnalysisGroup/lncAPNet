@@ -47,6 +47,12 @@ SIG_FILE="${BASE_DIR}sig.txt"
 TF_FILE="${BASE_DIR}tf.txt"
 LNC_FILE="${BASE_DIR}lnc_list.txt"
 
+# Intermediate (top 5 only)
+SIG_TOP5="${BASE_DIR}sig_top5.txt"
+TF_TOP5="${BASE_DIR}tf_top5.txt"
+LNC_TOP5="${BASE_DIR}lnc_top5.txt"
+
+# Cleaned files
 SIG_CLEAN="${BASE_DIR}sig_cleaned.txt"
 TF_CLEAN="${BASE_DIR}tf_cleaned.txt"
 LNC_CLEAN="${BASE_DIR}lnc_cleaned.txt"
@@ -62,12 +68,20 @@ if ! command -v sjaracne &> /dev/null; then
 fi
 
 # -------------------------
-# Clean files
+# Keep top 5 lines
 # -------------------------
-echo "Cleaning trailing spaces from sig.txt, tf.txt, lnc_list.txt..."
-sed 's/[[:space:]]*$//' "$SIG_FILE" > "$SIG_CLEAN"
-sed 's/[[:space:]]*$//' "$TF_FILE" > "$TF_CLEAN"
-sed 's/[[:space:]]*$//' "$LNC_FILE" > "$LNC_CLEAN"
+echo "Keeping top 5 lines of sig.txt, tf.txt, and lnc_list.txt..."
+head -n 5 "$SIG_FILE" > "$SIG_TOP5"
+head -n 5 "$TF_FILE"  > "$TF_TOP5"
+head -n 5 "$LNC_FILE" > "$LNC_TOP5"
+
+# -------------------------
+# Clean trailing spaces
+# -------------------------
+echo "Cleaning trailing spaces..."
+sed 's/[[:space:]]*$//' "$SIG_TOP5" > "$SIG_CLEAN"
+sed 's/[[:space:]]*$//' "$TF_TOP5"  > "$TF_CLEAN"
+sed 's/[[:space:]]*$//' "$LNC_TOP5" > "$LNC_CLEAN"
 
 # -------------------------
 # Function to run sjaracne
@@ -75,15 +89,19 @@ sed 's/[[:space:]]*$//' "$LNC_FILE" > "$LNC_CLEAN"
 run_sjaracne() {
     local cleaned_file="$1"
     local output_dir="$2"
+
     echo "Running sjaracne for ${cleaned_file} -> ${BASE_DIR}${output_dir}/"
-    
-    sjaracne local -e "$INPUT_EXP" -g "$cleaned_file" -o "${BASE_DIR}${output_dir}" -tmp ~/tmp/tmp
-    
-    # Wait until the process finishes
+
+    sjaracne local \
+        -e "$INPUT_EXP" \
+        -g "$cleaned_file" \
+        -o "${BASE_DIR}${output_dir}" \
+        -tmp ~/tmp/tmp \
+        -n 1
+
     wait
-    
-    # Remove temporary folder
     rm -rf ~/tmp/tmp
+
     echo "Finished ${output_dir}."
 }
 
@@ -91,7 +109,7 @@ run_sjaracne() {
 # Sequential execution
 # -------------------------
 run_sjaracne "$SIG_CLEAN" "sig"
-run_sjaracne "$TF_CLEAN" "tf"
+run_sjaracne "$TF_CLEAN"  "tf"
 run_sjaracne "$LNC_CLEAN" "lnc"
 
 echo "All SJARACNe runs completed successfully!"
