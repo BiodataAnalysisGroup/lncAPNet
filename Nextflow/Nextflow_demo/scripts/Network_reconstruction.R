@@ -1,21 +1,13 @@
 #!/usr/bin/env Rscript
 
-suppressPackageStartupMessages({
-  library(dplyr)
-  library(NetBID2)
-  library(optparse)
-  library(biomaRt)
-})
-
-rm(list = ls())
-gc()
-
 ###############################################
-### Command line arguments
+### Step 0: Parse command-line arguments first
 ###############################################
+
+suppressPackageStartupMessages(library(optparse))
 
 option_list <- list(
-  make_option(c("--eset"), type="character", help="Path to input RDS eset file"),
+  make_option(c("--eset"), type="character", help="Path to input RDS eset file [REQUIRED]"),
   make_option(c("--project_dir"), type="character", default="../",
               help="Main project directory [default=../]"),
   make_option(c("--project_name"), type="character", default="NetBID2_Project",
@@ -28,16 +20,35 @@ option_list <- list(
               help="Print log messages for normalization [default=TRUE]")
 )
 
-opt <- parse_args(OptionParser(option_list=option_list))
+opt_parser <- OptionParser(option_list=option_list)
+opt <- parse_args(opt_parser)
+
+# If --eset is missing, print help and exit
+if (is.null(opt$eset)) {
+  print_help(opt_parser)
+  stop("Error: --eset argument is required.", call.=FALSE)
+}
 
 ###############################################
-### Step 1: Load eset
+### Step 1: Load heavy libraries AFTER parsing args
+###############################################
+suppressPackageStartupMessages({
+  library(dplyr)
+  library(NetBID2)
+  library(biomaRt)
+})
+
+rm(list = ls())
+gc()
+
+###############################################
+### Step 2: Load eset
 ###############################################
 message("Loading eset: ", opt$eset)
 net_eset <- readRDS(opt$eset)
 
 ###############################################
-### Step 2: Set project directories
+### Step 3: Set project directories
 ###############################################
 project_main_dir <- opt$project_dir
 project_name     <- opt$project_name
@@ -50,9 +61,8 @@ network.par <- NetBID.network.dir.create(
 network.par$net.eset <- net_eset
 
 ###############################################
-### Step 3: Normalization (conditional message + log2)
+### Step 4: Normalization (conditional log2)
 ###############################################
-
 if (opt$log) {
   message("Applying log2 normalization...")
   mat <- log2(exprs(network.par$net.eset) + 1)
@@ -66,8 +76,8 @@ mat <- mat[choose1, ]
 
 net_eset <- generate.eset(
   exp_mat        = mat,
-  phenotype_info = pData(network.par$net.eset)[colnames(mat),],
-  feature_info   = fData(network.par$net.eset)[rownames(mat),],
+  phenotype_info = pData(network.par$net.eset)[colnames(mat), ],
+  feature_info   = fData(network.par$net.eset)[rownames(mat), ],
   annotation_info= annotation(network.par$net.eset)
 )
 
@@ -77,7 +87,7 @@ message("Saving QC data...")
 NetBID.saveRData(network.par = network.par, step = "exp-QC")
 
 ###############################################
-### Step 4: Database + TF/SIG selection
+### Step 5: Database + TF/SIG selection
 ###############################################
 message("Loading TF/SIG database...")
 db.preload(use_level='gene', use_spe='human', update=FALSE)
@@ -87,7 +97,7 @@ use_genes <- rownames(fData(network.par$net.eset))
 use_list <- get.TF_SIG.list(use_genes, use_gene_type = use_gene_type)
 
 ###############################################
-### Step 5: Prepare SJAracne
+### Step 6: Prepare SJAracne
 ###############################################
 phe <- pData(network.par$net.eset)
 use.samples <- rownames(phe)
@@ -106,16 +116,13 @@ SJAracne.prepare(
   SJAR.main_dir     = network.par$out.dir.SJAR
 )
 
-
 ###############################################
-### Step 6: Retrieve non-protein-coding genes (lncRNAs) using biomaRt
+### Step 7: Retrieve non-protein-coding genes (lncRNAs) using biomaRt
 ###############################################
 message("Retrieving non-protein-coding genes from biomaRt...")
 
-# Connect to Ensembl
 ensembl <- useEnsembl(biomart = "genes", dataset = "hsapiens_gene_ensembl")
 
-# Get gene information for the genes in the eset
 gene_info <- getBM(
   attributes = c("ensembl_gene_id", "hgnc_symbol", "gene_biotype"),
   filters    = "hgnc_symbol",
@@ -123,18 +130,15 @@ gene_info <- getBM(
   mart       = ensembl
 )
 
-# Filter for non-protein-coding genes
 lncRNAs <- gene_info %>%
   filter(gene_biotype != "protein_coding") %>%
   pull(hgnc_symbol)
 
 message("Retrieved ", length(lncRNAs), " non-protein-coding genes (lncRNAs).")
 
-
 ###############################################
-### Step 7: Filtering lncRNA list
+### Step 8: Filtering lncRNA list
 ###############################################
-
 message("Filtering lncRNA entries ...")
 input_exp_file <- file.path(project_main_dir, project_name,
                             "SJAR", project_name, "input.exp")
