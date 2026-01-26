@@ -38,7 +38,7 @@ suppressPackageStartupMessages({
   library(biomaRt)
 })
 
-rm(list = ls())
+# rm(list = ls()) # TODO check why this is/was here, command seems to remove the opt object
 gc()
 
 ###############################################
