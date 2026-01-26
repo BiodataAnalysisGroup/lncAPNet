@@ -1,0 +1,5 @@
+# For NetBID2 algorithm
+docker pull vasileioubill/netbid2:latest
+
+# For SJARACNe
+docker pull vasileioubill/sjaracne:latest
