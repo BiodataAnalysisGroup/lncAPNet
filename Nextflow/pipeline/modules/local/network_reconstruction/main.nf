@@ -1,6 +1,6 @@
 process NETWORK_RECONSTRUCTION {
 
-    // container ""
+    container "vasileioubill/netbid2:latest"
 
     input:
     tuple val(meta), path(rds)
