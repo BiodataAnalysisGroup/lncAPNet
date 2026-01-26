@@ -5,7 +5,7 @@ NetBID2_Project/ # original folder created by Network_reconstruction.R
     └── NetBID2_Project # subfolder by created by Network_reconstruction.R
         ├── input.exp # file created by Network_reconstruction.R
         ├── lnc # subfolder by created by Network_reconstruction.R
-        │   ├── consensus_network_ncol_.txt # file created by SJARACNe_run.sh
+        │   ├── consensus_network_ncol_.txt # file created by SJARACNe_run.sh            ### WE NEED THIS ###
         │   └── sjaracne_workflow.yml # file created by SJARACNe_run.sh
         ├── lnc_cleaned.txt # file created by SJARACNe_run.sh
         ├── lnc_list.txt # file created by Network_reconstruction.R
@@ -13,14 +13,15 @@ NetBID2_Project/ # original folder created by Network_reconstruction.R
         ├── run_sig.sh # file created by Network_reconstruction.R
         ├── run_tf.sh # file created by Network_reconstruction.R
         ├── sig # subfolder by created by Network_reconstruction.R
-        │   ├── consensus_network_ncol_.txt # file created by SJARACNe_run.sh
+        │   ├── consensus_network_ncol_.txt # file created by SJARACNe_run.sh            ### WE NEED THIS ###
         │   └── sjaracne_workflow.yml # file created by SJARACNe_run.sh
         ├── sig.txt # file created by Network_reconstruction.R
         ├── sig_cleaned.txt # file created by SJARACNe_run.sh
         ├── sig_top5.txt # file created by SJARACNe_run.sh
         ├── tf # subfolder by created by Network_reconstruction.R # file created by Network_reconstruction.R
-        │   ├── consensus_network_ncol_.txt # file created by SJARACNe_run.sh
+        │   ├── consensus_network_ncol_.txt # file created by SJARACNe_run.sh            ### WE NEED THIS ###
         │   └── sjaracne_workflow.yml # file created by SJARACNe_run.sh
         ├── tf.txt # file created by Network_reconstruction.R
         ├── tf_cleaned.txt # file created by SJARACNe_run.sh
+
         └── tf_top5.txt # file created by SJARACNe_run.sh
