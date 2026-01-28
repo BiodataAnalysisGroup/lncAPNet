@@ -50,3 +50,7 @@ lncAPNet expands the APNet toolbox by explicitly modeling **lncRNA-driven regula
 
 ```text
 Under construction
+```
+
+## **bioRxiv** link as pre-print: 
+([Vasileiou V. et al., 2026](https://doi.org/10.64898/2025.12.18.695074))
