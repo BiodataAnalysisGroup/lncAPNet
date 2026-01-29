@@ -4,6 +4,10 @@
 ### Step 0: Parse command-line arguments first
 ###############################################
 
+Sys.setenv(
+  XDG_CACHE_HOME = file.path(tempdir(), "r_cache")
+)
+
 suppressPackageStartupMessages(library(optparse))
 
 option_list <- list(
