@@ -4,12 +4,16 @@
 ### Step 0: Parse command-line arguments first
 ###############################################
 
+Sys.setenv(
+  XDG_CACHE_HOME = file.path(tempdir(), "r_cache")
+)
+
 suppressPackageStartupMessages(library(optparse))
 
 option_list <- list(
   make_option(c("--eset"), type="character", help="Path to input RDS eset file [REQUIRED]"),
-  make_option(c("--project_dir"), type="character", default="../",
-              help="Main project directory [default=../]"),
+  make_option(c("--project_dir"), type="character", default="./",
+              help="Main project directory [default=./]"),
   make_option(c("--project_name"), type="character", default="NetBID2_Project",
               help="Project name [default=NetBID2_Project]"),
   make_option(c("--iqr"), type="double", default=0.5,
@@ -37,9 +41,6 @@ suppressPackageStartupMessages({
   library(NetBID2)
   library(biomaRt)
 })
-
-rm(list = ls())
-gc()
 
 ###############################################
 ### Step 2: Load eset
