@@ -14,4 +14,7 @@ or, directly passing the input to the CLI command:
 ```
 nextflow run main.nf -profile singularity --input /path/to/data/test_eset.rds --outdir output
 ```
-
+or, with the pre-made test profile:
+```
+nextflow run main.nf -profile singularity,test --outdir output -resume
+```
