@@ -10,3 +10,8 @@ from within the `Nextflow/pipeline` folder:
 ```
 nextflow run main.nf -c ../conf/local.config -profile singularity,local --outdir output
 ```
+or, directly passing the input to the CLI command:
+```
+nextflow run main.nf -profile singularity --input /path/to/data/test_eset.rds --outdir output
+```
+
