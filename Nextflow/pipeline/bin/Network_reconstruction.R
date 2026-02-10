@@ -12,6 +12,7 @@ suppressPackageStartupMessages(library(optparse))
 
 option_list <- list(
   make_option(c("--eset"), type="character", help="Path to input RDS eset file [REQUIRED]"),
+  make_option(c("--gene_info"), type = "character", help = "Path to input biomart annotation [REQUIRED]"),
   make_option(c("--project_dir"), type="character", default="./",
               help="Main project directory [default=./]"),
   make_option(c("--project_name"), type="character", default="NetBID2_Project",
@@ -132,7 +133,7 @@ message("Retrieving non-protein-coding genes from biomaRt...")
 #   mart       = ensembl
 # )
 
-gene_info <- read.xlsx("../Nextflow_demo/data/gene_info.xlsx")
+gene_info <- read.xlsx(opt$gene_info)
 
 lncRNAs <- gene_info %>%
   filter(gene_biotype != "protein_coding") %>%
