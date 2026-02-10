@@ -59,9 +59,10 @@ LNC_CLEAN="${BASE_DIR}lnc_cleaned.txt"
 
 echo "Using input.exp: $INPUT_EXP"
 
-# -------------------------
-# Check sjaracne exists
-# -------------------------
+# Add SJARACNe conda env to PATH
+export PATH="/opt/conda/envs/SJARACNe/bin:$PATH"
+
+# Check if sjaracne exists
 if ! command -v sjaracne &> /dev/null; then
     echo "Error: sjaracne command not found. Please install or add it to your PATH."
     exit 1
