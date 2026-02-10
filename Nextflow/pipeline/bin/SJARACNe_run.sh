@@ -100,9 +100,6 @@ run_sjaracne() {
         -tmp ~/tmp/tmp \
         -n 1
 
-    wait
-    rm -rf ~/tmp/tmp
-
     echo "Finished ${output_dir}."
 }
 
