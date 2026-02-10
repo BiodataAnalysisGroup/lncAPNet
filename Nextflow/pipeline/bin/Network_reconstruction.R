@@ -40,6 +40,7 @@ suppressPackageStartupMessages({
   library(dplyr)
   library(NetBID2)
   library(biomaRt)
+  library(openxlsx)
 })
 
 ###############################################
@@ -122,14 +123,16 @@ SJAracne.prepare(
 ###############################################
 message("Retrieving non-protein-coding genes from biomaRt...")
 
-ensembl <- useEnsembl(biomart = "genes", dataset = "hsapiens_gene_ensembl")
+# ensembl <- useEnsembl(biomart = "genes", dataset = "hsapiens_gene_ensembl")
+# 
+# gene_info <- getBM(
+#   attributes = c("ensembl_gene_id", "hgnc_symbol", "gene_biotype"),
+#   filters    = "hgnc_symbol",
+#   values     = rownames(fData(network.par$net.eset)),
+#   mart       = ensembl
+# )
 
-gene_info <- getBM(
-  attributes = c("ensembl_gene_id", "hgnc_symbol", "gene_biotype"),
-  filters    = "hgnc_symbol",
-  values     = rownames(fData(network.par$net.eset)),
-  mart       = ensembl
-)
+gene_info <- read.xlsx("../Nextflow_demo/data/gene_info.xlsx")
 
 lncRNAs <- gene_info %>%
   filter(gene_biotype != "protein_coding") %>%
