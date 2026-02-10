@@ -13,7 +13,9 @@ workflow {
         file(params.input, checkIfExists: true)
     ])
 
-    NETWORK_RECONSTRUCTION( ch_eset, params.iqr )
+    ch_gene_info = channel.of(file(params.gene_info, checkIfExists: true))
+
+    NETWORK_RECONSTRUCTION( ch_eset, ch_gene_info.first(), params.iqr )
 
     SJARACNE( NETWORK_RECONSTRUCTION.out.results )
 }

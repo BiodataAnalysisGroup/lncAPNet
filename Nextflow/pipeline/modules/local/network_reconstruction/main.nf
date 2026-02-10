@@ -4,6 +4,7 @@ process NETWORK_RECONSTRUCTION {
 
     input:
     tuple val(meta), path(rds)
+    path(gene_info)
     val(iqr)
 
     output:
@@ -13,6 +14,7 @@ process NETWORK_RECONSTRUCTION {
     """
     Network_reconstruction.R \\
         --eset ${rds} \\
+        --gene_info ${gene_info} \\
         --project_name NetBID2_Project \\
         --iqr ${iqr}
     """

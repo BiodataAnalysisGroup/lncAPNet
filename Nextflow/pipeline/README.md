@@ -12,7 +12,7 @@ nextflow run main.nf -c ../conf/local.config -profile singularity,local --outdir
 ```
 or, directly passing the input to the CLI command:
 ```
-nextflow run main.nf -profile singularity --input /path/to/data/test_eset.rds --outdir output
+nextflow run main.nf -profile singularity --input /path/to/data/test_eset.rds --gene_info /path/to/data/gene_info.xlsx --outdir output
 ```
 or, with the pre-made test profile:
 ```
