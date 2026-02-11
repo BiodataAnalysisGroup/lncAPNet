@@ -6,16 +6,16 @@ process SJARACNE {
     tuple val(meta), path(netbid_dir)
 
     output:
-    tuple val(meta), path("*"), emit: results
-
+    tuple val(meta), path("SJARACNe"), emit: results
+    
     script:
     def prefix = task.ext.prefix ?: "${meta.id}"
     """
-    mkdir -p ${netbid_dir}/eset/SJAR/eset/
-    cp ${netbid_dir}/SJAR/${netbid_dir}/* ${netbid_dir}/eset/SJAR/eset/
-    
+    mkdir -p SJARACNe
+    cp ${netbid_dir}/SJAR/${netbid_dir}/* SJARACNe/
+
     SJARACNe_run.sh \\
-        --project_dir ${netbid_dir} \\
-        --project_name ${prefix}
+        --project_dir ./ \\
+        --project_name SJARACNe
     """
 }
