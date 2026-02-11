@@ -17,21 +17,21 @@ PROJECT_NAME="NetBID2_Project"
 # Parse command-line options
 # -------------------------
 while [[ $# -gt 0 ]]; do
-    case $1 in
-        --project_dir)
-            PROJECT_DIR="$2"
-            shift 2
-            ;;
-        --project_name)
-            PROJECT_NAME="$2"
-            shift 2
-            ;;
-        *)
-            echo "Unknown option: $1"
-            echo "Usage: $0 [--project_dir DIR] [--project_name NAME]"
-            exit 1
-            ;;
-    esac
+           case $1 in
+         --project_dir)
+PROJECT_DIR="$2"
+shift 2
+;;
+--project_name)
+PROJECT_NAME="$2"
+shift 2
+;;
+*)
+echo "Unknown option: $1"
+echo "Usage: $0 [--project_dir DIR] [--project_name NAME]"
+exit 1
+;;
+esac
 done
 
 # Ensure PROJECT_DIR ends with a slash
@@ -64,8 +64,8 @@ export PATH="/opt/conda/envs/SJARACNe/bin:$PATH"
 
 # Check if sjaracne exists
 if ! command -v sjaracne &> /dev/null; then
-    echo "Error: sjaracne command not found. Please install or add it to your PATH."
-    exit 1
+echo "Error: sjaracne command not found. Please install or add it to your PATH."
+exit 1
 fi
 
 # -------------------------
@@ -88,19 +88,19 @@ sed 's/[[:space:]]*$//' "$LNC_TOP5" > "$LNC_CLEAN"
 # Function to run sjaracne
 # -------------------------
 run_sjaracne() {
-    local cleaned_file="$1"
-    local output_dir="$2"
-
-    echo "Running sjaracne for ${cleaned_file} -> ${BASE_DIR}${output_dir}/"
-
-    sjaracne local \
-        -e "$INPUT_EXP" \
-        -g "$cleaned_file" \
-        -o "${BASE_DIR}${output_dir}" \
-        -tmp ~/tmp/tmp \
-        -n 1
-
-    echo "Finished ${output_dir}."
+  local cleaned_file="$1"
+  local output_dir="$2"
+  
+  echo "Running sjaracne for ${cleaned_file} -> ${BASE_DIR}${output_dir}/"
+  
+  sjaracne local \
+  -e "$INPUT_EXP" \
+  -g "$cleaned_file" \
+  -o "${BASE_DIR}${output_dir}" \
+  -tmp /tmp/sjaracne/tmp \
+  -n 1
+  
+  echo "Finished ${output_dir}."
 }
 
 # -------------------------
