@@ -6,6 +6,7 @@
 */
 include { NETWORK_RECONSTRUCTION } from './modules/local/network_reconstruction/main'
 include { SJARACNE               } from './modules/local/sjaracne/main'
+include { DRIVER_INFERENCES      } from './modules/local/driver_inferences/main'
 
 workflow {
     ch_eset = channel.of([
@@ -18,4 +19,9 @@ workflow {
     NETWORK_RECONSTRUCTION( ch_eset, ch_gene_info.first(), params.iqr )
 
     SJARACNE( NETWORK_RECONSTRUCTION.out.results )
+    
+    // Join the two channels by meta
+    ch_combined = NETWORK_RECONSTRUCTION.out.results.join(SJARACNE.out.results)
+
+    DRIVER_INFERENCES( ch_combined )
 }

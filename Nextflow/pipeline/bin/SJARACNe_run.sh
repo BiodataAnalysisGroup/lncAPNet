@@ -120,8 +120,8 @@ run_sjaracne() {
 # -------------------------
 # Sequential Execution
 # -------------------------
-run_sjaracne "$SIG_CLEAN" "sig"
-run_sjaracne "$TF_CLEAN"  "tf"
-run_sjaracne "$LNC_CLEAN" "lnc"
+run_sjaracne "$SIG_CLEAN" "output_sig_sjaracne_Driver_Inference_out_.final"
+run_sjaracne "$TF_CLEAN"  "output_tf_sjaracne_Driver_Inference_out_.final"
+run_sjaracne "$LNC_CLEAN" "output_nc_sjaracne_Driver_Inference_out_.final"
 
 echo "All SJARACNe runs completed successfully!"
