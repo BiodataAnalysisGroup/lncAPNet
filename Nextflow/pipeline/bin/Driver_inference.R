@@ -414,6 +414,7 @@ NetBID.saveRData(analysis.par = analysis.par, step = "act-DA")
 ############################
 # STEP 4: MASTER TABLE
 ############################
+
 NetBID.loadRData(analysis.par = analysis.par, step = "act-DA")
 
 db.preload(use_level = "gene", use_spe = "human", update = FALSE)
@@ -425,12 +426,8 @@ use_genes <- unique(c(
   analysis.par$merge.network$network_dat$target.symbol
 ))
 
-analysis.par$transfer_tab <- get_IDtransfer2symbol2type(
-  from_type = "hgnc_symbol",
-  use_genes = use_genes
-)
-
-#source("bin/Adjusted_functions/generate.masterTable_nc.R")
+# ---- REMOVE BIOMART ----
+analysis.par$transfer_tab <- NULL
 
 analysis.par$final_ms_tab <- generate.masterTable_lnc(
   use_comp = all_comp,
@@ -446,6 +443,7 @@ analysis.par$final_ms_tab <- generate.masterTable_lnc(
 ############################
 # EXPORT RESULTS
 ############################
+
 out_file <- file.path(
   analysis.par$out.dir.DATA,
   paste0(analysis.par$project.name, "_ms_tab.xlsx")
