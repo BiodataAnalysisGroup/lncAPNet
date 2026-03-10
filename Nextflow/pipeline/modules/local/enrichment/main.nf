@@ -20,6 +20,6 @@ process ENRICHMENT {
 
     Pathway_Enrichment.py \\
         --project_dir ./ \\
-        --project_name SJARACNe
+        --project_name Enrichment
     """
 }
