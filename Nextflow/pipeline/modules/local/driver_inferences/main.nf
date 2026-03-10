@@ -5,6 +5,7 @@ process DRIVER_INFERENCES {
     input:
     val(group0)
     val(group1)
+    val(comparison)
     tuple val(meta), path(netbid_dir), path(sjaracne_dir)
 
     output:
@@ -25,6 +26,7 @@ process DRIVER_INFERENCES {
         --project_main_dir ./ \\
         --project_name Driver_Inference \\
         --group0 ${group0} \\
-        --group1 ${group1}
+        --group1 ${group1} \\
+        --comparison ${comparison}
     """
 }

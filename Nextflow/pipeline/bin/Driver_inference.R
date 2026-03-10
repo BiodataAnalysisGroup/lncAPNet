@@ -295,7 +295,7 @@ option_list <- list(
   make_option(c("--group1"), type="character", default="U",
               help="Experiment group label [default = %default]"),
   
-  make_option(c("-c", "--condition"), type="character", default="IGHV",
+  make_option(c("-c", "--comparison"), type="character", default="IGHV",
               help="Phenotype column name defining condition [default = %default]")
 )
 
@@ -309,7 +309,7 @@ project_main_dir <- opt$project_main_dir
 project_name     <- opt$project_name
 group0            <- opt$group0
 group1            <- opt$group1
-Condition        <- opt$condition
+Condition        <- opt$comparison
 
 driver_output <- file.path(project_main_dir, project_name, "Driver_output")
 
@@ -454,11 +454,23 @@ out_activity <- file.path(
   paste0(analysis.par$project.name, "_activity_matrix.csv")
 )
 
+out_metadata <- file.path(
+  analysis.par$out.dir.DATA,
+  paste0(analysis.par$project.name, "_metadata.csv")
+)
+
 out2excel(analysis.par$final_ms_tab, out.xlsx = out_file)
 
 write.csv(
   as.data.frame(exprs(analysis.par$merge.ac.eset)),
   file = out_activity,
+  row.names = TRUE,
+  quote = FALSE
+)
+
+write.csv(
+  as.data.frame(pData(analysis.par$merge.ac.eset)),
+  file = out_metadata,
   row.names = TRUE,
   quote = FALSE
 )
