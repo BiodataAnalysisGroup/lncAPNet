@@ -449,7 +449,19 @@ out_file <- file.path(
   paste0(analysis.par$project.name, "_ms_tab.xlsx")
 )
 
+out_activity <- file.path(
+  analysis.par$out.dir.DATA,
+  paste0(analysis.par$project.name, "_activity_matrix.csv")
+)
+
 out2excel(analysis.par$final_ms_tab, out.xlsx = out_file)
+
+write.csv(
+  as.data.frame(exprs(analysis.par$merge.ac.eset)),
+  file = out_activity,
+  row.names = TRUE,
+  quote = FALSE
+)
 
 NetBID.saveRData(analysis.par = analysis.par, step = "ms-tab")
 
