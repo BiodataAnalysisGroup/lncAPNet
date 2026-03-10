@@ -3,6 +3,8 @@ process DRIVER_INFERENCES {
     container "vasileioubill/netbid2:latest"
 
     input:
+    val(group0)
+    val(group1)
     tuple val(meta), path(netbid_dir), path(sjaracne_dir)
 
     output:
@@ -21,6 +23,8 @@ process DRIVER_INFERENCES {
     
     Driver_inference.R \\
         --project_main_dir ./ \\
-        --project_name Driver_Inference
+        --project_name Driver_Inference \\
+        --group0 ${group0} \\
+        --group1 ${group1}
     """
 }

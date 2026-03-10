@@ -289,10 +289,10 @@ option_list <- list(
   make_option(c("-p", "--project_name"), type="character", default="Driver_Inference",
               help="Project name [default = %default]"),
   
-  make_option(c("--sit0"), type="character", default="M",
+  make_option(c("--group0"), type="character", default="M",
               help="Control group label [default = %default]"),
   
-  make_option(c("--sit1"), type="character", default="U",
+  make_option(c("--group1"), type="character", default="U",
               help="Experiment group label [default = %default]"),
   
   make_option(c("-c", "--condition"), type="character", default="IGHV",
@@ -307,8 +307,8 @@ opt <- parse_args(opt_parser)
 ############################
 project_main_dir <- opt$project_main_dir
 project_name     <- opt$project_name
-sit_0            <- opt$sit0
-sit_1            <- opt$sit1
+group0            <- opt$group0
+group1            <- opt$group1
 Condition        <- opt$condition
 
 driver_output <- file.path(project_main_dir, project_name, "Driver_output")
@@ -316,7 +316,7 @@ driver_output <- file.path(project_main_dir, project_name, "Driver_output")
 cat("========================================\n")
 cat("Project:", project_name, "\n")
 cat("Condition:", Condition, "\n")
-cat("Comparison:", sit_1, "vs", sit_0, "\n")
+cat("Comparison:", group1, "vs", group0, "\n")
 cat("========================================\n")
 
 ############################
@@ -381,30 +381,30 @@ if (!(Condition %in% colnames(phe_info))) {
   stop(paste("Condition column", Condition, "not found in phenotype data"))
 }
 
-G1 <- rownames(phe_info)[phe_info[[Condition]] == sit_1]
-G0 <- rownames(phe_info)[phe_info[[Condition]] == sit_0]
+G1 <- rownames(phe_info)[phe_info[[Condition]] == group1]
+G0 <- rownames(phe_info)[phe_info[[Condition]] == group0]
 
 if (length(G1) == 0 || length(G0) == 0) {
-  stop("One of the groups has zero samples. Check sit0/sit1 labels.")
+  stop("One of the groups has zero samples. Check group0/group1 labels.")
 }
 
 DE_gene_bid <- getDE.BID.2G(
   eset = analysis.par$cal.eset,
   G1 = G1,
   G0 = G0,
-  G1_name = sit_1,
-  G0_name = sit_0
+  G1_name = group1,
+  G0_name = group0
 )
 
 DA_driver_bid <- getDE.BID.2G(
   eset = analysis.par$merge.ac.eset,
   G1 = G1,
   G0 = G0,
-  G1_name = sit_1,
-  G0_name = sit_0
+  G1_name = group1,
+  G0_name = group0
 )
 
-comparison_name <- paste0(sit_1, ".Vs.", sit_0)
+comparison_name <- paste0(group1, ".Vs.", group0)
 
 analysis.par$DE[[comparison_name]] <- DE_gene_bid
 analysis.par$DA[[comparison_name]] <- DA_driver_bid
