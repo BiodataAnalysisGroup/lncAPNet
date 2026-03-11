@@ -30,49 +30,73 @@ def filter_ms_tab(ms_tab_file, p_value=0.05, size_threshold=30):
     prostate = pd.read_excel(ms_tab_file)
     
     # Filtering based on conditions
-    pos = prostate[(prostate["adj.P.Val.N1.Vs.N0_DA"] < p_value) & 
-                   (prostate["logFC.N1.Vs.N0_DA"] > 0) & 
+    pos = prostate[(prostate["adj.P.Val.Stage_III.Vs.Stage_II_DA"] < 1) & 
+                   (prostate["logFC.Stage_III.Vs.Stage_II_DA"] > 0) & 
                    (prostate["Size"] > size_threshold)]
-    neg = prostate[(prostate["adj.P.Val.N1.Vs.N0_DA"] < p_value) & 
-                   (prostate["logFC.N1.Vs.N0_DA"] < 0) & 
+    neg = prostate[(prostate["adj.P.Val.Stage_III.Vs.Stage_II_DA"] < 1) & 
+                   (prostate["logFC.Stage_III.Vs.Stage_II_DA"] < 0) & 
                    (prostate["Size"] > size_threshold)]
     
     # Row-bind (combine) the results
     ms_tab = pd.concat([pos, neg], axis=0, ignore_index=True)
     
     # Get unique values from the 'hgnc_symbol.y' column
-    ms_tab = list(ms_tab['hgnc_symbol.y'].unique())
+    ms_tab = list(ms_tab['geneSymbol'].unique())
     ms_tab.sort()
     
     print(f"Filtered gene list contains {len(ms_tab)} genes")
     return ms_tab
 
 def run_enrichment(gene_list, gmt_file, outdir, name, cutoff=0.1, p_value=0.05, adj_p_value=0.05):
-    """Run enrichment analysis"""
+    """Run enrichment analysis with error handling for empty results"""
     print(f"Running enrichment for {name}...")
     
-    enr = gp.enrichr(
-        gene_list=gene_list, 
-        gene_sets=gmt_file,
-        organism="Human", 
-        outdir=os.path.join(outdir, f"{name}_res"),
-        cutoff=cutoff
-    )
-    
-    results = enr.results
-    
-    # Filter by p-value
-    results_filt = results[(results['P-value'] < p_value)]
-    print(f"{name}: {len(results_filt)} pathways with P-value < {p_value}")
-    
-    # Filter by adjusted p-value
-    results_filt = results[(results['Adjusted P-value'] < adj_p_value)]
-    print(f"{name}: {len(results_filt)} pathways with Adjusted P-value < {adj_p_value}")
-    
-    return results_filt
+    try:
+        enr = gp.enrichr(
+            gene_list=gene_list, 
+            gene_sets=gmt_file,
+            organism="Human", 
+            outdir=os.path.join(outdir, f"{name}_res"),
+            cutoff=cutoff,
+            no_plot=True  # Disable plotting to avoid errors when no results
+        )
+        
+        results = enr.results
+        
+        # Check if results are empty
+        if results.empty:
+            print(f"{name}: No enrichment terms found with cutoff={cutoff}")
+            return pd.DataFrame()  # Return empty DataFrame
+        
+        # Filter by p-value
+        results_filt_pval = results[(results['P-value'] < p_value)]
+        print(f"{name}: {len(results_filt_pval)} pathways with P-value < {p_value}")
+        
+        # Filter by adjusted p-value
+        results_filt = results[(results['Adjusted P-value'] < adj_p_value)]
+        print(f"{name}: {len(results_filt)} pathways with Adjusted P-value < {adj_p_value}")
+        
+        if results_filt.empty:
+            print(f"{name}: No pathways passed the filtering criteria (Adjusted P-value < {adj_p_value})")
+            return pd.DataFrame()
+        
+        return results_filt
+        
+    except ValueError as e:
+        if "No enrich terms" in str(e):
+            print(f"{name}: No enrichment terms found with cutoff={cutoff}")
+            return pd.DataFrame()  # Return empty DataFrame
+        else:
+            raise  # Re-raise if it's a different ValueError
+    except Exception as e:
+        print(f"{name}: Error during enrichment analysis: {str(e)}")
+        return pd.DataFrame()  # Return empty DataFrame on any error
 
 def process_results_to_matrix(results_df):
     """Convert results to gene-pathway matrix"""
+    if results_df.empty:
+        return pd.DataFrame()
+    
     results_df['Genes'] = results_df['Genes'].str.split(';')
     results_matrix = results_df.explode("Genes").pivot_table(
         index="Term", 
@@ -141,7 +165,7 @@ def main():
     # Filter ms_tab to get gene list
     gene_list = filter_ms_tab(args.ms_tab, args.p_value, args.size_threshold)
     
-    # Run enrichment analyses
+    # Run enrichment analyses for all four databases
     print("\n=== Running Gene Ontology Enrichment ===")
     results_go = run_enrichment(gene_list, args.gmt_GO, args.outdir, "GO_Biological_Process", 
                                  args.cutoff, args.p_value, args.adj_p_value)
@@ -158,29 +182,78 @@ def main():
     results_wiki = run_enrichment(gene_list, args.gmt_Wikipathway, args.outdir, "WikiPathway", 
                                    args.cutoff, args.p_value, args.adj_p_value)
     
-    # Process GO results
-    print("\n=== Processing GO results ===")
-    results_go_matrix = process_results_to_matrix(results_go)
-    os.makedirs(os.path.join(args.outdir, "PASNet/Input/GO"), exist_ok=True)
-    results_go_matrix.to_excel(os.path.join(args.outdir, "PASNet/Input/GO/pt_fixed_ens.xlsx"))
+    # Process GO results only if not empty
+    if not results_go.empty:
+        print("\n=== Processing GO results ===")
+        results_go_matrix = process_results_to_matrix(results_go)
+        if not results_go_matrix.empty:
+            os.makedirs(os.path.join(args.outdir, "PASNet/Input/GO"), exist_ok=True)
+            results_go_matrix.to_excel(os.path.join(args.outdir, "PASNet/Input/GO/pt_fixed_ens.xlsx"))
+            print(f"GO matrix saved: {results_go_matrix.shape[0]} pathways x {results_go_matrix.shape[1]} genes")
+        else:
+            print("GO matrix is empty after processing")
+            results_go_matrix = pd.DataFrame()
+    else:
+        print("\n=== Skipping GO results processing (no enrichment found) ===")
+        results_go_matrix = pd.DataFrame()
     
-    # Combine and process other pathway databases
+    # Combine and process other pathway databases (KEGG, Reactome, WikiPathway)
     print("\n=== Processing combined pathway results (KEGG, Reactome, WikiPathway) ===")
-    df_combined = pd.concat([results_kegg, results_reactome, results_wiki], axis=0, ignore_index=True)
-    df_combined_matrix = process_results_to_matrix(df_combined)
-    os.makedirs(os.path.join(args.outdir, "PASNet/Input/REST"), exist_ok=True)
-    df_combined_matrix.to_excel(os.path.join(args.outdir, "PASNet/Input/REST/pt_fixed_ens.xlsx"))
     
-    # Save gene list to text file
-    with open(os.path.join(args.outdir, "gene_list.txt"), "w") as file:
-        for item in df_combined_matrix.columns:
-            file.write(item + "\n")
-    print(f"Gene list written to {os.path.join(args.outdir, 'gene_list.txt')}")
+    # Combine only non-empty dataframes
+    df_list = []
+    if not results_kegg.empty:
+        df_list.append(results_kegg)
+        print(f"KEGG: {len(results_kegg)} enriched pathways")
+    else:
+        print("KEGG: No enriched pathways")
     
-    # Generate PASNet inputs if activity and metadata are provided
+    if not results_reactome.empty:
+        df_list.append(results_reactome)
+        print(f"Reactome: {len(results_reactome)} enriched pathways")
+    else:
+        print("Reactome: No enriched pathways")
+    
+    if not results_wiki.empty:
+        df_list.append(results_wiki)
+        print(f"WikiPathway: {len(results_wiki)} enriched pathways")
+    else:
+        print("WikiPathway: No enriched pathways")
+    
+    if df_list:
+        df_combined = pd.concat(df_list, axis=0, ignore_index=True)
+        print(f"Combined: {len(df_combined)} total enriched pathways")
+        
+        df_combined_matrix = process_results_to_matrix(df_combined)
+        if not df_combined_matrix.empty:
+            os.makedirs(os.path.join(args.outdir, "PASNet/Input/REST"), exist_ok=True)
+            df_combined_matrix.to_excel(os.path.join(args.outdir, "PASNet/Input/REST/pt_fixed_ens.xlsx"))
+            print(f"Combined matrix saved: {df_combined_matrix.shape[0]} pathways x {df_combined_matrix.shape[1]} genes")
+            
+            # Save gene list to text file
+            with open(os.path.join(args.outdir, "gene_list.txt"), "w") as file:
+                for item in df_combined_matrix.columns:
+                    file.write(item + "\n")
+            print(f"Gene list written to {os.path.join(args.outdir, 'gene_list.txt')}")
+        else:
+            print("Combined matrix is empty after processing")
+            df_combined_matrix = pd.DataFrame()
+    else:
+        print("WARNING: No enrichment results from KEGG, Reactome, or WikiPathway")
+        df_combined_matrix = pd.DataFrame()
+    
+    # Generate PASNet inputs if activity and metadata are provided and we have results
     if args.activity and args.metadata:
-        generate_pasnet_inputs(args.activity, args.metadata, 
-                               results_go_matrix, df_combined_matrix, args.outdir)
+        if not results_go_matrix.empty and not df_combined_matrix.empty:
+            generate_pasnet_inputs(args.activity, args.metadata, 
+                                   results_go_matrix, df_combined_matrix, args.outdir)
+        else:
+            missing = []
+            if results_go_matrix.empty:
+                missing.append("GO results")
+            if df_combined_matrix.empty:
+                missing.append("combined pathway results")
+            print(f"\nSkipping PASNet input generation (missing: {', '.join(missing)})")
     else:
         print("\nSkipping PASNet input generation (activity and metadata not provided)")
     

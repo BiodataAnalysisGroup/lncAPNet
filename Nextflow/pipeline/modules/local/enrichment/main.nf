@@ -31,6 +31,7 @@ process ENRICHMENT {
     Pathway_Enrichment.py \\
         --ms_tab Enrichment/Driver_Inference_ms_tab.xlsx \\
         --metadata Enrichment/Driver_Inference_metadata.csv \\
+        --activity Enrichment/Driver_Inference_activity_matrix.csv \\
         --gmt_GO ${gmt_GO} \\
         --gmt_Reactome ${gmt_Reactome} \\
         --gmt_KEGG ${gmt_KEGG} \\
