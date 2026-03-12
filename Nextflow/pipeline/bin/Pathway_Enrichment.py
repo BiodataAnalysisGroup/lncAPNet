@@ -140,19 +140,19 @@ def generate_pasnet_inputs(activity_file, metadata_file, pt_go, pt_rest, outdir)
     os.makedirs(os.path.join(outdir, "PASNet/Input/REST"), exist_ok=True)
     
     # Save to Excel
-    train_go.to_excel(os.path.join(outdir, "PASNet/Input/GO/Training_ens.xlsx"), index=True)
-    validation_go.to_excel(os.path.join(outdir, "PASNet/Input/GO/Validation_ens.xlsx"), index=True)
-    validation_grinding_go.to_excel(os.path.join(outdir, "PASNet/Input/GO/Validation_grinding_ens.xlsx"), index=True)
-    train_rest.to_excel(os.path.join(outdir, "PASNet/Input/REST/Training_ens.xlsx"), index=True)
-    validation_rest.to_excel(os.path.join(outdir, "PASNet/Input/REST/Validation_ens.xlsx"), index=True)
-    validation_grinding_rest.to_excel(os.path.join(outdir, "PASNet/Input/REST/Validation_grinding_ens.xlsx"), index=True)
+    train_go.to_excel(os.path.join(outdir, "PASNet/Input/GO/Training.xlsx"), index=True)
+    validation_go.to_excel(os.path.join(outdir, "PASNet/Input/GO/Validation.xlsx"), index=True)
+    validation_grinding_go.to_excel(os.path.join(outdir, "PASNet/Input/GO/Validation_grinding.xlsx"), index=True)
+    train_rest.to_excel(os.path.join(outdir, "PASNet/Input/REST/Training.xlsx"), index=True)
+    validation_rest.to_excel(os.path.join(outdir, "PASNet/Input/REST/Validation.xlsx"), index=True)
+    validation_grinding_rest.to_excel(os.path.join(outdir, "PASNet/Input/REST/Validation_grinding.xlsx"), index=True)
     
     # Filter pathway matrices
     pt_go_filt = pt_go.loc[:, pt_go.columns.isin(activity_go.columns)]
     pt_rest_filt = pt_rest.loc[:, pt_rest.columns.isin(activity_rest.columns)]
     
-    pt_rest_filt.to_excel(os.path.join(outdir, "PASNet/Input/REST/pt_fixed_ens.xlsx"))
-    pt_go_filt.to_excel(os.path.join(outdir, "PASNet/Input/GO/pt_fixed_ens.xlsx"))
+    pt_rest_filt.to_excel(os.path.join(outdir, "PASNet/Input/REST/pt_fixed.xlsx"))
+    pt_go_filt.to_excel(os.path.join(outdir, "PASNet/Input/GO/pt_fixed.xlsx"))
     
     print("PASNet input files generated successfully")
 
@@ -188,7 +188,7 @@ def main():
         results_go_matrix = process_results_to_matrix(results_go)
         if not results_go_matrix.empty:
             os.makedirs(os.path.join(args.outdir, "PASNet/Input/GO"), exist_ok=True)
-            results_go_matrix.to_excel(os.path.join(args.outdir, "PASNet/Input/GO/pt_fixed_ens.xlsx"))
+            results_go_matrix.to_excel(os.path.join(args.outdir, "PASNet/Input/GO/pt_fixed.xlsx"))
             print(f"GO matrix saved: {results_go_matrix.shape[0]} pathways x {results_go_matrix.shape[1]} genes")
         else:
             print("GO matrix is empty after processing")
@@ -227,7 +227,7 @@ def main():
         df_combined_matrix = process_results_to_matrix(df_combined)
         if not df_combined_matrix.empty:
             os.makedirs(os.path.join(args.outdir, "PASNet/Input/REST"), exist_ok=True)
-            df_combined_matrix.to_excel(os.path.join(args.outdir, "PASNet/Input/REST/pt_fixed_ens.xlsx"))
+            df_combined_matrix.to_excel(os.path.join(args.outdir, "PASNet/Input/REST/pt_fixed.xlsx"))
             print(f"Combined matrix saved: {df_combined_matrix.shape[0]} pathways x {df_combined_matrix.shape[1]} genes")
             
             # Save gene list to text file
