@@ -1,4 +1,4 @@
-process DRIVER_INFERENCES {
+process PASNET {
 
     container "vasileioubill/pasnet:latest"
 
@@ -14,15 +14,12 @@ process DRIVER_INFERENCES {
     # Copy the entire netbid_dir structure to Driver_Inference
     mkdir PASNet
     cp -r ${enrichment}/PASNet/* PASNet/
-
-    n_nodes = 
-
+    mkdir -p PASNet/Output
     
-
-    Driver_inference.R \\
-      --train-data Training.xlsx \
-      --val-data Validation.xlsx \
-      --pathway-mask pt_fixed.xlsx \
+    PASNet_run.py \\
+      --train-data PASNet/Input/GO/Training.xlsx \
+      --val-data PASNet/Input/GO/Validation.xlsx \
+      --pathway-mask PASNet/Input/GO/pt_fixed.xlsx \
       --in-nodes 1756 \
       --pathway-nodes 140 \
       --hidden-nodes 140 \
