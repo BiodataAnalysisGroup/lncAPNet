@@ -1,6 +1,6 @@
 process ENRICHMENT {
 
-    container "vasileioubill/pasnet:latest"
+    container "vasileioubill/enrichment:latest"
     publishDir "${params.outdir}/enrichment", mode: 'copy'
 
     input:
