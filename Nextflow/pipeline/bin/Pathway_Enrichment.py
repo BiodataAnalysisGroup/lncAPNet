@@ -55,7 +55,7 @@ def run_enrichment(gene_list, gmt_file, outdir, name, cutoff=0.1, p_value=0.05, 
         enr = gp.enrichr(
             gene_list=gene_list, 
             gene_sets=gmt_file,
-            organism="Human", 
+            organism="human", 
             outdir=os.path.join(outdir, f"{name}_res"),
             cutoff=cutoff,
             no_plot=True  # Disable plotting to avoid errors when no results
