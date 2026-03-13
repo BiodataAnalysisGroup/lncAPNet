@@ -23,19 +23,27 @@ def parse_args():
     parser.add_argument('--adj_p_value', type=float, default=0.05, help='Adjusted P-value threshold (default: 0.05)')
     parser.add_argument('--size_threshold', type=int, default=30, help='Minimum size threshold (default: 30)')
     parser.add_argument('--cutoff', type=float, default=0.1, help='Enrichment cutoff (default: 0.1)')
+    parser.add_argument('--group0', required=True, help='Control group name')
+    parser.add_argument('--group1', required=True, help='Treatment group name')
     return parser.parse_args()
 
-def filter_ms_tab(ms_tab_file, p_value=0.05, size_threshold=30):
+def filter_ms_tab(ms_tab_file, group0, group1, p_value=0.05, size_threshold=30):
     """Filter ms_tab based on conditions"""
     prostate = pd.read_excel(ms_tab_file)
     
+    # Dynamically construct column names based on group parameters
+    adj_pval_col = f"adj.P.Val.{group1}.Vs.{group0}_DA"
+    logfc_col = f"logFC.{group1}.Vs.{group0}_DA"
+    
     # Filtering based on conditions
-    pos = prostate[(prostate["adj.P.Val.Stage_III.Vs.Stage_II_DA"] < 1) & 
-                   (prostate["logFC.Stage_III.Vs.Stage_II_DA"] > 0) & 
+    pos = prostate[(prostate[adj_pval_col] < p_value) & 
+                   (prostate[logfc_col] > 0) & 
                    (prostate["Size"] > size_threshold)]
-    neg = prostate[(prostate["adj.P.Val.Stage_III.Vs.Stage_II_DA"] < 1) & 
-                   (prostate["logFC.Stage_III.Vs.Stage_II_DA"] < 0) & 
+    neg = prostate[(prostate[adj_pval_col] < p_value) & 
+                   (prostate[logfc_col] < 0) & 
                    (prostate["Size"] > size_threshold)]
+    
+    return pos, neg
     
     # Row-bind (combine) the results
     ms_tab = pd.concat([pos, neg], axis=0, ignore_index=True)
@@ -163,7 +171,7 @@ def main():
     os.makedirs(args.outdir, exist_ok=True)
     
     # Filter ms_tab to get gene list
-    gene_list = filter_ms_tab(args.ms_tab, args.p_value, args.size_threshold)
+    gene_list = filter_ms_tab(args.ms_tab, args.group0, args.group1, args.p_value, args.size_threshold)
     
     # Run enrichment analyses for all four databases
     print("\n=== Running Gene Ontology Enrichment ===")

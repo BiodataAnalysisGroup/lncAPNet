@@ -5,6 +5,8 @@ process ENRICHMENT {
 
     input:
     path(gmt_files)  // This receives the collected GMT files as a list
+    val(group0)
+    val(group1)
     tuple val(meta), path(driver_dir)
 
     output:
@@ -36,6 +38,8 @@ process ENRICHMENT {
         --gmt_Reactome ${gmt_Reactome} \\
         --gmt_KEGG ${gmt_KEGG} \\
         --gmt_Wikipathway ${gmt_WikiPathway} \\
+        --group0 ${group0} \\
+        --group1 ${group1} \\
         --outdir Enrichment
     """
 }

@@ -32,7 +32,7 @@ workflow {
     // gmt pathway-genes files for pathway Enrichment
     ch_gmt_files = channel.fromPath('bin/Enrichment/*.gmt', checkIfExists: true).collect()
 
-    ENRICHMENT(ch_gmt_files, DRIVER_INFERENCES.out.results )
+    ENRICHMENT(ch_gmt_files, ch_group0, ch_group1, DRIVER_INFERENCES.out.results)
 
     PASNET(ENRICHMENT.out.results)
 
