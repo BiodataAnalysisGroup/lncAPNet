@@ -422,9 +422,9 @@ def main():
     np.savetxt("PASNet_F1.txt",  test_f1,  delimiter=",")
 
     # ── Save the model ─────────────────────────────────────────────────────────
-    model_output_dir = os.path.join(outdir, "PASNet/Output/GO")
+    model_output_dir = os.path.join(outdir, "Output/GO")
     os.makedirs(model_output_dir, exist_ok=True)
-    with open(os.path.join(model_output_dir, 'model_go.pkl'), 'wb') as file:
+    with open(os.path.join(model_output_dir, 'model.pkl'), 'wb') as file:
         pickle.dump(model, file)
 
     print("\n=== PASNet training completed successfully ===")
