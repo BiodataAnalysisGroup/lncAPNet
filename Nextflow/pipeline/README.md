@@ -17,4 +17,8 @@ nextflow run main.nf -profile singularity --input /path/to/data/test_eset.rds --
 or, with the pre-made test profile:
 ```
 nextflow run main.nf -profile singularity,test --outdir output -resume
+
+
+nextflow run main.nf -profile docker --input ../Nextflow_demo/data/test_eset.rds --outdir output --gene_info ../Nextflow_demo/data/gene_info.xlsx --group0 "M" --group1 "U" --comparison "IGHV" -resume
+
 ```

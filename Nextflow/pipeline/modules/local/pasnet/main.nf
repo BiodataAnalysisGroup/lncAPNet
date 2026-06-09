@@ -3,6 +3,7 @@ process PASNET {
     container "vasileioubill/pasnet:latest"
 
     input:
+    val(comparison)
     tuple val(meta), path(enrichment)
 
     output:
@@ -11,20 +12,15 @@ process PASNET {
     script:
     def prefix = task.ext.prefix ?: "${meta.id}"
     """
-    # Copy the entire netbid_dir structure to Driver_Inference
     mkdir PASNet
     cp -r ${enrichment}/PASNet/* PASNet/
-    mkdir -p PASNet/Output
     
-    PASNet_run.py \\
+    PASNet_run.py \
       --train-data PASNet/Input/GO/Training.xlsx \
       --val-data PASNet/Input/GO/Validation.xlsx \
+      --val-data-grid PASNet/Input/GO/Validation_grinding.xlsx \
       --pathway-mask PASNet/Input/GO/pt_fixed.xlsx \
-      --in-nodes 1756 \
-      --pathway-nodes 140 \
-      --hidden-nodes 140 \
-      --output-dir results \
-      --plot-roc \
-      --shap-analysis
+      --comparison ${comparison} \
+      --outdir PASNet
     """
 }
