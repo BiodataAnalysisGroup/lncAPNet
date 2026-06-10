@@ -10,7 +10,7 @@
 # -------------------------
 # Default parameters
 # -------------------------
-PROJECT_DIR="../"
+PROJECT_DIR="./"
 PROJECT_NAME="NetBID2_Project"
 
 # -------------------------
