@@ -39,18 +39,16 @@ lncAPNet expands the APNet toolbox by explicitly modeling **lncRNA-driven regula
 
 ## Pipeline Status
 
-🚧 **Under active development**
+- ([Nextflow Installation instructions]([https://doi.org/10.1093/bioinformatics/btaf063](https://nf-co.re/docs/get_started/environment_setup/nextflow)))
 
-- Installation instructions: *Under construction*  
-- A **Nextflow-based implementation** of the lncAPNet pipeline is planned for future release to improve scalability, portability, and reproducibility.
+- A **Nextflow-based implementation** of the lncAPNet pipeline is now available for **bulk RNAseq** to improve scalability, portability, and reproducibility.
+
+
+🚧 **For scRNAseq data is under active development**
 
 ---
 
-## Installation
-
-```text
-Under construction
-```
+## Implementation
 
 ## **bioRxiv** link as pre-print: 
 ([Vasileiou V. et al., 2026](https://doi.org/10.64898/2025.12.18.695074))
