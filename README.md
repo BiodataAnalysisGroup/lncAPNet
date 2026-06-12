@@ -42,7 +42,7 @@ lncAPNet expands the APNet toolbox by explicitly modeling **lncRNA-driven regula
 
 - A **Nextflow-based implementation** of the lncAPNet pipeline is now available for **bulk RNAseq** to improve scalability, portability, and reproducibility.
 
-🚧 **Post-hoc analyses Python Colab notebooks is under active development**
+🚧 **Post-hoc analyses Python Colab notebooks (connected with Nextflow pipeline) is under active development**
 
 🚧 **For scRNAseq data is under active development**
 
