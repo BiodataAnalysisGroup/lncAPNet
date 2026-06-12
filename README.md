@@ -49,5 +49,24 @@ lncAPNet expands the APNet toolbox by explicitly modeling **lncRNA-driven regula
 
 ## Implementation
 
+Define the local path for `input` in the `Nextflow/pipeline/conf/local.config` file.
+If using singularity, in the same file, uncomment and update the local path to where the singularity containers are stored.
+
+The pipeline should then run using `docker` or `singularity` containers with this command
+from within the `Nextflow/pipeline` folder:
+```
+nextflow run main.nf -c ../conf/local.config -profile singularity,local --outdir output
+```
+or, directly passing the input to the CLI command:
+```
+nextflow run main.nf -profile docker --input /path/to/data/eset.rds --gene_info /path/to/data/gene_info.xlsx --group0 "GROUP0" --group1 "GROUP1" --comparison "COMPARISON" --outdir output
+```
+
+# Example from Nextflow_demo/data toy dataset
+
+nextflow run main.nf -profile docker --input ../Nextflow_demo/data/test_eset.rds --outdir output --gene_info ../Nextflow_demo/data/gene_info.xlsx --group0 "M" --group1 "U" --comparison "IGHV"
+
+```
+
 ## **bioRxiv** link as pre-print: 
 ([Vasileiou V. et al., 2026](https://doi.org/10.64898/2025.12.18.695074))
