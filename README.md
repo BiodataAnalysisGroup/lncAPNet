@@ -62,7 +62,7 @@ or, directly passing the input to the CLI command:
 nextflow run main.nf -profile docker --input /path/to/data/eset.rds --gene_info /path/to/data/gene_info.xlsx --group0 "GROUP0" --group1 "GROUP1" --comparison "COMPARISON" --outdir output
 ```
 
-# Example from Nextflow_demo/data toy dataset
+### Example from Nextflow_demo/data toy dataset
 
 nextflow run main.nf -profile docker --input ../Nextflow_demo/data/test_eset.rds --outdir output --gene_info ../Nextflow_demo/data/gene_info.xlsx --group0 "M" --group1 "U" --comparison "IGHV"
 
