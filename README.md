@@ -47,9 +47,11 @@ lncAPNet expands the APNet toolbox by explicitly modeling **lncRNA-driven regula
 
 ### 🚧 Post-Hoc Analysis Requirments [Under Active Development]
 
-#### Requirments
+#### 📋 Requirments
 
 ✅ Nextflow/Setup/PostHocAnalysis_requirments.txt
+
+#### 🚀 Colabs - Notebooks
 
 - ✅ 1.PASNet_output_analysis.ipynb
   
