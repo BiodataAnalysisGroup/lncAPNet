@@ -32,7 +32,8 @@ lncAPNet expands the APNet toolbox by explicitly modeling **lncRNA-driven regula
 - Graph-based, nonlinear interpretation of **lncRNA–mRNA regulatory relationships** using the SJARACNe / NetBID2 framework  
 - Integration of an **lncRNA-specific knowledge graph (lncRNAlyzr-KG)** into the biological priors ([Evangelista et al., 2025](https://doi.org/10.1016/j.jmb.2025.168938))
 - Identification and interpretation of **lncRNA-associated regulons** derived from NetBID2 analysis  
-- Enhanced explainability of lncRNA contributions to patient stratification and disease mechanisms  
+- Enhanced explainability of lncRNA contributions to patient stratification and disease mechanisms
+- Nextflow Pipeline and Post-hoc analysis Colabs connected with Nextflow outputs [Reproducibility]
 
 ---
 
