@@ -48,9 +48,7 @@ lncAPNet expands the APNet toolbox by explicitly modeling **lncRNA-driven regula
 
 #### Requirments
 
-Python >= 3.14
-jupyter lab
-...
+Nextflow/Setup/PostHocAnalysis_requirments.txt
 
 🚧 **Post-hoc analyses Python Colab notebooks (connected with Nextflow pipeline) is under active development**
 
