@@ -64,14 +64,6 @@ for file in "$SIG_FILE" "$TF_FILE" "$LNC_FILE"; do
 done
 
 # -------------------------
-# Keep top 100 lines
-# -------------------------
-echo "Keeping top 5 lines of sig.txt, tf.txt, lnc_list.txt"
-head -n 100 "$SIG_FILE" > "$SIG_TOP5"
-head -n 100 "$TF_FILE"  > "$TF_TOP5"
-head -n 100 "$LNC_FILE" > "$LNC_TOP5"
-
-# -------------------------
 # Clean trailing spaces
 # -------------------------
 echo "Cleaning trailing spaces..."
