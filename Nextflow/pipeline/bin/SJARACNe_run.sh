@@ -47,10 +47,6 @@ SIG_FILE="${PROJECT_NAME}/sig.txt"
 TF_FILE="${PROJECT_NAME}/tf.txt"
 LNC_FILE="${PROJECT_NAME}/lnc_list.txt"
 
-SIG_TOP5="${PROJECT_NAME}/sig_top5.txt"
-TF_TOP5="${PROJECT_NAME}/tf_top5.txt"
-LNC_TOP5="${PROJECT_NAME}/lnc_top5.txt"
-
 SIG_CLEAN="${PROJECT_NAME}/sig_cleaned.txt"
 TF_CLEAN="${PROJECT_NAME}/tf_cleaned.txt"
 LNC_CLEAN="${PROJECT_NAME}/lnc_cleaned.txt"
@@ -79,9 +75,9 @@ head -n 100 "$LNC_FILE" > "$LNC_TOP5"
 # Clean trailing spaces
 # -------------------------
 echo "Cleaning trailing spaces..."
-sed 's/[[:space:]]*$//' "$SIG_TOP5" > "$SIG_CLEAN"
-sed 's/[[:space:]]*$//' "$TF_TOP5"  > "$TF_CLEAN"
-sed 's/[[:space:]]*$//' "$LNC_TOP5" > "$LNC_CLEAN"
+sed 's/[[:space:]]*$//' "$SIG_FILE" > "$SIG_CLEAN"
+sed 's/[[:space:]]*$//' "$TF_FILE"  > "$TF_CLEAN"
+sed 's/[[:space:]]*$//' "$LNC_FILE" > "$LNC_CLEAN"
 
 # -------------------------
 # Add SJARACNe conda env to PATH
