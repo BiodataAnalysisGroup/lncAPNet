@@ -63,6 +63,11 @@ or, directly passing the input to the CLI command:
 nextflow run main.nf -profile docker --input /path/to/data/eset.rds --gene_info /path/to/data/gene_info.xlsx --group0 "GROUP0" --group1 "GROUP1" --comparison "COMPARISON" --outdir output
 ```
 
+In case where the user used unix terminal, we need to convert the scripts in unix format, like
+```
+dos2unix ./bin/*
+```
+
 ### Example from Nextflow_demo/data toy dataset
 
 ```
