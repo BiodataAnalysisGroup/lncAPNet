@@ -62,7 +62,7 @@ Nextflow/Setup/PostHocAnalysis_requirments.txt
 
 ### scRNAseq data
 
-🚧 **For scRNAseq data is under active development**
+🚧 **For scRNAseq data - Future Steps**
 
 ---
 
