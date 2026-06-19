@@ -11,3 +11,7 @@ pickle
 openpyxl
 matplotlib
 shap
+adjustText
+seaborn
+igraph
+leidenalg
