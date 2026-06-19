@@ -1,0 +1,9 @@
+jupyterlab
+numpy
+pandas
+scikit-learn
+openpyxl
+--index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+torchaudio
