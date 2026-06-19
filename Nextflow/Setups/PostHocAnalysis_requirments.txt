@@ -7,3 +7,7 @@ openpyxl
 torch
 torchvision
 torchaudio
+pickle
+openpyxl
+matplotlib
+shap
