@@ -6,7 +6,7 @@ This repository hosts the implementation and resources for the **lncAPNet** comp
 
 ---
 
-## Overview
+## 🗺️ Overview
 
 lncAPNet is a novel computational pipeline built upon the recently reported **Activity PASNet (APNet)** framework  
 ([Gavriilidis et al., 2025](https://doi.org/10.1093/bioinformatics/btaf063)).  
@@ -25,7 +25,7 @@ These components are supported by biological priors and post hoc visualization m
 
 ---
 
-## Extensions Introduced by lncAPNet
+## 🧬 Extensions Introduced by lncAPNet
 
 lncAPNet expands the APNet toolbox by explicitly modeling **lncRNA-driven regulatory mechanisms**. The key extensions include:
 
@@ -37,21 +37,19 @@ lncAPNet expands the APNet toolbox by explicitly modeling **lncRNA-driven regula
 
 ---
 
-## Pipeline Status
+## 🛠️ Pipeline Status
 
-### Nextflow - Main Pipeline
+### ✅ Nextflow - Main Pipeline
 
 - [Nextflow Installation Instructions](https://nf-co.re/docs/get_started/environment_setup/nextflow)
 
 - A **Nextflow-based implementation** of the lncAPNet pipeline is now available for **bulk RNAseq** to improve scalability, portability, and reproducibility.
 
-### Post-Hoc Analysis Requirments
+### 🚧 Post-Hoc Analysis Requirments [Under Active Development]
 
 #### Requirments
 
-Nextflow/Setup/PostHocAnalysis_requirments.txt
-
-🚧 **Post-hoc analyses Python Colab notebooks (connected with Nextflow pipeline) is under active development**
+✅ Nextflow/Setup/PostHocAnalysis_requirments.txt
 
 - ✅ 1.PASNet_output_analysis.ipynb
   
@@ -61,13 +59,11 @@ Nextflow/Setup/PostHocAnalysis_requirments.txt
   
 - ✅ 4.DataBases_Validation.ipynb
 
-### scRNAseq data
-
-🚧 **For scRNAseq data - Future Steps**
+### 🚧 scRNAseq data Nextflow Implementation [Future Steps]
 
 ---
 
-## Nextflow Implementation
+## 💻 Nextflow Implementation
 
 Define the local path for `input` in the `Nextflow/pipeline/conf/local.config` file.
 If using singularity, in the same file, uncomment and update the local path to where the singularity containers are stored.
@@ -87,7 +83,7 @@ If you are using a Unix terminal, you need to convert the scripts to Unix format
 dos2unix ./bin/*
 ```
 
-### Example from Nextflow_demo/data toy dataset
+### ⚙️ Example from Nextflow_demo/data toy dataset
 
 ```
 nextflow run main.nf -profile docker --input ../Nextflow_demo/data/test_eset.rds --outdir output --gene_info ../Nextflow_demo/data/gene_info.xlsx --group0 "M" --group1 "U" --comparison "IGHV"
