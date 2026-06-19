@@ -53,8 +53,11 @@ Nextflow/Setup/PostHocAnalysis_requirments.txt
 🚧 **Post-hoc analyses Python Colab notebooks (connected with Nextflow pipeline) is under active development**
 
 - ✅ 1.PASNet_output_analysis.ipynb
+  
 - ✅ 2.PostHoc_Graphs.ipynb
+  
 - 🚧 3.Clinical_Covariates.ipynb
+  
 - ✅ 4.DataBases_Validation.ipynb
 
 ### scRNAseq data
