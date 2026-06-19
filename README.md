@@ -67,7 +67,7 @@ Nextflow/Setup/PostHocAnalysis_requirments.txt
 
 ---
 
-## Implementation
+## Nextflow Implementation
 
 Define the local path for `input` in the `Nextflow/pipeline/conf/local.config` file.
 If using singularity, in the same file, uncomment and update the local path to where the singularity containers are stored.
