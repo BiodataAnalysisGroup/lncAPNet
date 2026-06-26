@@ -45,7 +45,7 @@ lncAPNet expands the APNet toolbox by explicitly modeling **lncRNA-driven regula
 
 - A **Nextflow-based implementation** of the lncAPNet pipeline is now available for **bulk RNAseq** to improve scalability, portability, and reproducibility.
 
-### 🚧 Post-Hoc Analysis Requirments [Under Active Development]
+### ✅ Post-Hoc Analysis Requirments [Under Active Development]
 
 #### 📋 Requirments
 
@@ -57,7 +57,7 @@ lncAPNet expands the APNet toolbox by explicitly modeling **lncRNA-driven regula
   
 - ✅ 2.PostHoc_Graphs.ipynb
   
-- 🚧 3.Clinical_Covariates.ipynb
+- ✅ 3.Clinical_Covariates.ipynb
   
 - ✅ 4.DataBases_Validation.ipynb
 
