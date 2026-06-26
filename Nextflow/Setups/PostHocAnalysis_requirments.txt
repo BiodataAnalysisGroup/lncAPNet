@@ -16,3 +16,4 @@ seaborn
 igraph
 leidenalg
 umap-learn
+lifelines
